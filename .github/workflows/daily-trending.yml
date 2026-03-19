@@ -1,0 +1,56 @@
+name: Daily Trending Pipeline
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install script dependencies
+        run: cd scripts && npm ci
+
+      - name: Scrape GitHub Trending
+        run: node scripts/scrape-trending.mjs
+
+      - name: Fork repos to org
+        env:
+          GH_TOKEN: ${{ secrets.ORG_FORK_TOKEN }}
+        run: bash scripts/fork-to-org.sh
+
+      - name: Build data index
+        run: node scripts/build-index.mjs
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: trending $(date +%Y-%m-%d)"
+          git push
+
+      - name: Install site dependencies
+        run: cd site && npm ci
+
+      - name: Build site
+        run: cd site && npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: pages deploy site/build --project-name=awesome-oss-trending

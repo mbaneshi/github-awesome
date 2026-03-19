@@ -2,3 +2,13 @@
 19-march/
 *-march/
 *-feb/
+
+# Node
+node_modules/
+
+# SvelteKit build output
+site/build/
+site/.svelte-kit/
+
+# Site data (copied from data/ at build time)
+site/src/data/

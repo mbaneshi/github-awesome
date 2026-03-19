@@ -46,7 +46,7 @@
 		margin-bottom: 0.25rem;
 	}
 	.subtitle {
-		color: #656d76;
+		color: var(--muted);
 		font-size: 1.05rem;
 	}
 	.stats {
@@ -55,7 +55,7 @@
 		justify-content: center;
 		gap: 1.5rem;
 		font-size: 0.85rem;
-		color: #656d76;
+		color: var(--muted);
 	}
 	.language-pills {
 		display: flex;
@@ -65,14 +65,14 @@
 		margin-bottom: 2rem;
 	}
 	.pill {
-		background: #fff;
-		border: 1px solid #d0d7de;
+		background: var(--pill-bg);
+		border: 1px solid var(--border);
 		border-radius: 999px;
 		padding: 0.25rem 0.75rem;
 		font-size: 0.8rem;
-		color: #444;
+		color: var(--text-secondary);
 	}
-	.pill small { color: #888; }
+	.pill small { color: var(--muted); }
 	.repo-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));

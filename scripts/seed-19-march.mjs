@@ -48,16 +48,28 @@ const repoMap = {
   'autoresearch': 'uditgoenka/autoresearch',
 };
 
+function stripMarkup(text) {
+  return text
+    .replace(/<[^>]+>/g, '')           // strip HTML tags
+    .replace(/\*\*([^*]+)\*\*/g, '$1') // **bold** → bold
+    .replace(/\*([^*]+)\*/g, '$1')     // *italic* → italic
+    .replace(/`([^`]+)`/g, '$1')       // `code` → code
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // [text](url) → text
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '') // ![alt](img) → remove
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function getDescription(dir) {
   const readmePath = join(CLONES_DIR, dir, 'README.md');
   if (!existsSync(readmePath)) return null;
   const content = readFileSync(readmePath, 'utf-8');
-  // First non-empty, non-heading line
   const lines = content.split('\n');
   for (const line of lines) {
     const trimmed = line.trim();
     if (trimmed && !trimmed.startsWith('#') && !trimmed.startsWith('!') && !trimmed.startsWith('[') && trimmed.length > 10) {
-      return trimmed.slice(0, 200);
+      const clean = stripMarkup(trimmed);
+      if (clean.length > 10) return clean.slice(0, 200);
     }
   }
   return null;

@@ -27,10 +27,10 @@
 
 <style>
 	.page-header { margin-bottom: 1.5rem; }
-	.back { color: #0969da; text-decoration: none; font-size: 0.85rem; }
+	.back { color: var(--accent); text-decoration: none; font-size: 0.85rem; }
 	.back:hover { text-decoration: underline; }
 	h1 { margin-top: 0.5rem; }
-	.subtitle { color: #656d76; }
+	.subtitle { color: var(--muted); }
 	.repo-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));

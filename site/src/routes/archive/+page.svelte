@@ -26,7 +26,7 @@
 
 <style>
 	h1 { margin-bottom: 0.25rem; }
-	.subtitle { color: #656d76; margin-bottom: 1.5rem; }
+	.subtitle { color: var(--muted); margin-bottom: 1.5rem; }
 	.archive-list {
 		display: flex;
 		flex-direction: column;
@@ -37,15 +37,15 @@
 		align-items: center;
 		gap: 1rem;
 		padding: 1rem 1.25rem;
-		background: #fff;
-		border: 1px solid #e1e4e8;
+		background: var(--card-bg);
+		border: 1px solid var(--border);
 		border-radius: 8px;
 		text-decoration: none;
 		color: inherit;
 		transition: border-color 0.15s;
 	}
-	.day-card:hover { border-color: #0969da; }
-	.date { font-weight: 600; color: #0969da; min-width: 7rem; }
-	.count { font-size: 0.85rem; color: #656d76; min-width: 5rem; }
-	.preview { font-size: 0.85rem; color: #888; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+	.day-card:hover { border-color: var(--accent); }
+	.date { font-weight: 600; color: var(--accent); min-width: 7rem; }
+	.count { font-size: 0.85rem; color: var(--muted); min-width: 5rem; }
+	.preview { font-size: 0.85rem; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 </style>

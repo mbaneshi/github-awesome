@@ -25,6 +25,20 @@
 
 	const langColor = $derived(repo.language ? (languageColors[repo.language] || '#888') : '#888');
 	const orgUrl = $derived(`https://github.com/awesome-oss-trending/${repo.name}`);
+
+	function cleanDescription(text: string): string {
+		return text
+			.replace(/<[^>]+>/g, '')
+			.replace(/\*\*([^*]+)\*\*/g, '$1')
+			.replace(/\*([^*]+)\*/g, '$1')
+			.replace(/`([^`]+)`/g, '$1')
+			.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+			.replace(/!\[([^\]]*)\]\([^)]+\)/g, '')
+			.replace(/\s+/g, ' ')
+			.trim();
+	}
+
+	const description = $derived(repo.description ? cleanDescription(repo.description) : null);
 </script>
 
 <article class="repo-card">
@@ -39,8 +53,8 @@
 		{/if}
 	</div>
 
-	{#if repo.description}
-		<p class="description">{repo.description}</p>
+	{#if description}
+		<p class="description">{description}</p>
 	{/if}
 
 	<div class="repo-meta">
@@ -61,14 +75,15 @@
 
 <style>
 	.repo-card {
-		border: 1px solid #e1e4e8;
+		border: 1px solid var(--border);
 		border-radius: 8px;
 		padding: 1.25rem;
+		background: var(--card-bg);
 		transition: border-color 0.15s, box-shadow 0.15s;
 	}
 	.repo-card:hover {
-		border-color: #0969da;
-		box-shadow: 0 1px 6px rgba(9, 105, 218, 0.1);
+		border-color: var(--accent);
+		box-shadow: 0 1px 6px rgba(9, 105, 218, 0.15);
 	}
 	.repo-header {
 		display: flex;
@@ -80,23 +95,23 @@
 	.repo-name {
 		font-size: 1.1rem;
 		font-weight: 600;
-		color: #0969da;
+		color: var(--accent);
 		text-decoration: none;
 		word-break: break-word;
 	}
 	.repo-name:hover { text-decoration: underline; }
-	.owner { color: #656d76; font-weight: 400; }
+	.owner { color: var(--muted); font-weight: 400; }
 	.stars {
 		flex-shrink: 0;
 		font-size: 0.85rem;
-		color: #656d76;
+		color: var(--muted);
 		display: flex;
 		align-items: center;
 		gap: 0.25rem;
 	}
 	.stars::before { content: '\2605'; }
 	.description {
-		color: #444;
+		color: var(--text-secondary);
 		font-size: 0.9rem;
 		line-height: 1.5;
 		margin: 0 0 0.75rem;
@@ -105,7 +120,7 @@
 		display: flex;
 		gap: 1rem;
 		font-size: 0.8rem;
-		color: #656d76;
+		color: var(--muted);
 		align-items: center;
 		flex-wrap: wrap;
 	}
@@ -125,15 +140,15 @@
 		font-weight: 500;
 	}
 	.org-link {
-		color: #656d76;
+		color: var(--muted);
 		text-decoration: none;
 		font-size: 0.75rem;
-		border: 1px solid #d0d7de;
+		border: 1px solid var(--border);
 		border-radius: 4px;
 		padding: 0.1rem 0.4rem;
 	}
 	.org-link:hover {
-		color: #0969da;
-		border-color: #0969da;
+		color: var(--accent);
+		border-color: var(--accent);
 	}
 </style>

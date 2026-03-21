@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-21",
+  "scraped_at": "2026-03-21T06:43:49.666Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "total_stars": 9775,
+      "stars_today": 1068,
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "clone_url": "https://github.com/jarrodwatts/claude-hud.git"
+    },
+    {
+      "owner": "langchain-ai",
+      "name": "open-swe",
+      "full_name": "langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "total_stars": 7752,
+      "stars_today": 635,
+      "url": "https://github.com/langchain-ai/open-swe",
+      "clone_url": "https://github.com/langchain-ai/open-swe.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 101972,
+      "stars_today": 2819,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "total_stars": 7275,
+      "stars_today": 1812,
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "clone_url": "https://github.com/opendataloader-project/opendataloader-pdf.git"
+    },
+    {
+      "owner": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "total_stars": 11705,
+      "stars_today": 1045,
+      "url": "https://github.com/louis-e/arnis",
+      "clone_url": "https://github.com/louis-e/arnis.git"
+    },
+    {
+      "owner": "newton-physics",
+      "name": "newton",
+      "full_name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "total_stars": 3532,
+      "stars_today": 266,
+      "url": "https://github.com/newton-physics/newton",
+      "clone_url": "https://github.com/newton-physics/newton.git"
+    },
+    {
+      "owner": "vas3k",
+      "name": "TaxHacker",
+      "full_name": "vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "language": "TypeScript",
+      "total_stars": 2054,
+      "stars_today": 137,
+      "url": "https://github.com/vas3k/TaxHacker",
+      "clone_url": "https://github.com/vas3k/TaxHacker.git"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "total_stars": 34417,
+      "stars_today": 433,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "clone_url": "https://github.com/TauricResearch/TradingAgents.git"
+    },
+    {
+      "owner": "openrocket",
+      "name": "openrocket",
+      "full_name": "openrocket/openrocket",
+      "description": "Model-rocketry aerodynamics and trajectory simulation software",
+      "language": "Java",
+      "total_stars": 2273,
+      "stars_today": 144,
+      "url": "https://github.com/openrocket/openrocket",
+      "clone_url": "https://github.com/openrocket/openrocket.git"
+    }
+  ]
+}

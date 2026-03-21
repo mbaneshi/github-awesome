@@ -1,9 +1,9 @@
 {
   "JavaScript": 17,
-  "Python": 13,
+  "Python": 14,
   "Rust": 3,
   "Shell": 2,
-  "Java": 1,
-  "Kotlin": 1,
-  "TypeScript": 1
+  "Java": 2,
+  "TypeScript": 2,
+  "Kotlin": 1
 }

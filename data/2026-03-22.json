@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-22",
+  "scraped_at": "2026-03-22T06:53:12.781Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "total_stars": 18154,
+      "stars_today": 283,
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "clone_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2.git"
+    },
+    {
+      "owner": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "total_stars": 15794,
+      "stars_today": 58,
+      "url": "https://github.com/systemd/systemd",
+      "clone_url": "https://github.com/systemd/systemd.git"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "total_stars": 33440,
+      "stars_today": 39,
+      "url": "https://github.com/aquasecurity/trivy",
+      "clone_url": "https://github.com/aquasecurity/trivy.git"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "total_stars": 7260,
+      "stars_today": 2032,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "clone_url": "https://github.com/Crosstalk-Solutions/project-nomad.git"
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "total_stars": 8024,
+      "stars_today": 950,
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "clone_url": "https://github.com/opendataloader-project/opendataloader-pdf.git"
+    },
+    {
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "full_name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "total_stars": 10674,
+      "stars_today": 970,
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "clone_url": "https://github.com/jarrodwatts/claude-hud.git"
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "total_stars": 70962,
+      "stars_today": 7,
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "clone_url": "https://github.com/protocolbuffers/protobuf.git"
+    },
+    {
+      "owner": "vllm-project",
+      "name": "vllm-omni",
+      "full_name": "vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "language": "Python",
+      "total_stars": 3562,
+      "stars_today": 71,
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "clone_url": "https://github.com/vllm-project/vllm-omni.git"
+    },
+    {
+      "owner": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "total_stars": 12334,
+      "stars_today": 690,
+      "url": "https://github.com/louis-e/arnis",
+      "clone_url": "https://github.com/louis-e/arnis.git"
+    }
+  ]
+}

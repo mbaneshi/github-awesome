@@ -1,12 +1,12 @@
 {
-  "JavaScript": 17,
-  "Python": 15,
+  "Python": 21,
+  "JavaScript": 18,
   "TypeScript": 3,
   "Rust": 3,
+  "Go": 2,
   "Java": 2,
   "Shell": 2,
   "C": 1,
-  "Go": 1,
   "C++": 1,
   "Kotlin": 1
 }

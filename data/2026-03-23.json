@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-23",
+  "scraped_at": "2026-03-23T07:11:25.894Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "total_stars": 20628,
+      "stars_today": 1787,
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "clone_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2.git"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "total_stars": 37997,
+      "stars_today": 1051,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "clone_url": "https://github.com/TauricResearch/TradingAgents.git"
+    },
+    {
+      "owner": "vxcontrol",
+      "name": "pentagi",
+      "full_name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "total_stars": 12373,
+      "stars_today": 1069,
+      "url": "https://github.com/vxcontrol/pentagi",
+      "clone_url": "https://github.com/vxcontrol/pentagi.git"
+    },
+    {
+      "owner": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "full_name": "jamwithai/production-agentic-rag-course",
+      "description": null,
+      "language": "Python",
+      "total_stars": 4918,
+      "stars_today": 237,
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "clone_url": "https://github.com/jamwithai/production-agentic-rag-course.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "everything-claude-code",
+      "full_name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 99327,
+      "stars_today": 3724,
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "clone_url": "https://github.com/affaan-m/everything-claude-code.git"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "total_stars": 11006,
+      "stars_today": 2300,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "clone_url": "https://github.com/Crosstalk-Solutions/project-nomad.git"
+    },
+    {
+      "owner": "systemd",
+      "name": "systemd",
+      "full_name": "systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "total_stars": 16056,
+      "stars_today": 313,
+      "url": "https://github.com/systemd/systemd",
+      "clone_url": "https://github.com/systemd/systemd.git"
+    },
+    {
+      "owner": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "total_stars": 82943,
+      "stars_today": 428,
+      "url": "https://github.com/browser-use/browser-use",
+      "clone_url": "https://github.com/browser-use/browser-use.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "LightRAG",
+      "full_name": "HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "language": "Python",
+      "total_stars": 30176,
+      "stars_today": 220,
+      "url": "https://github.com/HKUDS/LightRAG",
+      "clone_url": "https://github.com/HKUDS/LightRAG.git"
+    },
+    {
+      "owner": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "total_stars": 20019,
+      "stars_today": 230,
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "clone_url": "https://github.com/hsliuping/TradingAgents-CN.git"
+    },
+    {
+      "owner": "louis-e",
+      "name": "arnis",
+      "full_name": "louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "total_stars": 12879,
+      "stars_today": 582,
+      "url": "https://github.com/louis-e/arnis",
+      "clone_url": "https://github.com/louis-e/arnis.git"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "total_stars": 33746,
+      "stars_today": 251,
+      "url": "https://github.com/aquasecurity/trivy",
+      "clone_url": "https://github.com/aquasecurity/trivy.git"
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "total_stars": 36377,
+      "stars_today": 1690,
+      "url": "https://github.com/bytedance/deer-flow",
+      "clone_url": "https://github.com/bytedance/deer-flow.git"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "total_stars": 51342,
+      "stars_today": 189,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "clone_url": "https://github.com/harry0703/MoneyPrinterTurbo.git"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-25",
+  "scraped_at": "2026-03-25T07:03:11.894Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "total_stars": 5929,
+      "stars_today": 1449,
+      "url": "https://github.com/pascalorg/editor",
+      "clone_url": "https://github.com/pascalorg/editor.git"
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "total_stars": 44411,
+      "stars_today": 4346,
+      "url": "https://github.com/bytedance/deer-flow",
+      "clone_url": "https://github.com/bytedance/deer-flow.git"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "total_stars": 18797,
+      "stars_today": 344,
+      "url": "https://github.com/supermemoryai/supermemory",
+      "clone_url": "https://github.com/supermemoryai/supermemory.git"
+    },
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "total_stars": 25071,
+      "stars_today": 3006,
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "clone_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2.git"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "total_stars": 52867,
+      "stars_today": 728,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "clone_url": "https://github.com/harry0703/MoneyPrinterTurbo.git"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "total_stars": 15679,
+      "stars_today": 2513,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "clone_url": "https://github.com/Crosstalk-Solutions/project-nomad.git"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "total_stars": 41240,
+      "stars_today": 1760,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "clone_url": "https://github.com/TauricResearch/TradingAgents.git"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 5913,
+      "stars_today": 209,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "total_stars": 25366,
+      "stars_today": 1397,
+      "url": "https://github.com/ruvnet/ruflo",
+      "clone_url": "https://github.com/ruvnet/ruflo.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 12776,
+      "stars_today": 1278,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "hesreallyhim",
+      "name": "awesome-claude-code",
+      "full_name": "hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "language": "Python",
+      "total_stars": 32100,
+      "stars_today": 995,
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "clone_url": "https://github.com/hesreallyhim/awesome-claude-code.git"
+    },
+    {
+      "owner": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "total_stars": 21019,
+      "stars_today": 557,
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "clone_url": "https://github.com/hsliuping/TradingAgents-CN.git"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "total_stars": 34049,
+      "stars_today": 104,
+      "url": "https://github.com/aquasecurity/trivy",
+      "clone_url": "https://github.com/aquasecurity/trivy.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 41559,
+      "stars_today": 861,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    }
+  ]
+}

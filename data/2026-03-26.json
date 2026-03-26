@@ -1,0 +1,139 @@
+{
+  "date": "2026-03-26",
+  "scraped_at": "2026-03-26T07:10:10.013Z",
+  "count": 12,
+  "repos": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 8381,
+      "stars_today": 1341,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "total_stars": 47049,
+      "stars_today": 3787,
+      "url": "https://github.com/bytedance/deer-flow",
+      "clone_url": "https://github.com/bytedance/deer-flow.git"
+    },
+    {
+      "owner": "BerriAI",
+      "name": "litellm",
+      "full_name": "BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "language": "Python",
+      "total_stars": 40803,
+      "stars_today": 301,
+      "url": "https://github.com/BerriAI/litellm",
+      "clone_url": "https://github.com/BerriAI/litellm.git"
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "total_stars": 7029,
+      "stars_today": 2353,
+      "url": "https://github.com/pascalorg/editor",
+      "clone_url": "https://github.com/pascalorg/editor.git"
+    },
+    {
+      "owner": "letta-ai",
+      "name": "claude-subconscious",
+      "full_name": "letta-ai/claude-subconscious",
+      "description": "Give Claude Code a subconscious",
+      "language": "TypeScript",
+      "total_stars": 1613,
+      "stars_today": 71,
+      "url": "https://github.com/letta-ai/claude-subconscious",
+      "clone_url": "https://github.com/letta-ai/claude-subconscious.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "full_name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "total_stars": 26454,
+      "stars_today": 1174,
+      "url": "https://github.com/ruvnet/ruflo",
+      "clone_url": "https://github.com/ruvnet/ruflo.git"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "total_stars": 16885,
+      "stars_today": 1718,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "clone_url": "https://github.com/Crosstalk-Solutions/project-nomad.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 42564,
+      "stars_today": 1082,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "total_stars": 19372,
+      "stars_today": 810,
+      "url": "https://github.com/supermemoryai/supermemory",
+      "clone_url": "https://github.com/supermemoryai/supermemory.git"
+    },
+    {
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "full_name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "total_stars": 25783,
+      "stars_today": 1065,
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "clone_url": "https://github.com/FujiwaraChoki/MoneyPrinterV2.git"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "total_stars": 21890,
+      "stars_today": 102,
+      "url": "https://github.com/usestrix/strix",
+      "clone_url": "https://github.com/usestrix/strix.git"
+    },
+    {
+      "owner": "hsliuping",
+      "name": "TradingAgents-CN",
+      "full_name": "hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "total_stars": 21471,
+      "stars_today": 449,
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "clone_url": "https://github.com/hsliuping/TradingAgents-CN.git"
+    }
+  ]
+}

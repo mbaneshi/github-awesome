@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-27",
+  "scraped_at": "2026-03-27T07:08:33.838Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 11043,
+      "stars_today": 2685,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "total_stars": 13056,
+      "stars_today": 598,
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "clone_url": "https://github.com/Yeachan-Heo/oh-my-claudecode.git"
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "total_stars": 19175,
+      "stars_today": 210,
+      "url": "https://github.com/virattt/dexter",
+      "clone_url": "https://github.com/virattt/dexter.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 43429,
+      "stars_today": 1002,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "full_name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "total_stars": 49188,
+      "stars_today": 2394,
+      "url": "https://github.com/bytedance/deer-flow",
+      "clone_url": "https://github.com/bytedance/deer-flow.git"
+    },
+    {
+      "owner": "Vaibhavs10",
+      "name": "insanely-fast-whisper",
+      "full_name": "Vaibhavs10/insanely-fast-whisper",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "total_stars": 11493,
+      "stars_today": 1370,
+      "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+      "clone_url": "https://github.com/Vaibhavs10/insanely-fast-whisper.git"
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "agentscope",
+      "full_name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "language": "Python",
+      "total_stars": 20767,
+      "stars_today": 437,
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "clone_url": "https://github.com/agentscope-ai/agentscope.git"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "total_stars": 41485,
+      "stars_today": 117,
+      "url": "https://github.com/twentyhq/twenty",
+      "clone_url": "https://github.com/twentyhq/twenty.git"
+    },
+    {
+      "owner": "datalab-to",
+      "name": "chandra",
+      "full_name": "datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "language": "Python",
+      "total_stars": 6384,
+      "stars_today": 557,
+      "url": "https://github.com/datalab-to/chandra",
+      "clone_url": "https://github.com/datalab-to/chandra.git"
+    }
+  ]
+}

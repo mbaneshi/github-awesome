@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-29",
+  "scraped_at": "2026-03-29T07:04:14.050Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "total_stars": 84569,
+      "stars_today": 1814,
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "clone_url": "https://github.com/hacksider/Deep-Live-Cam.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 121321,
+      "stars_today": 2292,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "SakanaAI",
+      "name": "AI-Scientist-v2",
+      "full_name": "SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "total_stars": 3616,
+      "stars_today": 506,
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "clone_url": "https://github.com/SakanaAI/AI-Scientist-v2.git"
+    },
+    {
+      "owner": "virattt",
+      "name": "dexter",
+      "full_name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "total_stars": 20314,
+      "stars_today": 581,
+      "url": "https://github.com/virattt/dexter",
+      "clone_url": "https://github.com/virattt/dexter.git"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "total_stars": 42529,
+      "stars_today": 563,
+      "url": "https://github.com/twentyhq/twenty",
+      "clone_url": "https://github.com/twentyhq/twenty.git"
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "total_stars": 19885,
+      "stars_today": 880,
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "clone_url": "https://github.com/onyx-dot-app/onyx.git"
+    },
+    {
+      "owner": "datalab-to",
+      "name": "chandra",
+      "full_name": "datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "language": "Python",
+      "total_stars": 7696,
+      "stars_today": 687,
+      "url": "https://github.com/datalab-to/chandra",
+      "clone_url": "https://github.com/datalab-to/chandra.git"
+    },
+    {
+      "owner": "agentscope-ai",
+      "name": "agentscope",
+      "full_name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "language": "Python",
+      "total_stars": 21735,
+      "stars_today": 398,
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "clone_url": "https://github.com/agentscope-ai/agentscope.git"
+    },
+    {
+      "owner": "apache",
+      "name": "superset",
+      "full_name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "total_stars": 71558,
+      "stars_today": 31,
+      "url": "https://github.com/apache/superset",
+      "clone_url": "https://github.com/apache/superset.git"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "date": "2026-03-30",
+  "scraped_at": "2026-03-30T07:28:30.617Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "total_stars": 8061,
+      "stars_today": 1165,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "clone_url": "https://github.com/luongnv89/claude-howto.git"
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "total_stars": 16565,
+      "stars_today": 835,
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "clone_url": "https://github.com/Yeachan-Heo/oh-my-claudecode.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "total_stars": 28034,
+      "stars_today": 1056,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "clone_url": "https://github.com/microsoft/VibeVoice.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 17302,
+      "stars_today": 917,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "OpenBB-finance",
+      "name": "OpenBB",
+      "full_name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "total_stars": 64179,
+      "stars_today": 137,
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "clone_url": "https://github.com/OpenBB-finance/OpenBB.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 123923,
+      "stars_today": 2230,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "total_stars": 42998,
+      "stars_today": 373,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "clone_url": "https://github.com/thedotmack/claude-mem.git"
+    },
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "total_stars": 85665,
+      "stars_today": 1132,
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "clone_url": "https://github.com/hacksider/Deep-Live-Cam.git"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 15852,
+      "stars_today": 1308,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "full_name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "total_stars": 43222,
+      "stars_today": 919,
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "clone_url": "https://github.com/shareAI-lab/learn-claude-code.git"
+    },
+    {
+      "owner": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "total_stars": 21234,
+      "stars_today": 37,
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "clone_url": "https://github.com/fastfetch-cli/fastfetch.git"
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "total_stars": 36495,
+      "stars_today": 224,
+      "url": "https://github.com/moeru-ai/airi",
+      "clone_url": "https://github.com/moeru-ai/airi.git"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "total_stars": 43090,
+      "stars_today": 447,
+      "url": "https://github.com/twentyhq/twenty",
+      "clone_url": "https://github.com/twentyhq/twenty.git"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-31",
+  "scraped_at": "2026-03-31T07:15:31.863Z",
+  "count": 10,
+  "repos": [
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "total_stars": 31609,
+      "stars_today": 2492,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "clone_url": "https://github.com/microsoft/VibeVoice.git"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "total_stars": 10760,
+      "stars_today": 4232,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "clone_url": "https://github.com/luongnv89/claude-howto.git"
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "total_stars": 26905,
+      "stars_today": 1108,
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "clone_url": "https://github.com/shanraisshan/claude-code-best-practice.git"
+    },
+    {
+      "owner": "hacksider",
+      "name": "Deep-Live-Cam",
+      "full_name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "total_stars": 86655,
+      "stars_today": 1136,
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "clone_url": "https://github.com/hacksider/Deep-Live-Cam.git"
+    },
+    {
+      "owner": "OpenBB-finance",
+      "name": "OpenBB",
+      "full_name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "total_stars": 64696,
+      "stars_today": 502,
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "clone_url": "https://github.com/OpenBB-finance/OpenBB.git"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "total_stars": 439959,
+      "stars_today": 368,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "clone_url": "https://github.com/freeCodeCamp/freeCodeCamp.git"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "total_stars": 74977,
+      "stars_today": 76,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "clone_url": "https://github.com/sherlock-project/sherlock.git"
+    },
+    {
+      "owner": "apache",
+      "name": "superset",
+      "full_name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "total_stars": 72063,
+      "stars_today": 49,
+      "url": "https://github.com/apache/superset",
+      "clone_url": "https://github.com/apache/superset.git"
+    },
+    {
+      "owner": "fastfetch-cli",
+      "name": "fastfetch",
+      "full_name": "fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "total_stars": 21484,
+      "stars_today": 276,
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "clone_url": "https://github.com/fastfetch-cli/fastfetch.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 19159,
+      "stars_today": 1851,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    }
+  ]
+}

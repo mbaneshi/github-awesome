@@ -1,0 +1,161 @@
+{
+  "date": "2026-04-01",
+  "scraped_at": "2026-04-01T07:21:29.081Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "total_stars": 14052,
+      "stars_today": 2390,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "clone_url": "https://github.com/luongnv89/claude-howto.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "total_stars": 33612,
+      "stars_today": 3863,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "clone_url": "https://github.com/microsoft/VibeVoice.git"
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "total_stars": 19784,
+      "stars_today": 1126,
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "clone_url": "https://github.com/Yeachan-Heo/oh-my-claudecode.git"
+    },
+    {
+      "owner": "shanraisshan",
+      "name": "claude-code-best-practice",
+      "full_name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "total_stars": 29409,
+      "stars_today": 2407,
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "clone_url": "https://github.com/shanraisshan/claude-code-best-practice.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 20799,
+      "stars_today": 1907,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 128911,
+      "stars_today": 2620,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "full_name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "total_stars": 16324,
+      "stars_today": 130,
+      "url": "https://github.com/microsoft/agent-lightning",
+      "clone_url": "https://github.com/microsoft/agent-lightning.git"
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "total_stars": 74423,
+      "stars_today": 439,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "clone_url": "https://github.com/PaddlePaddle/PaddleOCR.git"
+    },
+    {
+      "owner": "Dimillian",
+      "name": "Skills",
+      "full_name": "Dimillian/Skills",
+      "description": "My Codex Skills",
+      "language": "Shell",
+      "total_stars": 2996,
+      "stars_today": 115,
+      "url": "https://github.com/Dimillian/Skills",
+      "clone_url": "https://github.com/Dimillian/Skills.git"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "total_stars": 75738,
+      "stars_today": 865,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "clone_url": "https://github.com/sherlock-project/sherlock.git"
+    },
+    {
+      "owner": "neovim",
+      "name": "neovim",
+      "full_name": "neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "total_stars": 98012,
+      "stars_today": 93,
+      "url": "https://github.com/neovim/neovim",
+      "clone_url": "https://github.com/neovim/neovim.git"
+    },
+    {
+      "owner": "vas3k",
+      "name": "TaxHacker",
+      "full_name": "vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "language": "TypeScript",
+      "total_stars": 3885,
+      "stars_today": 318,
+      "url": "https://github.com/vas3k/TaxHacker",
+      "clone_url": "https://github.com/vas3k/TaxHacker.git"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "ChatDev",
+      "full_name": "OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "total_stars": 32497,
+      "stars_today": 84,
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "clone_url": "https://github.com/OpenBMB/ChatDev.git"
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "total_stars": 339882,
+      "stars_today": 873,
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "clone_url": "https://github.com/jwasham/coding-interview-university.git"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-02",
+  "scraped_at": "2026-04-02T07:13:49.082Z",
+  "count": 7,
+  "repos": [
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "total_stars": 103363,
+      "stars_today": 10749,
+      "url": "https://github.com/anthropics/claude-code",
+      "clone_url": "https://github.com/anthropics/claude-code.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "total_stars": 34745,
+      "stars_today": 1685,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "clone_url": "https://github.com/microsoft/VibeVoice.git"
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "total_stars": 12557,
+      "stars_today": 380,
+      "url": "https://github.com/google-research/timesfm",
+      "clone_url": "https://github.com/google-research/timesfm.git"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "total_stars": 16158,
+      "stars_today": 3301,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "clone_url": "https://github.com/luongnv89/claude-howto.git"
+    },
+    {
+      "owner": "axios",
+      "name": "axios",
+      "full_name": "axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "total_stars": 108916,
+      "stars_today": 93,
+      "url": "https://github.com/axios/axios",
+      "clone_url": "https://github.com/axios/axios.git"
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "total_stars": 72123,
+      "stars_today": 2390,
+      "url": "https://github.com/openai/codex",
+      "clone_url": "https://github.com/openai/codex.git"
+    },
+    {
+      "owner": "f",
+      "name": "prompts.chat",
+      "full_name": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "total_stars": 156333,
+      "stars_today": 398,
+      "url": "https://github.com/f/prompts.chat",
+      "clone_url": "https://github.com/f/prompts.chat.git"
+    }
+  ]
+}

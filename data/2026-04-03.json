@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-03",
+  "scraped_at": "2026-04-03T07:09:52.023Z",
+  "count": 4,
+  "repos": [
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "total_stars": 16681,
+      "stars_today": 2573,
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "clone_url": "https://github.com/siddharthvaddem/openscreen.git"
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "total_stars": 12520,
+      "stars_today": 2867,
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "clone_url": "https://github.com/Yeachan-Heo/oh-my-codex.git"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "language": null,
+      "total_stars": 36764,
+      "stars_today": 306,
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "clone_url": "https://github.com/asgeirtj/system_prompts_leaks.git"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "total_stars": 77655,
+      "stars_today": 827,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "clone_url": "https://github.com/sherlock-project/sherlock.git"
+    }
+  ]
+}

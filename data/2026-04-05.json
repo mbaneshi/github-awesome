@@ -1,0 +1,95 @@
+{
+  "date": "2026-04-05",
+  "scraped_at": "2026-04-05T07:07:40.296Z",
+  "count": 8,
+  "repos": [
+    {
+      "owner": "Blaizzy",
+      "name": "mlx-vlm",
+      "full_name": "Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "language": "Python",
+      "total_stars": 3698,
+      "stars_today": 343,
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "clone_url": "https://github.com/Blaizzy/mlx-vlm.git"
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "total_stars": 24479,
+      "stars_today": 1197,
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "clone_url": "https://github.com/onyx-dot-app/onyx.git"
+    },
+    {
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "full_name": "Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "total_stars": 15960,
+      "stars_today": 1789,
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "clone_url": "https://github.com/Yeachan-Heo/oh-my-codex.git"
+    },
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "total_stars": 20795,
+      "stars_today": 1591,
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "clone_url": "https://github.com/siddharthvaddem/openscreen.git"
+    },
+    {
+      "owner": "telegramdesktop",
+      "name": "tdesktop",
+      "full_name": "telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "total_stars": 30882,
+      "stars_today": 249,
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "clone_url": "https://github.com/telegramdesktop/tdesktop.git"
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "total_stars": 35844,
+      "stars_today": 935,
+      "url": "https://github.com/block/goose",
+      "clone_url": "https://github.com/block/goose.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "agent-framework",
+      "full_name": "microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "language": "Python",
+      "total_stars": 8793,
+      "stars_today": 72,
+      "url": "https://github.com/microsoft/agent-framework",
+      "clone_url": "https://github.com/microsoft/agent-framework.git"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "total_stars": 79567,
+      "stars_today": 994,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "clone_url": "https://github.com/sherlock-project/sherlock.git"
+    }
+  ]
+}

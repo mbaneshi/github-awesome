@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-06",
+  "scraped_at": "2026-04-06T07:44:03.902Z",
+  "count": 10,
+  "repos": [
+    {
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "full_name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "total_stars": 17295,
+      "stars_today": 389,
+      "url": "https://github.com/google-ai-edge/gallery",
+      "clone_url": "https://github.com/google-ai-edge/gallery.git"
+    },
+    {
+      "owner": "Blaizzy",
+      "name": "mlx-vlm",
+      "full_name": "Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "language": "Python",
+      "total_stars": 4020,
+      "stars_today": 416,
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "clone_url": "https://github.com/Blaizzy/mlx-vlm.git"
+    },
+    {
+      "owner": "siddharthvaddem",
+      "name": "openscreen",
+      "full_name": "siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "total_stars": 23016,
+      "stars_today": 2749,
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "clone_url": "https://github.com/siddharthvaddem/openscreen.git"
+    },
+    {
+      "owner": "block",
+      "name": "goose",
+      "full_name": "block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "total_stars": 37377,
+      "stars_today": 882,
+      "url": "https://github.com/block/goose",
+      "clone_url": "https://github.com/block/goose.git"
+    },
+    {
+      "owner": "onyx-dot-app",
+      "name": "onyx",
+      "full_name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "total_stars": 25237,
+      "stars_today": 998,
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "clone_url": "https://github.com/onyx-dot-app/onyx.git"
+    },
+    {
+      "owner": "badlogic",
+      "name": "pi-mono",
+      "full_name": "badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "total_stars": 32071,
+      "stars_today": 355,
+      "url": "https://github.com/badlogic/pi-mono",
+      "clone_url": "https://github.com/badlogic/pi-mono.git"
+    },
+    {
+      "owner": "dmtrKovalenko",
+      "name": "fff.nvim",
+      "full_name": "dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "total_stars": 3772,
+      "stars_today": 76,
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "clone_url": "https://github.com/dmtrKovalenko/fff.nvim.git"
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "description": null,
+      "language": "C++",
+      "total_stars": 1700,
+      "stars_today": 124,
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "clone_url": "https://github.com/google-ai-edge/LiteRT-LM.git"
+    },
+    {
+      "owner": "telegramdesktop",
+      "name": "tdesktop",
+      "full_name": "telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "total_stars": 31141,
+      "stars_today": 287,
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "clone_url": "https://github.com/telegramdesktop/tdesktop.git"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "total_stars": 441727,
+      "stars_today": 335,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "clone_url": "https://github.com/freeCodeCamp/freeCodeCamp.git"
+    }
+  ]
+}

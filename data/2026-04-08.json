@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-08",
+  "scraped_at": "2026-04-08T07:20:39.567Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "full_name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "total_stars": 19045,
+      "stars_today": 897,
+      "url": "https://github.com/google-ai-edge/gallery",
+      "clone_url": "https://github.com/google-ai-edge/gallery.git"
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "description": null,
+      "language": "C++",
+      "total_stars": 2705,
+      "stars_today": 528,
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "clone_url": "https://github.com/google-ai-edge/LiteRT-LM.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "personaplex",
+      "full_name": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "total_stars": 8110,
+      "stars_today": 662,
+      "url": "https://github.com/NVIDIA/personaplex",
+      "clone_url": "https://github.com/NVIDIA/personaplex.git"
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "total_stars": 24804,
+      "stars_today": 1195,
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "clone_url": "https://github.com/abhigyanpatwari/GitNexus.git"
+    },
+    {
+      "owner": "tobi",
+      "name": "qmd",
+      "full_name": "tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "language": "TypeScript",
+      "total_stars": 19785,
+      "stars_today": 859,
+      "url": "https://github.com/tobi/qmd",
+      "clone_url": "https://github.com/tobi/qmd.git"
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "description": null,
+      "language": null,
+      "total_stars": 8260,
+      "stars_today": 51,
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "clone_url": "https://github.com/forrestchang/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "elebumm",
+      "name": "RedditVideoMakerBot",
+      "full_name": "elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "total_stars": 10175,
+      "stars_today": 636,
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "clone_url": "https://github.com/elebumm/RedditVideoMakerBot.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "total_stars": 12551,
+      "stars_today": 168,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "clone_url": "https://github.com/HKUDS/DeepTutor.git"
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "total_stars": 4076,
+      "stars_today": 215,
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "clone_url": "https://github.com/TheCraigHewitt/seomachine.git"
+    }
+  ]
+}

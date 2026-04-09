@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-09",
+  "scraped_at": "2026-04-09T07:23:35.566Z",
+  "count": 11,
+  "repos": [
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 9447,
+      "stars_today": 702,
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "clone_url": "https://github.com/forrestchang/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "total_stars": 4802,
+      "stars_today": 649,
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "clone_url": "https://github.com/TheCraigHewitt/seomachine.git"
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "gallery",
+      "full_name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "total_stars": 19685,
+      "stars_today": 853,
+      "url": "https://github.com/google-ai-edge/gallery",
+      "clone_url": "https://github.com/google-ai-edge/gallery.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "personaplex",
+      "full_name": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "total_stars": 8580,
+      "stars_today": 586,
+      "url": "https://github.com/NVIDIA/personaplex",
+      "clone_url": "https://github.com/NVIDIA/personaplex.git"
+    },
+    {
+      "owner": "google-ai-edge",
+      "name": "LiteRT-LM",
+      "full_name": "google-ai-edge/LiteRT-LM",
+      "description": null,
+      "language": "C++",
+      "total_stars": 3091,
+      "stars_today": 501,
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "clone_url": "https://github.com/google-ai-edge/LiteRT-LM.git"
+    },
+    {
+      "owner": "elebumm",
+      "name": "RedditVideoMakerBot",
+      "full_name": "elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "total_stars": 10624,
+      "stars_today": 555,
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "clone_url": "https://github.com/elebumm/RedditVideoMakerBot.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 142259,
+      "stars_today": 2028,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "newton-physics",
+      "name": "newton",
+      "full_name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "total_stars": 4194,
+      "stars_today": 91,
+      "url": "https://github.com/newton-physics/newton",
+      "clone_url": "https://github.com/newton-physics/newton.git"
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "total_stars": 25529,
+      "stars_today": 980,
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "clone_url": "https://github.com/abhigyanpatwari/GitNexus.git"
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "total_stars": 50850,
+      "stars_today": 151,
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "clone_url": "https://github.com/virattt/ai-hedge-fund.git"
+    },
+    {
+      "owner": "goharbor",
+      "name": "harbor",
+      "full_name": "goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "language": "Go",
+      "total_stars": 28188,
+      "stars_today": 42,
+      "url": "https://github.com/goharbor/harbor",
+      "clone_url": "https://github.com/goharbor/harbor.git"
+    }
+  ]
+}

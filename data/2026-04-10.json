@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-10",
+  "scraped_at": "2026-04-10T07:28:35.021Z",
+  "count": 10,
+  "repos": [
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 47342,
+      "stars_today": 6485,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 10959,
+      "stars_today": 1364,
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "clone_url": "https://github.com/forrestchang/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "total_stars": 15312,
+      "stars_today": 1310,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "clone_url": "https://github.com/HKUDS/DeepTutor.git"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "total_stars": 7982,
+      "stars_today": 496,
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "clone_url": "https://github.com/OpenBMB/VoxCPM.git"
+    },
+    {
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "full_name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "total_stars": 14187,
+      "stars_today": 1124,
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "clone_url": "https://github.com/opendataloader-project/opendataloader-pdf.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 144393,
+      "stars_today": 2299,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "TheCraigHewitt",
+      "name": "seomachine",
+      "full_name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "total_stars": 5348,
+      "stars_today": 725,
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "clone_url": "https://github.com/TheCraigHewitt/seomachine.git"
+    },
+    {
+      "owner": "coleam00",
+      "name": "Archon",
+      "full_name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "language": "TypeScript",
+      "total_stars": 14615,
+      "stars_today": 185,
+      "url": "https://github.com/coleam00/Archon",
+      "clone_url": "https://github.com/coleam00/Archon.git"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "total_stars": 12376,
+      "stars_today": 245,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "clone_url": "https://github.com/shiyu-coder/Kronos.git"
+    },
+    {
+      "owner": "YishenTu",
+      "name": "claudian",
+      "full_name": "YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "language": "TypeScript",
+      "total_stars": 7028,
+      "stars_today": 200,
+      "url": "https://github.com/YishenTu/claudian",
+      "clone_url": "https://github.com/YishenTu/claudian.git"
+    }
+  ]
+}

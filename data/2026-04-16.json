@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-16",
+  "scraped_at": "2026-04-16T07:47:19.775Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "forrestchang",
+      "name": "andrej-karpathy-skills",
+      "full_name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 45373,
+      "stars_today": 9646,
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "clone_url": "https://github.com/forrestchang/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "total_stars": 12911,
+      "stars_today": 1391,
+      "url": "https://github.com/pascalorg/editor",
+      "clone_url": "https://github.com/pascalorg/editor.git"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "total_stars": 58352,
+      "stars_today": 2305,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "clone_url": "https://github.com/thedotmack/claude-mem.git"
+    },
+    {
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "full_name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "total_stars": 30057,
+      "stars_today": 941,
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "clone_url": "https://github.com/Lordog/dive-into-llms.git"
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "total_stars": 55366,
+      "stars_today": 1058,
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "clone_url": "https://github.com/virattt/ai-hedge-fund.git"
+    },
+    {
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "full_name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "total_stars": 66895,
+      "stars_today": 606,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "clone_url": "https://github.com/chrislgarry/Apollo-11.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 154986,
+      "stars_today": 2055,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "total_stars": 18553,
+      "stars_today": 1062,
+      "url": "https://github.com/jamiepine/voicebox",
+      "clone_url": "https://github.com/jamiepine/voicebox.git"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "total_stars": 423791,
+      "stars_today": 950,
+      "url": "https://github.com/public-apis/public-apis",
+      "clone_url": "https://github.com/public-apis/public-apis.git"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "open-agents",
+      "full_name": "vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "total_stars": 2848,
+      "stars_today": 915,
+      "url": "https://github.com/vercel-labs/open-agents",
+      "clone_url": "https://github.com/vercel-labs/open-agents.git"
+    },
+    {
+      "owner": "lsdefine",
+      "name": "GenericAgent",
+      "full_name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "total_stars": 2241,
+      "stars_today": 446,
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "clone_url": "https://github.com/lsdefine/GenericAgent.git"
+    },
+    {
+      "owner": "google",
+      "name": "magika",
+      "full_name": "google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "language": "Python",
+      "total_stars": 14035,
+      "stars_today": 768,
+      "url": "https://github.com/google/magika",
+      "clone_url": "https://github.com/google/magika.git"
+    },
+    {
+      "owner": "Donchitos",
+      "name": "Claude-Code-Game-Studios",
+      "full_name": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "total_stars": 10930,
+      "stars_today": 612,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "clone_url": "https://github.com/Donchitos/Claude-Code-Game-Studios.git"
+    }
+  ]
+}

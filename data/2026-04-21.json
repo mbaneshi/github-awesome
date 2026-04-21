@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-21",
+  "scraped_at": "2026-04-21T07:51:16.960Z",
+  "count": 10,
+  "repos": [
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "total_stars": 10388,
+      "stars_today": 3109,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "clone_url": "https://github.com/Fincept-Corporation/FinceptTerminal.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 48501,
+      "stars_today": 713,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "thunderbird",
+      "name": "thunderbolt",
+      "full_name": "thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "total_stars": 3003,
+      "stars_today": 675,
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "clone_url": "https://github.com/thunderbird/thunderbolt.git"
+    },
+    {
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "total_stars": 39573,
+      "stars_today": 606,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "clone_url": "https://github.com/paperless-ngx/paperless-ngx.git"
+    },
+    {
+      "owner": "tractorjuice",
+      "name": "arc-kit",
+      "full_name": "tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "language": "HTML",
+      "total_stars": 1442,
+      "stars_today": 329,
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "clone_url": "https://github.com/tractorjuice/arc-kit.git"
+    },
+    {
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "full_name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "total_stars": 50547,
+      "stars_today": 316,
+      "url": "https://github.com/koala73/worldmonitor",
+      "clone_url": "https://github.com/koala73/worldmonitor.git"
+    },
+    {
+      "owner": "openai",
+      "name": "openai-agents-python",
+      "full_name": "openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "total_stars": 24162,
+      "stars_today": 905,
+      "url": "https://github.com/openai/openai-agents-python",
+      "clone_url": "https://github.com/openai/openai-agents-python.git"
+    },
+    {
+      "owner": "deepseek-ai",
+      "name": "DeepGEMM",
+      "full_name": "deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "total_stars": 6895,
+      "stars_today": 109,
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "clone_url": "https://github.com/deepseek-ai/DeepGEMM.git"
+    },
+    {
+      "owner": "pi-hole",
+      "name": "pi-hole",
+      "full_name": "pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "total_stars": 57440,
+      "stars_today": 196,
+      "url": "https://github.com/pi-hole/pi-hole",
+      "clone_url": "https://github.com/pi-hole/pi-hole.git"
+    },
+    {
+      "owner": "XTLS",
+      "name": "Xray-core",
+      "full_name": "XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "total_stars": 37578,
+      "stars_today": 78,
+      "url": "https://github.com/XTLS/Xray-core",
+      "clone_url": "https://github.com/XTLS/Xray-core.git"
+    }
+  ]
+}

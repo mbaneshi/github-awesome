@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-27",
+  "scraped_at": "2026-04-27T08:26:18.043Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 25784,
+      "stars_today": 2519,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "language": "Python",
+      "total_stars": 14727,
+      "stars_today": 1701,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "clone_url": "https://github.com/Alishahryar1/free-claude-code.git"
+    },
+    {
+      "owner": "Z4nzu",
+      "name": "hackingtool",
+      "full_name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "total_stars": 66148,
+      "stars_today": 1720,
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "clone_url": "https://github.com/Z4nzu/hackingtool.git"
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "total_stars": 30540,
+      "stars_today": 700,
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "clone_url": "https://github.com/abhigyanpatwari/GitNexus.git"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "language": "Python",
+      "total_stars": 34009,
+      "stars_today": 337,
+      "url": "https://github.com/PostHog/posthog",
+      "clone_url": "https://github.com/PostHog/posthog.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "typescript-go",
+      "full_name": "microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "total_stars": 25211,
+      "stars_today": 23,
+      "url": "https://github.com/microsoft/typescript-go",
+      "clone_url": "https://github.com/microsoft/typescript-go.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "total_stars": 14585,
+      "stars_today": 182,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "gastownhall",
+      "name": "beads",
+      "full_name": "gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "total_stars": 21872,
+      "stars_today": 152,
+      "url": "https://github.com/gastownhall/beads",
+      "clone_url": "https://github.com/gastownhall/beads.git"
+    },
+    {
+      "owner": "curl",
+      "name": "curl",
+      "full_name": "curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "total_stars": 41658,
+      "stars_today": 30,
+      "url": "https://github.com/curl/curl",
+      "clone_url": "https://github.com/curl/curl.git"
+    },
+    {
+      "owner": "home-assistant",
+      "name": "core",
+      "full_name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "total_stars": 86711,
+      "stars_today": 73,
+      "url": "https://github.com/home-assistant/core",
+      "clone_url": "https://github.com/home-assistant/core.git"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "total_stars": 497148,
+      "stars_today": 1075,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "clone_url": "https://github.com/codecrafters-io/build-your-own-x.git"
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "total_stars": 365007,
+      "stars_today": 627,
+      "url": "https://github.com/openclaw/openclaw",
+      "clone_url": "https://github.com/openclaw/openclaw.git"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "total_stars": 2263,
+      "stars_today": 517,
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "clone_url": "https://github.com/ComposioHQ/awesome-codex-skills.git"
+    }
+  ]
+}

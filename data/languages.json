@@ -1,5 +1,5 @@
 {
-  "Python": 72,
+  "Python": 74,
   "TypeScript": 43,
   "JavaScript": 22,
   "Rust": 11,
@@ -12,6 +12,7 @@
   "Cuda": 2,
   "Java": 2,
   "Kotlin": 2,
+  "Clojure": 1,
   "Markdown": 1,
   "C#": 1,
   "Logos": 1,

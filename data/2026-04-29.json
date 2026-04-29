@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-29",
+  "scraped_at": "2026-04-29T08:19:58.301Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 40014,
+      "stars_today": 7321,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "abhigyanpatwari",
+      "name": "GitNexus",
+      "full_name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "total_stars": 32911,
+      "stars_today": 1607,
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "clone_url": "https://github.com/abhigyanpatwari/GitNexus.git"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-codex-skills",
+      "full_name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "total_stars": 4351,
+      "stars_today": 953,
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "clone_url": "https://github.com/ComposioHQ/awesome-codex-skills.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "total_stars": 45233,
+      "stars_today": 1483,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "clone_url": "https://github.com/microsoft/VibeVoice.git"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "total_stars": 26316,
+      "stars_today": 346,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "clone_url": "https://github.com/davila7/claude-code-templates.git"
+    },
+    {
+      "owner": "HunxByts",
+      "name": "GhostTrack",
+      "full_name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "total_stars": 10955,
+      "stars_today": 967,
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "clone_url": "https://github.com/HunxByts/GhostTrack.git"
+    },
+    {
+      "owner": "fspecii",
+      "name": "ace-step-ui",
+      "full_name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "language": "JavaScript",
+      "total_stars": 1968,
+      "stars_today": 162,
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "clone_url": "https://github.com/fspecii/ace-step-ui.git"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "total_stars": 428599,
+      "stars_today": 644,
+      "url": "https://github.com/public-apis/public-apis",
+      "clone_url": "https://github.com/public-apis/public-apis.git"
+    },
+    {
+      "owner": "CJackHwang",
+      "name": "ds2api",
+      "full_name": "CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "language": "Go",
+      "total_stars": 2490,
+      "stars_today": 417,
+      "url": "https://github.com/CJackHwang/ds2api",
+      "clone_url": "https://github.com/CJackHwang/ds2api.git"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
+      "language": "Python",
+      "total_stars": 17892,
+      "stars_today": 1741,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "clone_url": "https://github.com/Alishahryar1/free-claude-code.git"
+    },
+    {
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "total_stars": 346075,
+      "stars_today": 744,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "clone_url": "https://github.com/donnemartin/system-design-primer.git"
+    },
+    {
+      "owner": "EbookFoundation",
+      "name": "free-programming-books",
+      "full_name": "EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "language": "Python",
+      "total_stars": 386850,
+      "stars_today": 147,
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "clone_url": "https://github.com/EbookFoundation/free-programming-books.git"
+    },
+    {
+      "owner": "iamgio",
+      "name": "quarkdown",
+      "full_name": "iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "total_stars": 12403,
+      "stars_today": 699,
+      "url": "https://github.com/iamgio/quarkdown",
+      "clone_url": "https://github.com/iamgio/quarkdown.git"
+    }
+  ]
+}

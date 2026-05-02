@@ -1,6 +1,6 @@
 {
   "Python": 78,
-  "TypeScript": 43,
+  "TypeScript": 44,
   "JavaScript": 25,
   "Rust": 13,
   "Go": 10,
@@ -13,6 +13,7 @@
   "C#": 2,
   "Cuda": 2,
   "Java": 2,
+  "Batchfile": 1,
   "Zig": 1,
   "Crystal": 1,
   "Clojure": 1,

@@ -1,0 +1,139 @@
+{
+  "date": "2026-05-09",
+  "scraped_at": "2026-05-09T07:57:28.728Z",
+  "count": 12,
+  "repos": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "total_stars": 16151,
+      "stars_today": 3660,
+      "url": "https://github.com/anthropics/financial-services",
+      "clone_url": "https://github.com/anthropics/financial-services.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "total_stars": 36362,
+      "stars_today": 1893,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "Hmbown",
+      "name": "DeepSeek-TUI",
+      "full_name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "total_stars": 22467,
+      "stars_today": 3731,
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "clone_url": "https://github.com/Hmbown/DeepSeek-TUI.git"
+    },
+    {
+      "owner": "z-lab",
+      "name": "dflash",
+      "full_name": "z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "total_stars": 3935,
+      "stars_today": 379,
+      "url": "https://github.com/z-lab/dflash",
+      "clone_url": "https://github.com/z-lab/dflash.git"
+    },
+    {
+      "owner": "decolua",
+      "name": "9router",
+      "full_name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "total_stars": 5952,
+      "stars_today": 1052,
+      "url": "https://github.com/decolua/9router",
+      "clone_url": "https://github.com/decolua/9router.git"
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "total_stars": 3489,
+      "stars_today": 526,
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "clone_url": "https://github.com/CloakHQ/CloakBrowser.git"
+    },
+    {
+      "owner": "awslabs",
+      "name": "aidlc-workflows",
+      "full_name": "awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "language": "Python",
+      "total_stars": 1847,
+      "stars_today": 58,
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "clone_url": "https://github.com/awslabs/aidlc-workflows.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "full_name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "total_stars": 14927,
+      "stars_today": 202,
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "clone_url": "https://github.com/HKUDS/AI-Trader.git"
+    },
+    {
+      "owner": "LearningCircuit",
+      "name": "local-deep-research",
+      "full_name": "LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "language": "Python",
+      "total_stars": 6854,
+      "stars_today": 559,
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "clone_url": "https://github.com/LearningCircuit/local-deep-research.git"
+    },
+    {
+      "owner": "lobehub",
+      "name": "lobehub",
+      "full_name": "lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "total_stars": 76643,
+      "stars_today": 125,
+      "url": "https://github.com/lobehub/lobehub",
+      "clone_url": "https://github.com/lobehub/lobehub.git"
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "full_name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "total_stars": 45110,
+      "stars_today": 667,
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "clone_url": "https://github.com/datawhalechina/hello-agents.git"
+    },
+    {
+      "owner": "flutter",
+      "name": "skills",
+      "full_name": "flutter/skills",
+      "description": null,
+      "language": "Dart",
+      "total_stars": 1790,
+      "stars_today": 118,
+      "url": "https://github.com/flutter/skills",
+      "clone_url": "https://github.com/flutter/skills.git"
+    }
+  ]
+}

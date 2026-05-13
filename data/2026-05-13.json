@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-13",
+  "scraped_at": "2026-05-13T08:44:31.084Z",
+  "count": 11,
+  "repos": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "total_stars": 3381,
+      "stars_today": 1014,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "clone_url": "https://github.com/tinyhumansai/openhuman.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "total_stars": 6411,
+      "stars_today": 1048,
+      "url": "https://github.com/rohitg00/agentmemory",
+      "clone_url": "https://github.com/rohitg00/agentmemory.git"
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "total_stars": 8608,
+      "stars_today": 1606,
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "clone_url": "https://github.com/CloakHQ/CloakBrowser.git"
+    },
+    {
+      "owner": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "total_stars": 20416,
+      "stars_today": 51,
+      "url": "https://github.com/apernet/hysteria",
+      "clone_url": "https://github.com/apernet/hysteria.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 77332,
+      "stars_today": 3867,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "anonfaded",
+      "name": "FadCam",
+      "full_name": "anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "language": "Java",
+      "total_stars": 2328,
+      "stars_today": 116,
+      "url": "https://github.com/anonfaded/FadCam",
+      "clone_url": "https://github.com/anonfaded/FadCam.git"
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "full_name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "total_stars": 8967,
+      "stars_today": 788,
+      "url": "https://github.com/millionco/react-doctor",
+      "clone_url": "https://github.com/millionco/react-doctor.git"
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "full_name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "total_stars": 94086,
+      "stars_today": 772,
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "clone_url": "https://github.com/rasbt/LLMs-from-scratch.git"
+    },
+    {
+      "owner": "datawhalechina",
+      "name": "hello-agents",
+      "full_name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "total_stars": 48731,
+      "stars_today": 599,
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "clone_url": "https://github.com/datawhalechina/hello-agents.git"
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "total_stars": 12311,
+      "stars_today": 1282,
+      "url": "https://github.com/yikart/AiToEarn",
+      "clone_url": "https://github.com/yikart/AiToEarn.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "AI-Trader",
+      "full_name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "total_stars": 16878,
+      "stars_today": 229,
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "clone_url": "https://github.com/HKUDS/AI-Trader.git"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-14",
+  "scraped_at": "2026-05-14T08:37:26.752Z",
+  "count": 18,
+  "repos": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "total_stars": 6703,
+      "stars_today": 1696,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "clone_url": "https://github.com/tinyhumansai/openhuman.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "total_stars": 8346,
+      "stars_today": 1379,
+      "url": "https://github.com/rohitg00/agentmemory",
+      "clone_url": "https://github.com/rohitg00/agentmemory.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 190232,
+      "stars_today": 1401,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "total_stars": 13399,
+      "stars_today": 981,
+      "url": "https://github.com/yikart/AiToEarn",
+      "clone_url": "https://github.com/yikart/AiToEarn.git"
+    },
+    {
+      "owner": "influxdata",
+      "name": "telegraf",
+      "full_name": "influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "total_stars": 17080,
+      "stars_today": 13,
+      "url": "https://github.com/influxdata/telegraf",
+      "clone_url": "https://github.com/influxdata/telegraf.git"
+    },
+    {
+      "owner": "millionco",
+      "name": "react-doctor",
+      "full_name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "total_stars": 9448,
+      "stars_today": 604,
+      "url": "https://github.com/millionco/react-doctor",
+      "clone_url": "https://github.com/millionco/react-doctor.git"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "total_stars": 21375,
+      "stars_today": 99,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "clone_url": "https://github.com/K-Dense-AI/scientific-agent-skills.git"
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "total_stars": 13570,
+      "stars_today": 435,
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "clone_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure.git"
+    },
+    {
+      "owner": "supertone-inc",
+      "name": "supertonic",
+      "full_name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "total_stars": 4800,
+      "stars_today": 859,
+      "url": "https://github.com/supertone-inc/supertonic",
+      "clone_url": "https://github.com/supertone-inc/supertonic.git"
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "total_stars": 10028,
+      "stars_today": 1835,
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "clone_url": "https://github.com/CloakHQ/CloakBrowser.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 80166,
+      "stars_today": 3392,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "ArthurBrussee",
+      "name": "brush",
+      "full_name": "ArthurBrussee/brush",
+      "description": "3D Reconstruction for all",
+      "language": "Rust",
+      "total_stars": 4446,
+      "stars_today": 81,
+      "url": "https://github.com/ArthurBrussee/brush",
+      "clone_url": "https://github.com/ArthurBrussee/brush.git"
+    },
+    {
+      "owner": "imthenachoman",
+      "name": "How-To-Secure-A-Linux-Server",
+      "full_name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": null,
+      "total_stars": 27254,
+      "stars_today": 234,
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "clone_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server.git"
+    },
+    {
+      "owner": "apernet",
+      "name": "hysteria",
+      "full_name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "total_stars": 20709,
+      "stars_today": 485,
+      "url": "https://github.com/apernet/hysteria",
+      "clone_url": "https://github.com/apernet/hysteria.git"
+    },
+    {
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "full_name": "rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "total_stars": 94662,
+      "stars_today": 821,
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "clone_url": "https://github.com/rasbt/LLMs-from-scratch.git"
+    },
+    {
+      "owner": "ton-blockchain",
+      "name": "acton",
+      "full_name": "ton-blockchain/acton",
+      "description": "Toolchain for TON smart contract development and beyond",
+      "language": "Rust",
+      "total_stars": 280,
+      "stars_today": 18,
+      "url": "https://github.com/ton-blockchain/acton",
+      "clone_url": "https://github.com/ton-blockchain/acton.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "total_stars": 16664,
+      "stars_today": 245,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "total_stars": 98800,
+      "stars_today": 1120,
+      "url": "https://github.com/github/spec-kit",
+      "clone_url": "https://github.com/github/spec-kit.git"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-20",
+  "scraped_at": "2026-05-20T09:34:23.336Z",
+  "count": 18,
+  "repos": [
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "total_stars": 22724,
+      "stars_today": 3973,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "clone_url": "https://github.com/tinyhumansai/openhuman.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "total_stars": 38130,
+      "stars_today": 1038,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "clone_url": "https://github.com/HKUDS/CLI-Anything.git"
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "total_stars": 14857,
+      "stars_today": 3164,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "clone_url": "https://github.com/Imbad0202/academic-research-skills.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 199258,
+      "stars_today": 1623,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "total_stars": 20456,
+      "stars_today": 171,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "clone_url": "https://github.com/anthropics/claude-plugins-official.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "total_stars": 14595,
+      "stars_today": 1609,
+      "url": "https://github.com/rohitg00/agentmemory",
+      "clone_url": "https://github.com/rohitg00/agentmemory.git"
+    },
+    {
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "full_name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "total_stars": 17108,
+      "stars_today": 1463,
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "clone_url": "https://github.com/CloakHQ/CloakBrowser.git"
+    },
+    {
+      "owner": "rtk-ai",
+      "name": "rtk",
+      "full_name": "rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "total_stars": 51445,
+      "stars_today": 704,
+      "url": "https://github.com/rtk-ai/rtk",
+      "clone_url": "https://github.com/rtk-ai/rtk.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 102201,
+      "stars_today": 1120,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "total_stars": 7299,
+      "stars_today": 1850,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "clone_url": "https://github.com/colbymchenry/codegraph.git"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 139406,
+      "stars_today": 1955,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "humanlayer",
+      "name": "12-factor-agents",
+      "full_name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "total_stars": 21354,
+      "stars_today": 736,
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "clone_url": "https://github.com/humanlayer/12-factor-agents.git"
+    },
+    {
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "full_name": "Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "total_stars": 10934,
+      "stars_today": 493,
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "clone_url": "https://github.com/Diolinux/PhotoGIMP.git"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "language": "Python",
+      "total_stars": 26636,
+      "stars_today": 563,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "clone_url": "https://github.com/Alishahryar1/free-claude-code.git"
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "total_stars": 16035,
+      "stars_today": 110,
+      "url": "https://github.com/pascalorg/editor",
+      "clone_url": "https://github.com/pascalorg/editor.git"
+    },
+    {
+      "owner": "frappe",
+      "name": "erpnext",
+      "full_name": "frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "total_stars": 34480,
+      "stars_today": 98,
+      "url": "https://github.com/frappe/erpnext",
+      "clone_url": "https://github.com/frappe/erpnext.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "ai-agents-for-beginners",
+      "full_name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "total_stars": 64765,
+      "stars_today": 818,
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "clone_url": "https://github.com/microsoft/ai-agents-for-beginners.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "ViMax",
+      "full_name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "total_stars": 5718,
+      "stars_today": 503,
+      "url": "https://github.com/HKUDS/ViMax",
+      "clone_url": "https://github.com/HKUDS/ViMax.git"
+    }
+  ]
+}

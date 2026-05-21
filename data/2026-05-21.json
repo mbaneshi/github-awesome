@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-21",
+  "scraped_at": "2026-05-21T09:40:46.649Z",
+  "count": 18,
+  "repos": [
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "total_stars": 11480,
+      "stars_today": 2123,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "clone_url": "https://github.com/colbymchenry/codegraph.git"
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "total_stars": 17409,
+      "stars_today": 1667,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "clone_url": "https://github.com/Imbad0202/academic-research-skills.git"
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "total_stars": 24272,
+      "stars_today": 3394,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "clone_url": "https://github.com/tinyhumansai/openhuman.git"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 141980,
+      "stars_today": 2679,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 10167,
+      "stars_today": 765,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "total_stars": 38805,
+      "stars_today": 890,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "clone_url": "https://github.com/HKUDS/CLI-Anything.git"
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "full_name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "total_stars": 5636,
+      "stars_today": 270,
+      "url": "https://github.com/can1357/oh-my-pi",
+      "clone_url": "https://github.com/can1357/oh-my-pi.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 200794,
+      "stars_today": 1743,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "total_stars": 21018,
+      "stars_today": 674,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "clone_url": "https://github.com/anthropics/claude-plugins-official.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 103213,
+      "stars_today": 1636,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "rmyndharis",
+      "name": "OpenWA",
+      "full_name": "rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "total_stars": 5092,
+      "stars_today": 741,
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "clone_url": "https://github.com/rmyndharis/OpenWA.git"
+    },
+    {
+      "owner": "truelockmc",
+      "name": "streambert",
+      "full_name": "truelockmc/streambert",
+      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+      "language": "JavaScript",
+      "total_stars": 3447,
+      "stars_today": 582,
+      "url": "https://github.com/truelockmc/streambert",
+      "clone_url": "https://github.com/truelockmc/streambert.git"
+    },
+    {
+      "owner": "opentoonz",
+      "name": "opentoonz",
+      "full_name": "opentoonz/opentoonz",
+      "description": "OpenToonz - An open-source full-featured 2D animation creation software",
+      "language": "C++",
+      "total_stars": 6520,
+      "stars_today": 236,
+      "url": "https://github.com/opentoonz/opentoonz",
+      "clone_url": "https://github.com/opentoonz/opentoonz.git"
+    },
+    {
+      "owner": "zakirullin",
+      "name": "files.md",
+      "full_name": "zakirullin/files.md",
+      "description": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
+      "language": "Go",
+      "total_stars": 2381,
+      "stars_today": 429,
+      "url": "https://github.com/zakirullin/files.md",
+      "clone_url": "https://github.com/zakirullin/files.md.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "full_name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "total_stars": 15467,
+      "stars_today": 1080,
+      "url": "https://github.com/rohitg00/agentmemory",
+      "clone_url": "https://github.com/rohitg00/agentmemory.git"
+    },
+    {
+      "owner": "ggml-org",
+      "name": "llama.cpp",
+      "full_name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "total_stars": 112014,
+      "stars_today": 309,
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "clone_url": "https://github.com/ggml-org/llama.cpp.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "ViMax",
+      "full_name": "HKUDS/ViMax",
+      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "language": "Python",
+      "total_stars": 6307,
+      "stars_today": 674,
+      "url": "https://github.com/HKUDS/ViMax",
+      "clone_url": "https://github.com/HKUDS/ViMax.git"
+    },
+    {
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "full_name": "FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "total_stars": 1443,
+      "stars_today": 168,
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "clone_url": "https://github.com/FareedKhan-dev/train-llm-from-scratch.git"
+    }
+  ]
+}

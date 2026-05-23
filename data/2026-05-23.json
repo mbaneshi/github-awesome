@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-23",
+  "scraped_at": "2026-05-23T08:20:14.370Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-official",
+      "full_name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "total_stars": 25545,
+      "stars_today": 2549,
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "clone_url": "https://github.com/anthropics/claude-plugins-official.git"
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "total_stars": 17450,
+      "stars_today": 3684,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "clone_url": "https://github.com/colbymchenry/codegraph.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 64275,
+      "stars_today": 978,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 12457,
+      "stars_today": 988,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "full_name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "total_stars": 41105,
+      "stars_today": 501,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "clone_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git"
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "total_stars": 2619,
+      "stars_today": 389,
+      "url": "https://github.com/dotnet/skills",
+      "clone_url": "https://github.com/dotnet/skills.git"
+    },
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "total_stars": 19279,
+      "stars_today": 1393,
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "clone_url": "https://github.com/Lum1104/Understand-Anything.git"
+    },
+    {
+      "owner": "odoo",
+      "name": "odoo",
+      "full_name": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "total_stars": 51241,
+      "stars_today": 79,
+      "url": "https://github.com/odoo/odoo",
+      "clone_url": "https://github.com/odoo/odoo.git"
+    },
+    {
+      "owner": "byJoey",
+      "name": "cfnew",
+      "full_name": "byJoey/cfnew",
+      "description": null,
+      "language": null,
+      "total_stars": 13370,
+      "stars_today": 87,
+      "url": "https://github.com/byJoey/cfnew",
+      "clone_url": "https://github.com/byJoey/cfnew.git"
+    },
+    {
+      "owner": "trimstray",
+      "name": "the-book-of-secret-knowledge",
+      "full_name": "trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": null,
+      "total_stars": 223395,
+      "stars_today": 969,
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "clone_url": "https://github.com/trimstray/the-book-of-secret-knowledge.git"
+    },
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "total_stars": 22779,
+      "stars_today": 367,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "clone_url": "https://github.com/Fincept-Corporation/FinceptTerminal.git"
+    },
+    {
+      "owner": "can1357",
+      "name": "oh-my-pi",
+      "full_name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "total_stars": 6500,
+      "stars_today": 457,
+      "url": "https://github.com/can1357/oh-my-pi",
+      "clone_url": "https://github.com/can1357/oh-my-pi.git"
+    },
+    {
+      "owner": "yt-dlp",
+      "name": "yt-dlp",
+      "full_name": "yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "total_stars": 164576,
+      "stars_today": 444,
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "clone_url": "https://github.com/yt-dlp/yt-dlp.git"
+    },
+    {
+      "owner": "karpathy",
+      "name": "nn-zero-to-hero",
+      "full_name": "karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "total_stars": 22519,
+      "stars_today": 159,
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "clone_url": "https://github.com/karpathy/nn-zero-to-hero.git"
+    }
+  ]
+}

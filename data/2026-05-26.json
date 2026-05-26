@@ -1,0 +1,194 @@
+{
+  "date": "2026-05-26",
+  "scraped_at": "2026-05-26T09:56:36.661Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "Lum1104",
+      "name": "Understand-Anything",
+      "full_name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "total_stars": 33356,
+      "stars_today": 5604,
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "clone_url": "https://github.com/Lum1104/Understand-Anything.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "total_stars": 16189,
+      "stars_today": 1441,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "clone_url": "https://github.com/anthropics/knowledge-work-plugins.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 19677,
+      "stars_today": 3154,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 193253,
+      "stars_today": 2025,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "total_stars": 9623,
+      "stars_today": 1004,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "clone_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git"
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "total_stars": 26620,
+      "stars_today": 3161,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "clone_url": "https://github.com/colbymchenry/codegraph.git"
+    },
+    {
+      "owner": "manaflow-ai",
+      "name": "cmux",
+      "full_name": "manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "language": "Swift",
+      "total_stars": 19687,
+      "stars_today": 603,
+      "url": "https://github.com/manaflow-ai/cmux",
+      "clone_url": "https://github.com/manaflow-ai/cmux.git"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 156088,
+      "stars_today": 2749,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "Fincept-Corporation",
+      "name": "FinceptTerminal",
+      "full_name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "total_stars": 24087,
+      "stars_today": 317,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "clone_url": "https://github.com/Fincept-Corporation/FinceptTerminal.git"
+    },
+    {
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "total_stars": 41497,
+      "stars_today": 176,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "clone_url": "https://github.com/paperless-ngx/paperless-ngx.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "total_stars": 44237,
+      "stars_today": 141,
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "clone_url": "https://github.com/anthropics/claude-cookbooks.git"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "total_stars": 20387,
+      "stars_today": 264,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "clone_url": "https://github.com/Leonxlnx/taste-skill.git"
+    },
+    {
+      "owner": "moeru-ai",
+      "name": "airi",
+      "full_name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "total_stars": 39950,
+      "stars_today": 62,
+      "url": "https://github.com/moeru-ai/airi",
+      "clone_url": "https://github.com/moeru-ai/airi.git"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "total_stars": 26284,
+      "stars_today": 245,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "clone_url": "https://github.com/shiyu-coder/Kronos.git"
+    },
+    {
+      "owner": "Axorax",
+      "name": "awesome-free-apps",
+      "full_name": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "total_stars": 4856,
+      "stars_today": 192,
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "clone_url": "https://github.com/Axorax/awesome-free-apps.git"
+    },
+    {
+      "owner": "hardikpandya",
+      "name": "stop-slop",
+      "full_name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": null,
+      "total_stars": 4650,
+      "stars_today": 345,
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "clone_url": "https://github.com/hardikpandya/stop-slop.git"
+    },
+    {
+      "owner": "garrytan",
+      "name": "gstack",
+      "full_name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "total_stars": 102899,
+      "stars_today": 640,
+      "url": "https://github.com/garrytan/gstack",
+      "clone_url": "https://github.com/garrytan/gstack.git"
+    }
+  ]
+}

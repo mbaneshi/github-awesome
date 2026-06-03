@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-03",
+  "scraped_at": "2026-06-03T10:59:00.353Z",
+  "count": 11,
+  "repos": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "total_stars": 8081,
+      "stars_today": 1265,
+      "url": "https://github.com/chopratejas/headroom",
+      "clone_url": "https://github.com/chopratejas/headroom.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "total_stars": 142135,
+      "stars_today": 3618,
+      "url": "https://github.com/microsoft/markitdown",
+      "clone_url": "https://github.com/microsoft/markitdown.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 204830,
+      "stars_today": 1533,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "full_name": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "total_stars": 59668,
+      "stars_today": 1182,
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "clone_url": "https://github.com/D4Vinci/Scrapling.git"
+    },
+    {
+      "owner": "nesquena",
+      "name": "hermes-webui",
+      "full_name": "nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "total_stars": 12859,
+      "stars_today": 1722,
+      "url": "https://github.com/nesquena/hermes-webui",
+      "clone_url": "https://github.com/nesquena/hermes-webui.git"
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "full_name": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "total_stars": 4741,
+      "stars_today": 124,
+      "url": "https://github.com/reconurge/flowsint",
+      "clone_url": "https://github.com/reconurge/flowsint.git"
+    },
+    {
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "full_name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "total_stars": 25409,
+      "stars_today": 783,
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "clone_url": "https://github.com/OpenBMB/VoxCPM.git"
+    },
+    {
+      "owner": "stefan-jansen",
+      "name": "machine-learning-for-trading",
+      "full_name": "stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "language": "Jupyter Notebook",
+      "total_stars": 18816,
+      "stars_today": 574,
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "clone_url": "https://github.com/stefan-jansen/machine-learning-for-trading.git"
+    },
+    {
+      "owner": "jamwithai",
+      "name": "production-agentic-rag-course",
+      "full_name": "jamwithai/production-agentic-rag-course",
+      "description": null,
+      "language": "Python",
+      "total_stars": 6576,
+      "stars_today": 30,
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "clone_url": "https://github.com/jamwithai/production-agentic-rag-course.git"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "total_stars": 24913,
+      "stars_today": 680,
+      "url": "https://github.com/supermemoryai/supermemory",
+      "clone_url": "https://github.com/supermemoryai/supermemory.git"
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "total_stars": 8688,
+      "stars_today": 66,
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "clone_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber.git"
+    }
+  ]
+}

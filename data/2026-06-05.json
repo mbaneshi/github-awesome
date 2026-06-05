@@ -1,0 +1,161 @@
+{
+  "date": "2026-06-05",
+  "scraped_at": "2026-06-05T09:50:24.151Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "chopratejas",
+      "name": "headroom",
+      "full_name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "total_stars": 13653,
+      "stars_today": 3142,
+      "url": "https://github.com/chopratejas/headroom",
+      "clone_url": "https://github.com/chopratejas/headroom.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 181749,
+      "stars_today": 1913,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 207768,
+      "stars_today": 1750,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "total_stars": 80232,
+      "stars_today": 141,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "clone_url": "https://github.com/PaddlePaddle/PaddleOCR.git"
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "total_stars": 108867,
+      "stars_today": 321,
+      "url": "https://github.com/github/spec-kit",
+      "clone_url": "https://github.com/github/spec-kit.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "cosmos",
+      "full_name": "NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "language": "Jupyter Notebook",
+      "total_stars": 9226,
+      "stars_today": 133,
+      "url": "https://github.com/NVIDIA/cosmos",
+      "clone_url": "https://github.com/NVIDIA/cosmos.git"
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "full_name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "total_stars": 25451,
+      "stars_today": 212,
+      "url": "https://github.com/lfnovo/open-notebook",
+      "clone_url": "https://github.com/lfnovo/open-notebook.git"
+    },
+    {
+      "owner": "Open-LLM-VTuber",
+      "name": "Open-LLM-VTuber",
+      "full_name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "total_stars": 9856,
+      "stars_today": 581,
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "clone_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber.git"
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "total_stars": 350060,
+      "stars_today": 632,
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "clone_url": "https://github.com/jwasham/coding-interview-university.git"
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "total_stars": 9089,
+      "stars_today": 38,
+      "url": "https://github.com/github/copilot-sdk",
+      "clone_url": "https://github.com/github/copilot-sdk.git"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "total_stars": 35749,
+      "stars_today": 255,
+      "url": "https://github.com/aquasecurity/trivy",
+      "clone_url": "https://github.com/aquasecurity/trivy.git"
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw-windows-node",
+      "full_name": "openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "language": "C#",
+      "total_stars": 1448,
+      "stars_today": 411,
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "clone_url": "https://github.com/openclaw/openclaw-windows-node.git"
+    },
+    {
+      "owner": "reconurge",
+      "name": "flowsint",
+      "full_name": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "total_stars": 5452,
+      "stars_today": 308,
+      "url": "https://github.com/reconurge/flowsint",
+      "clone_url": "https://github.com/reconurge/flowsint.git"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 27922,
+      "stars_today": 199,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    }
+  ]
+}

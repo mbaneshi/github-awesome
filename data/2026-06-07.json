@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-07",
+  "scraped_at": "2026-06-07T08:55:39.047Z",
+  "count": 18,
+  "repos": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 29313,
+      "stars_today": 439,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "CopilotKit",
+      "full_name": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "total_stars": 33448,
+      "stars_today": 631,
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "clone_url": "https://github.com/CopilotKit/CopilotKit.git"
+    },
+    {
+      "owner": "MemPalace",
+      "name": "mempalace",
+      "full_name": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "total_stars": 54470,
+      "stars_today": 446,
+      "url": "https://github.com/MemPalace/mempalace",
+      "clone_url": "https://github.com/MemPalace/mempalace.git"
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "total_stars": 15102,
+      "stars_today": 70,
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "clone_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure.git"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "total_stars": 1868,
+      "stars_today": 213,
+      "url": "https://github.com/openai/plugins",
+      "clone_url": "https://github.com/openai/plugins.git"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "total_stars": 22743,
+      "stars_today": 683,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "clone_url": "https://github.com/Panniantong/Agent-Reach.git"
+    },
+    {
+      "owner": "sveltejs",
+      "name": "svelte",
+      "full_name": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "total_stars": 87072,
+      "stars_today": 25,
+      "url": "https://github.com/sveltejs/svelte",
+      "clone_url": "https://github.com/sveltejs/svelte.git"
+    },
+    {
+      "owner": "nginx",
+      "name": "nginx",
+      "full_name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "total_stars": 30731,
+      "stars_today": 20,
+      "url": "https://github.com/nginx/nginx",
+      "clone_url": "https://github.com/nginx/nginx.git"
+    },
+    {
+      "owner": "aquasecurity",
+      "name": "trivy",
+      "full_name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "total_stars": 36043,
+      "stars_today": 159,
+      "url": "https://github.com/aquasecurity/trivy",
+      "clone_url": "https://github.com/aquasecurity/trivy.git"
+    },
+    {
+      "owner": "golang",
+      "name": "go",
+      "full_name": "golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "total_stars": 134561,
+      "stars_today": 30,
+      "url": "https://github.com/golang/go",
+      "clone_url": "https://github.com/golang/go.git"
+    },
+    {
+      "owner": "lfnovo",
+      "name": "open-notebook",
+      "full_name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "total_stars": 26807,
+      "stars_today": 794,
+      "url": "https://github.com/lfnovo/open-notebook",
+      "clone_url": "https://github.com/lfnovo/open-notebook.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 219947,
+      "stars_today": 700,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "total_stars": 49615,
+      "stars_today": 193,
+      "url": "https://github.com/santifer/career-ops",
+      "clone_url": "https://github.com/santifer/career-ops.git"
+    },
+    {
+      "owner": "openai",
+      "name": "whisper",
+      "full_name": "openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "total_stars": 101967,
+      "stars_today": 150,
+      "url": "https://github.com/openai/whisper",
+      "clone_url": "https://github.com/openai/whisper.git"
+    },
+    {
+      "owner": "vitejs",
+      "name": "vite",
+      "full_name": "vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "total_stars": 81250,
+      "stars_today": 25,
+      "url": "https://github.com/vitejs/vite",
+      "clone_url": "https://github.com/vitejs/vite.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "mxc",
+      "full_name": "microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "total_stars": 651,
+      "stars_today": 64,
+      "url": "https://github.com/microsoft/mxc",
+      "clone_url": "https://github.com/microsoft/mxc.git"
+    },
+    {
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "full_name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "total_stars": 81112,
+      "stars_today": 433,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "clone_url": "https://github.com/PaddlePaddle/PaddleOCR.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "full_name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "total_stars": 48581,
+      "stars_today": 216,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "clone_url": "https://github.com/microsoft/VibeVoice.git"
+    }
+  ]
+}

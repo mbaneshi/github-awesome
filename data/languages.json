@@ -1,6 +1,6 @@
 {
-  "Python": 130,
-  "TypeScript": 72,
+  "Python": 133,
+  "TypeScript": 73,
   "JavaScript": 33,
   "Rust": 23,
   "Go": 17,
@@ -15,6 +15,7 @@
   "Swift": 3,
   "Kotlin": 3,
   "Cuda": 2,
+  "Roff": 1,
   "Markdown": 1,
   "OCaml": 1,
   "CSS": 1,
@@ -27,6 +28,5 @@
   "Clojure": 1,
   "Logos": 1,
   "Assembly": 1,
-  "Roff": 1,
   "Vim Script": 1
 }

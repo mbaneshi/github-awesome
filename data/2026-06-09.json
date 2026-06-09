@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-09",
+  "scraped_at": "2026-06-09T09:43:07.290Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 35835,
+      "stars_today": 3558,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "total_stars": 9602,
+      "stars_today": 1729,
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "clone_url": "https://github.com/RyanCodrai/turbovec.git"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "total_stars": 12760,
+      "stars_today": 461,
+      "url": "https://github.com/google/skills",
+      "clone_url": "https://github.com/google/skills.git"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "total_stars": 13956,
+      "stars_today": 651,
+      "url": "https://github.com/refactoringhq/tolaria",
+      "clone_url": "https://github.com/refactoringhq/tolaria.git"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "total_stars": 24982,
+      "stars_today": 679,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "clone_url": "https://github.com/Panniantong/Agent-Reach.git"
+    },
+    {
+      "owner": "danielmiessler",
+      "name": "Personal_AI_Infrastructure",
+      "full_name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "total_stars": 15617,
+      "stars_today": 62,
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "clone_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure.git"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "total_stars": 50986,
+      "stars_today": 308,
+      "url": "https://github.com/santifer/career-ops",
+      "clone_url": "https://github.com/santifer/career-ops.git"
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "total_stars": 13069,
+      "stars_today": 164,
+      "url": "https://github.com/phuryn/pm-skills",
+      "clone_url": "https://github.com/phuryn/pm-skills.git"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "total_stars": 2437,
+      "stars_today": 296,
+      "url": "https://github.com/openai/plugins",
+      "clone_url": "https://github.com/openai/plugins.git"
+    },
+    {
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "full_name": "Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "total_stars": 3734,
+      "stars_today": 143,
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "clone_url": "https://github.com/Andyyyy64/whichllm.git"
+    },
+    {
+      "owner": "MemPalace",
+      "name": "mempalace",
+      "full_name": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "total_stars": 55124,
+      "stars_today": 170,
+      "url": "https://github.com/MemPalace/mempalace",
+      "clone_url": "https://github.com/MemPalace/mempalace.git"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "total_stars": 42609,
+      "stars_today": 1288,
+      "url": "https://github.com/roboflow/supervision",
+      "clone_url": "https://github.com/roboflow/supervision.git"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "CopilotKit",
+      "full_name": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "total_stars": 34362,
+      "stars_today": 378,
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "clone_url": "https://github.com/CopilotKit/CopilotKit.git"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "total_stars": 73291,
+      "stars_today": 592,
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "clone_url": "https://github.com/TapXWorld/ChinaTextbook.git"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "total_stars": 36081,
+      "stars_today": 312,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "clone_url": "https://github.com/luongnv89/claude-howto.git"
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "full_name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "total_stars": 48269,
+      "stars_today": 699,
+      "url": "https://github.com/aaif-goose/goose",
+      "clone_url": "https://github.com/aaif-goose/goose.git"
+    }
+  ]
+}

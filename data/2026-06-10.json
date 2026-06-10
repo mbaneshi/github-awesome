@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-10",
+  "scraped_at": "2026-06-10T09:59:56.722Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 38505,
+      "stars_today": 3191,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "total_stars": 10549,
+      "stars_today": 1801,
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "clone_url": "https://github.com/RyanCodrai/turbovec.git"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "total_stars": 43304,
+      "stars_today": 733,
+      "url": "https://github.com/roboflow/supervision",
+      "clone_url": "https://github.com/roboflow/supervision.git"
+    },
+    {
+      "owner": "opencv",
+      "name": "opencv",
+      "full_name": "opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "total_stars": 88816,
+      "stars_today": 102,
+      "url": "https://github.com/opencv/opencv",
+      "clone_url": "https://github.com/opencv/opencv.git"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "total_stars": 14582,
+      "stars_today": 829,
+      "url": "https://github.com/refactoringhq/tolaria",
+      "clone_url": "https://github.com/refactoringhq/tolaria.git"
+    },
+    {
+      "owner": "aaif-goose",
+      "name": "goose",
+      "full_name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "total_stars": 48651,
+      "stars_today": 489,
+      "url": "https://github.com/aaif-goose/goose",
+      "clone_url": "https://github.com/aaif-goose/goose.git"
+    },
+    {
+      "owner": "Andyyyy64",
+      "name": "whichllm",
+      "full_name": "Andyyyy64/whichllm",
+      "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "language": "Python",
+      "total_stars": 4311,
+      "stars_today": 633,
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "clone_url": "https://github.com/Andyyyy64/whichllm.git"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "total_stars": 73760,
+      "stars_today": 519,
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "clone_url": "https://github.com/TapXWorld/ChinaTextbook.git"
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "total_stars": 139350,
+      "stars_today": 79,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "clone_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git"
+    },
+    {
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "full_name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "total_stars": 20331,
+      "stars_today": 402,
+      "url": "https://github.com/yikart/AiToEarn",
+      "clone_url": "https://github.com/yikart/AiToEarn.git"
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "total_stars": 13797,
+      "stars_today": 806,
+      "url": "https://github.com/phuryn/pm-skills",
+      "clone_url": "https://github.com/phuryn/pm-skills.git"
+    },
+    {
+      "owner": "santifer",
+      "name": "career-ops",
+      "full_name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "total_stars": 52222,
+      "stars_today": 1110,
+      "url": "https://github.com/santifer/career-ops",
+      "clone_url": "https://github.com/santifer/career-ops.git"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "total_stars": 2707,
+      "stars_today": 284,
+      "url": "https://github.com/openai/plugins",
+      "clone_url": "https://github.com/openai/plugins.git"
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "full_name": "maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "total_stars": 2073,
+      "stars_today": 191,
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "clone_url": "https://github.com/maziyarpanahi/openmed.git"
+    },
+    {
+      "owner": "francescopace",
+      "name": "espectre",
+      "full_name": "francescopace/espectre",
+      "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "language": "Python",
+      "total_stars": 8401,
+      "stars_today": 134,
+      "url": "https://github.com/francescopace/espectre",
+      "clone_url": "https://github.com/francescopace/espectre.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "total_stars": 50098,
+      "stars_today": 443,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    }
+  ]
+}

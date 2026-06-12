@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-12",
+  "scraped_at": "2026-06-12T10:13:08.316Z",
+  "count": 19,
+  "repos": [
+    {
+      "owner": "apple",
+      "name": "container",
+      "full_name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "total_stars": 34029,
+      "stars_today": 2430,
+      "url": "https://github.com/apple/container",
+      "clone_url": "https://github.com/apple/container.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "total_stars": 55939,
+      "stars_today": 3278,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "maziyarpanahi",
+      "name": "openmed",
+      "full_name": "maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "total_stars": 3006,
+      "stars_today": 426,
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "clone_url": "https://github.com/maziyarpanahi/openmed.git"
+    },
+    {
+      "owner": "phuryn",
+      "name": "pm-skills",
+      "full_name": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": null,
+      "total_stars": 16639,
+      "stars_today": 1978,
+      "url": "https://github.com/phuryn/pm-skills",
+      "clone_url": "https://github.com/phuryn/pm-skills.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "total_stars": 3036,
+      "stars_today": 319,
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "clone_url": "https://github.com/NVIDIA/SkillSpector.git"
+    },
+    {
+      "owner": "soxoj",
+      "name": "maigret",
+      "full_name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "total_stars": 32866,
+      "stars_today": 661,
+      "url": "https://github.com/soxoj/maigret",
+      "clone_url": "https://github.com/soxoj/maigret.git"
+    },
+    {
+      "owner": "x1xhlol",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "total_stars": 140049,
+      "stars_today": 368,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "clone_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools.git"
+    },
+    {
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "full_name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "total_stars": 15557,
+      "stars_today": 604,
+      "url": "https://github.com/refactoringhq/tolaria",
+      "clone_url": "https://github.com/refactoringhq/tolaria.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 225496,
+      "stars_today": 1322,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "restic",
+      "name": "restic",
+      "full_name": "restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "total_stars": 34290,
+      "stars_today": 61,
+      "url": "https://github.com/restic/restic",
+      "clone_url": "https://github.com/restic/restic.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 111950,
+      "stars_today": 1599,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "masterking32",
+      "name": "MasterDnsVPN",
+      "full_name": "masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "total_stars": 5852,
+      "stars_today": 507,
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "clone_url": "https://github.com/masterking32/MasterDnsVPN.git"
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "total_stars": 30529,
+      "stars_today": 67,
+      "url": "https://github.com/chatwoot/chatwoot",
+      "clone_url": "https://github.com/chatwoot/chatwoot.git"
+    },
+    {
+      "owner": "kenn-io",
+      "name": "agentsview",
+      "full_name": "kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "total_stars": 1919,
+      "stars_today": 114,
+      "url": "https://github.com/kenn-io/agentsview",
+      "clone_url": "https://github.com/kenn-io/agentsview.git"
+    },
+    {
+      "owner": "alchaincyf",
+      "name": "zhangxuefeng-skill",
+      "full_name": "alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "language": null,
+      "total_stars": 8151,
+      "stars_today": 89,
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "clone_url": "https://github.com/alchaincyf/zhangxuefeng-skill.git"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "total_stars": 74089,
+      "stars_today": 88,
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "clone_url": "https://github.com/TapXWorld/ChinaTextbook.git"
+    },
+    {
+      "owner": "hexo-ai",
+      "name": "sia",
+      "full_name": "hexo-ai/sia",
+      "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "language": "Python",
+      "total_stars": 1520,
+      "stars_today": 199,
+      "url": "https://github.com/hexo-ai/sia",
+      "clone_url": "https://github.com/hexo-ai/sia.git"
+    },
+    {
+      "owner": "mattermost",
+      "name": "mattermost",
+      "full_name": "mattermost/mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "total_stars": 37475,
+      "stars_today": 53,
+      "url": "https://github.com/mattermost/mattermost",
+      "clone_url": "https://github.com/mattermost/mattermost.git"
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "full_name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "total_stars": 47223,
+      "stars_today": 161,
+      "url": "https://github.com/bannedbook/fanqiang",
+      "clone_url": "https://github.com/bannedbook/fanqiang.git"
+    }
+  ]
+}

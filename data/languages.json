@@ -1,5 +1,5 @@
 {
-  "Python": 138,
+  "Python": 140,
   "TypeScript": 75,
   "JavaScript": 33,
   "Rust": 23,
@@ -7,9 +7,9 @@
   "Jupyter Notebook": 14,
   "Shell": 12,
   "C++": 11,
-  "C": 7,
-  "C#": 6,
+  "C": 8,
   "HTML": 6,
+  "C#": 5,
   "Swift": 4,
   "Kotlin": 4,
   "Java": 4,

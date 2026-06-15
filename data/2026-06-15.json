@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-15",
+  "scraped_at": "2026-06-15T12:13:51.195Z",
+  "count": 18,
+  "repos": [
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "full_name": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "total_stars": 122401,
+      "stars_today": 1528,
+      "url": "https://github.com/iptv-org/iptv",
+      "clone_url": "https://github.com/iptv-org/iptv.git"
+    },
+    {
+      "owner": "teslamate-org",
+      "name": "teslamate",
+      "full_name": "teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "total_stars": 8139,
+      "stars_today": 35,
+      "url": "https://github.com/teslamate-org/teslamate",
+      "clone_url": "https://github.com/teslamate-org/teslamate.git"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "total_stars": 29362,
+      "stars_today": 1045,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "clone_url": "https://github.com/Panniantong/Agent-Reach.git"
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "full_name": "meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "total_stars": 10517,
+      "stars_today": 20,
+      "url": "https://github.com/meshery/meshery",
+      "clone_url": "https://github.com/meshery/meshery.git"
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "total_stars": 31460,
+      "stars_today": 400,
+      "url": "https://github.com/chatwoot/chatwoot",
+      "clone_url": "https://github.com/chatwoot/chatwoot.git"
+    },
+    {
+      "owner": "krahets",
+      "name": "hello-algo",
+      "full_name": "krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "total_stars": 126739,
+      "stars_today": 34,
+      "url": "https://github.com/krahets/hello-algo",
+      "clone_url": "https://github.com/krahets/hello-algo.git"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "total_stars": 447610,
+      "stars_today": 146,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "clone_url": "https://github.com/freeCodeCamp/freeCodeCamp.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "total_stars": 18015,
+      "stars_today": 57,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "full_name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "total_stars": 352057,
+      "stars_today": 516,
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "clone_url": "https://github.com/jwasham/coding-interview-university.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 32715,
+      "stars_today": 538,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "music-assistant",
+      "name": "server",
+      "full_name": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "total_stars": 2317,
+      "stars_today": 197,
+      "url": "https://github.com/music-assistant/server",
+      "clone_url": "https://github.com/music-assistant/server.git"
+    },
+    {
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "full_name": "Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "total_stars": 17132,
+      "stars_today": 70,
+      "url": "https://github.com/Free-TV/IPTV",
+      "clone_url": "https://github.com/Free-TV/IPTV.git"
+    },
+    {
+      "owner": "Introduction-to-Autonomous-Robots",
+      "name": "Introduction-to-Autonomous-Robots",
+      "full_name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "total_stars": 2946,
+      "stars_today": 293,
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "clone_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots.git"
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "total_stars": 47728,
+      "stars_today": 114,
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "clone_url": "https://github.com/Raphire/Win11Debloat.git"
+    },
+    {
+      "owner": "mikeroyal",
+      "name": "Self-Hosting-Guide",
+      "full_name": "mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "language": "Dockerfile",
+      "total_stars": 20582,
+      "stars_today": 126,
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "clone_url": "https://github.com/mikeroyal/Self-Hosting-Guide.git"
+    },
+    {
+      "owner": "itsfatduck",
+      "name": "optimizerDuck",
+      "full_name": "itsfatduck/optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "language": "C#",
+      "total_stars": 3493,
+      "stars_today": 321,
+      "url": "https://github.com/itsfatduck/optimizerDuck",
+      "clone_url": "https://github.com/itsfatduck/optimizerDuck.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "SkillSpector",
+      "full_name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "total_stars": 5921,
+      "stars_today": 964,
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "clone_url": "https://github.com/NVIDIA/SkillSpector.git"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "total_stars": 30101,
+      "stars_today": 244,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "clone_url": "https://github.com/shiyu-coder/Kronos.git"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-18",
+  "scraped_at": "2026-06-18T10:20:11.477Z",
+  "count": 20,
+  "repos": [
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "total_stars": 6320,
+      "stars_today": 371,
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "clone_url": "https://github.com/DeusData/codebase-memory-mcp.git"
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "total_stars": 9799,
+      "stars_today": 421,
+      "url": "https://github.com/n0-computer/iroh",
+      "clone_url": "https://github.com/n0-computer/iroh.git"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "total_stars": 33910,
+      "stars_today": 1161,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "clone_url": "https://github.com/Panniantong/Agent-Reach.git"
+    },
+    {
+      "owner": "meshery",
+      "name": "meshery",
+      "full_name": "meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "total_stars": 11093,
+      "stars_today": 196,
+      "url": "https://github.com/meshery/meshery",
+      "clone_url": "https://github.com/meshery/meshery.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 231753,
+      "stars_today": 1129,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "total_stars": 22239,
+      "stars_today": 606,
+      "url": "https://github.com/google-research/timesfm",
+      "clone_url": "https://github.com/google-research/timesfm.git"
+    },
+    {
+      "owner": "RocketChat",
+      "name": "Rocket.Chat",
+      "full_name": "RocketChat/Rocket.Chat",
+      "description": "The Secure CommsOS™ for mission-critical operations",
+      "language": "TypeScript",
+      "total_stars": 45653,
+      "stars_today": 22,
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "clone_url": "https://github.com/RocketChat/Rocket.Chat.git"
+    },
+    {
+      "owner": "continuedev",
+      "name": "continue",
+      "full_name": "continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "total_stars": 34039,
+      "stars_today": 49,
+      "url": "https://github.com/continuedev/continue",
+      "clone_url": "https://github.com/continuedev/continue.git"
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "total_stars": 50277,
+      "stars_today": 70,
+      "url": "https://github.com/penpot/penpot",
+      "clone_url": "https://github.com/penpot/penpot.git"
+    },
+    {
+      "owner": "krahets",
+      "name": "hello-algo",
+      "full_name": "krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "total_stars": 127639,
+      "stars_today": 96,
+      "url": "https://github.com/krahets/hello-algo",
+      "clone_url": "https://github.com/krahets/hello-algo.git"
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "total_stars": 7747,
+      "stars_today": 457,
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "clone_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 134577,
+      "stars_today": 1523,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "yairm210",
+      "name": "Unciv",
+      "full_name": "yairm210/Unciv",
+      "description": "Open-source Android/Desktop remake of Civ V",
+      "language": "Kotlin",
+      "total_stars": 10757,
+      "stars_today": 24,
+      "url": "https://github.com/yairm210/Unciv",
+      "clone_url": "https://github.com/yairm210/Unciv.git"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "total_stars": 449309,
+      "stars_today": 757,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "clone_url": "https://github.com/freeCodeCamp/freeCodeCamp.git"
+    },
+    {
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "full_name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "total_stars": 36791,
+      "stars_today": 150,
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "clone_url": "https://github.com/bytedance/UI-TARS-desktop.git"
+    },
+    {
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "full_name": "nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "total_stars": 23934,
+      "stars_today": 98,
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "clone_url": "https://github.com/nautechsystems/nautilus_trader.git"
+    },
+    {
+      "owner": "chatwoot",
+      "name": "chatwoot",
+      "full_name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "total_stars": 32502,
+      "stars_today": 264,
+      "url": "https://github.com/chatwoot/chatwoot",
+      "clone_url": "https://github.com/chatwoot/chatwoot.git"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "total_stars": 5704,
+      "stars_today": 98,
+      "url": "https://github.com/calesthio/OpenMontage",
+      "clone_url": "https://github.com/calesthio/OpenMontage.git"
+    },
+    {
+      "owner": "alexzhang13",
+      "name": "rlm",
+      "full_name": "alexzhang13/rlm",
+      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "language": "Python",
+      "total_stars": 4991,
+      "stars_today": 43,
+      "url": "https://github.com/alexzhang13/rlm",
+      "clone_url": "https://github.com/alexzhang13/rlm.git"
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "full_name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "total_stars": 51554,
+      "stars_today": 89,
+      "url": "https://github.com/makeplane/plane",
+      "clone_url": "https://github.com/makeplane/plane.git"
+    }
+  ]
+}

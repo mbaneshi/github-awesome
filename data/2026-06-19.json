@@ -1,0 +1,183 @@
+{
+  "date": "2026-06-19",
+  "scraped_at": "2026-06-19T10:26:13.474Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "google-research",
+      "name": "timesfm",
+      "full_name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "total_stars": 23742,
+      "stars_today": 844,
+      "url": "https://github.com/google-research/timesfm",
+      "clone_url": "https://github.com/google-research/timesfm.git"
+    },
+    {
+      "owner": "n0-computer",
+      "name": "iroh",
+      "full_name": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "total_stars": 10119,
+      "stars_today": 369,
+      "url": "https://github.com/n0-computer/iroh",
+      "clone_url": "https://github.com/n0-computer/iroh.git"
+    },
+    {
+      "owner": "freeCodeCamp",
+      "name": "freeCodeCamp",
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "total_stars": 449715,
+      "stars_today": 417,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "clone_url": "https://github.com/freeCodeCamp/freeCodeCamp.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 232848,
+      "stars_today": 1429,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "zai-org",
+      "name": "GLM-5",
+      "full_name": "zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "language": null,
+      "total_stars": 4322,
+      "stars_today": 202,
+      "url": "https://github.com/zai-org/GLM-5",
+      "clone_url": "https://github.com/zai-org/GLM-5.git"
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "total_stars": 7440,
+      "stars_today": 2322,
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "clone_url": "https://github.com/DeusData/codebase-memory-mcp.git"
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "total_stars": 11420,
+      "stars_today": 259,
+      "url": "https://github.com/alibaba/zvec",
+      "clone_url": "https://github.com/alibaba/zvec.git"
+    },
+    {
+      "owner": "withastro",
+      "name": "flue",
+      "full_name": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "total_stars": 5613,
+      "stars_today": 162,
+      "url": "https://github.com/withastro/flue",
+      "clone_url": "https://github.com/withastro/flue.git"
+    },
+    {
+      "owner": "Kilo-Org",
+      "name": "kilocode",
+      "full_name": "Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "total_stars": 22537,
+      "stars_today": 1345,
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "clone_url": "https://github.com/Kilo-Org/kilocode.git"
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "full_name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "total_stars": 51988,
+      "stars_today": 613,
+      "url": "https://github.com/makeplane/plane",
+      "clone_url": "https://github.com/makeplane/plane.git"
+    },
+    {
+      "owner": "Kong",
+      "name": "insomnia",
+      "full_name": "Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "total_stars": 38780,
+      "stars_today": 18,
+      "url": "https://github.com/Kong/insomnia",
+      "clone_url": "https://github.com/Kong/insomnia.git"
+    },
+    {
+      "owner": "Universal-Debloater-Alliance",
+      "name": "universal-android-debloater-next-generation",
+      "full_name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "total_stars": 8017,
+      "stars_today": 244,
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "clone_url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation.git"
+    },
+    {
+      "owner": "dotnet",
+      "name": "aspnetcore",
+      "full_name": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "total_stars": 38128,
+      "stars_today": 14,
+      "url": "https://github.com/dotnet/aspnetcore",
+      "clone_url": "https://github.com/dotnet/aspnetcore.git"
+    },
+    {
+      "owner": "owainlewis",
+      "name": "awesome-artificial-intelligence",
+      "full_name": "owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": null,
+      "total_stars": 14552,
+      "stars_today": 40,
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "clone_url": "https://github.com/owainlewis/awesome-artificial-intelligence.git"
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "total_stars": 7559,
+      "stars_today": 51,
+      "url": "https://github.com/Lightricks/LTX-2",
+      "clone_url": "https://github.com/Lightricks/LTX-2.git"
+    },
+    {
+      "owner": "LibreTranslate",
+      "name": "LibreTranslate",
+      "full_name": "LibreTranslate/LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "language": "Python",
+      "total_stars": 15094,
+      "stars_today": 51,
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "clone_url": "https://github.com/LibreTranslate/LibreTranslate.git"
+    }
+  ]
+}

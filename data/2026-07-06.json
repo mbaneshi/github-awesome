@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-06",
+  "scraped_at": "2026-07-06T10:21:06.887Z",
+  "count": 21,
+  "repos": [
+    {
+      "owner": "Zackriya-Solutions",
+      "name": "meetily",
+      "full_name": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "total_stars": 18180,
+      "stars_today": 1409,
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "clone_url": "https://github.com/Zackriya-Solutions/meetily.git"
+    },
+    {
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "full_name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "total_stars": 25945,
+      "stars_today": 1532,
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "clone_url": "https://github.com/openai/codex-plugin-cc.git"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "total_stars": 50628,
+      "stars_today": 981,
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "clone_url": "https://github.com/asgeirtj/system_prompts_leaks.git"
+    },
+    {
+      "owner": "Leonxlnx",
+      "name": "taste-skill",
+      "full_name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "JavaScript",
+      "total_stars": 58212,
+      "stars_today": 863,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "clone_url": "https://github.com/Leonxlnx/taste-skill.git"
+    },
+    {
+      "owner": "alirezarezvani",
+      "name": "claude-skills",
+      "full_name": "alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "total_stars": 20866,
+      "stars_today": 392,
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "clone_url": "https://github.com/alirezarezvani/claude-skills.git"
+    },
+    {
+      "owner": "rommapp",
+      "name": "romm",
+      "full_name": "rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.",
+      "language": "Python",
+      "total_stars": 10719,
+      "stars_today": 410,
+      "url": "https://github.com/rommapp/romm",
+      "clone_url": "https://github.com/rommapp/romm.git"
+    },
+    {
+      "owner": "ogulcancelik",
+      "name": "herdr",
+      "full_name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "total_stars": 12439,
+      "stars_today": 651,
+      "url": "https://github.com/ogulcancelik/herdr",
+      "clone_url": "https://github.com/ogulcancelik/herdr.git"
+    },
+    {
+      "owner": "alibaba",
+      "name": "page-agent",
+      "full_name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "total_stars": 24368,
+      "stars_today": 805,
+      "url": "https://github.com/alibaba/page-agent",
+      "clone_url": "https://github.com/alibaba/page-agent.git"
+    },
+    {
+      "owner": "harvard-edge",
+      "name": "cs249r_book",
+      "full_name": "harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "total_stars": 27021,
+      "stars_today": 329,
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "clone_url": "https://github.com/harvard-edge/cs249r_book.git"
+    },
+    {
+      "owner": "usestrix",
+      "name": "strix",
+      "full_name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "total_stars": 37623,
+      "stars_today": 1114,
+      "url": "https://github.com/usestrix/strix",
+      "clone_url": "https://github.com/usestrix/strix.git"
+    },
+    {
+      "owner": "hesreallyhim",
+      "name": "awesome-claude-code",
+      "full_name": "hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "language": "Python",
+      "total_stars": 48645,
+      "stars_today": 148,
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "clone_url": "https://github.com/hesreallyhim/awesome-claude-code.git"
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "total_stars": 36737,
+      "stars_today": 145,
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "clone_url": "https://github.com/coreyhaines31/marketingskills.git"
+    },
+    {
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "full_name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "total_stars": 85340,
+      "stars_today": 1052,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "clone_url": "https://github.com/JuliusBrussee/caveman.git"
+    },
+    {
+      "owner": "CoplayDev",
+      "name": "unity-mcp",
+      "full_name": "CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "language": "C#",
+      "total_stars": 12120,
+      "stars_today": 414,
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "clone_url": "https://github.com/CoplayDev/unity-mcp.git"
+    },
+    {
+      "owner": "facebook",
+      "name": "astryx",
+      "full_name": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "total_stars": 6210,
+      "stars_today": 522,
+      "url": "https://github.com/facebook/astryx",
+      "clone_url": "https://github.com/facebook/astryx.git"
+    },
+    {
+      "owner": "immich-app",
+      "name": "immich",
+      "full_name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "total_stars": 106374,
+      "stars_today": 470,
+      "url": "https://github.com/immich-app/immich",
+      "clone_url": "https://github.com/immich-app/immich.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 76921,
+      "stars_today": 161,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "gastownhall",
+      "name": "gastown",
+      "full_name": "gastownhall/gastown",
+      "description": "Gas Town - multi-agent workspace manager",
+      "language": "Go",
+      "total_stars": 16510,
+      "stars_today": 51,
+      "url": "https://github.com/gastownhall/gastown",
+      "clone_url": "https://github.com/gastownhall/gastown.git"
+    },
+    {
+      "owner": "dotnet",
+      "name": "skills",
+      "full_name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "total_stars": 4146,
+      "stars_today": 246,
+      "url": "https://github.com/dotnet/skills",
+      "clone_url": "https://github.com/dotnet/skills.git"
+    },
+    {
+      "owner": "steipete",
+      "name": "CodexBar",
+      "full_name": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "total_stars": 16505,
+      "stars_today": 153,
+      "url": "https://github.com/steipete/CodexBar",
+      "clone_url": "https://github.com/steipete/CodexBar.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Python",
+      "total_stars": 136461,
+      "stars_today": 156,
+      "url": "https://github.com/anthropics/claude-code",
+      "clone_url": "https://github.com/anthropics/claude-code.git"
+    }
+  ]
+}

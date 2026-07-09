@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-09",
+  "scraped_at": "2026-07-09T09:38:39.101Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "total_stars": 16642,
+      "stars_today": 5079,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "clone_url": "https://github.com/MadsLorentzen/ai-job-search.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 75199,
+      "stars_today": 1297,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 79456,
+      "stars_today": 799,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "total_stars": 7913,
+      "stars_today": 318,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "clone_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory.git"
+    },
+    {
+      "owner": "prisma",
+      "name": "prisma",
+      "full_name": "prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "total_stars": 46710,
+      "stars_today": 46,
+      "url": "https://github.com/prisma/prisma",
+      "clone_url": "https://github.com/prisma/prisma.git"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 51056,
+      "stars_today": 352,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "argoproj",
+      "name": "argo-cd",
+      "full_name": "argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "total_stars": 23504,
+      "stars_today": 29,
+      "url": "https://github.com/argoproj/argo-cd",
+      "clone_url": "https://github.com/argoproj/argo-cd.git"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "total_stars": 12720,
+      "stars_today": 1717,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "clone_url": "https://github.com/iOfficeAI/OfficeCLI.git"
+    },
+    {
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "full_name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "total_stars": 54609,
+      "stars_today": 1218,
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "clone_url": "https://github.com/asgeirtj/system_prompts_leaks.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 250350,
+      "stars_today": 1116,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "alibaba",
+      "name": "zvec",
+      "full_name": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "total_stars": 14580,
+      "stars_today": 395,
+      "url": "https://github.com/alibaba/zvec",
+      "clone_url": "https://github.com/alibaba/zvec.git"
+    },
+    {
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "full_name": "Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "total_stars": 15241,
+      "stars_today": 1125,
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "clone_url": "https://github.com/Diolinux/PhotoGIMP.git"
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "total_stars": 6448,
+      "stars_today": 28,
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "clone_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP.git"
+    },
+    {
+      "owner": "huxingyi",
+      "name": "autoremesher",
+      "full_name": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "total_stars": 2160,
+      "stars_today": 296,
+      "url": "https://github.com/huxingyi/autoremesher",
+      "clone_url": "https://github.com/huxingyi/autoremesher.git"
+    },
+    {
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "full_name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "total_stars": 6331,
+      "stars_today": 951,
+      "url": "https://github.com/bradautomates/claude-video",
+      "clone_url": "https://github.com/bradautomates/claude-video.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "full_name": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "total_stars": 9175,
+      "stars_today": 564,
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "clone_url": "https://github.com/TencentCloud/CubeSandbox.git"
+    }
+  ]
+}

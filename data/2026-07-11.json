@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-11",
+  "scraped_at": "2026-07-11T07:55:20.977Z",
+  "count": 19,
+  "repos": [
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "total_stars": 7522,
+      "stars_today": 328,
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "clone_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP.git"
+    },
+    {
+      "owner": "oven-sh",
+      "name": "bun",
+      "full_name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "total_stars": 94414,
+      "stars_today": 209,
+      "url": "https://github.com/oven-sh/bun",
+      "clone_url": "https://github.com/oven-sh/bun.git"
+    },
+    {
+      "owner": "abseil",
+      "name": "abseil-cpp",
+      "full_name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "total_stars": 17554,
+      "stars_today": 89,
+      "url": "https://github.com/abseil/abseil-cpp",
+      "clone_url": "https://github.com/abseil/abseil-cpp.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 77015,
+      "stars_today": 1116,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "jbeder",
+      "name": "yaml-cpp",
+      "full_name": "jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "total_stars": 6110,
+      "stars_today": 69,
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "clone_url": "https://github.com/jbeder/yaml-cpp.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 165011,
+      "stars_today": 1712,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 251999,
+      "stars_today": 1013,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "TypeScript",
+      "full_name": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "total_stars": 109833,
+      "stars_today": 177,
+      "url": "https://github.com/microsoft/TypeScript",
+      "clone_url": "https://github.com/microsoft/TypeScript.git"
+    },
+    {
+      "owner": "catchorg",
+      "name": "Catch2",
+      "full_name": "catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "total_stars": 20644,
+      "stars_today": 76,
+      "url": "https://github.com/catchorg/Catch2",
+      "clone_url": "https://github.com/catchorg/Catch2.git"
+    },
+    {
+      "owner": "chriskohlhoff",
+      "name": "asio",
+      "full_name": "chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "language": "C++",
+      "total_stars": 6099,
+      "stars_today": 92,
+      "url": "https://github.com/chriskohlhoff/asio",
+      "clone_url": "https://github.com/chriskohlhoff/asio.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "total_stars": 8339,
+      "stars_today": 123,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "clone_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory.git"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "total_stars": 28829,
+      "stars_today": 118,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "clone_url": "https://github.com/davila7/claude-code-templates.git"
+    },
+    {
+      "owner": "zeux",
+      "name": "meshoptimizer",
+      "full_name": "zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "language": "C++",
+      "total_stars": 8057,
+      "stars_today": 91,
+      "url": "https://github.com/zeux/meshoptimizer",
+      "clone_url": "https://github.com/zeux/meshoptimizer.git"
+    },
+    {
+      "owner": "tailscale",
+      "name": "tailscale",
+      "full_name": "tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "total_stars": 33762,
+      "stars_today": 143,
+      "url": "https://github.com/tailscale/tailscale",
+      "clone_url": "https://github.com/tailscale/tailscale.git"
+    },
+    {
+      "owner": "google-labs-code",
+      "name": "stitch-skills",
+      "full_name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "total_stars": 6842,
+      "stars_today": 117,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "clone_url": "https://github.com/google-labs-code/stitch-skills.git"
+    },
+    {
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "full_name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "total_stars": 14675,
+      "stars_today": 1224,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "clone_url": "https://github.com/iOfficeAI/OfficeCLI.git"
+    },
+    {
+      "owner": "hashicorp",
+      "name": "terraform",
+      "full_name": "hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "total_stars": 49240,
+      "stars_today": 172,
+      "url": "https://github.com/hashicorp/terraform",
+      "clone_url": "https://github.com/hashicorp/terraform.git"
+    },
+    {
+      "owner": "grpc",
+      "name": "grpc",
+      "full_name": "grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "total_stars": 45176,
+      "stars_today": 78,
+      "url": "https://github.com/grpc/grpc",
+      "clone_url": "https://github.com/grpc/grpc.git"
+    },
+    {
+      "owner": "vercel",
+      "name": "next.js",
+      "full_name": "vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "total_stars": 140798,
+      "stars_today": 191,
+      "url": "https://github.com/vercel/next.js",
+      "clone_url": "https://github.com/vercel/next.js.git"
+    }
+  ]
+}

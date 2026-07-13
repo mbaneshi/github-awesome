@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-13",
+  "scraped_at": "2026-07-13T09:26:12.142Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "full_name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "total_stars": 3479,
+      "stars_today": 444,
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "clone_url": "https://github.com/Dicklesworthstone/destructive_command_guard.git"
+    },
+    {
+      "owner": "wonderwhy-er",
+      "name": "DesktopCommanderMCP",
+      "full_name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "total_stars": 8106,
+      "stars_today": 210,
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "clone_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "total_stars": 21051,
+      "stars_today": 768,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "clone_url": "https://github.com/HKUDS/Vibe-Trading.git"
+    },
+    {
+      "owner": "PrefectHQ",
+      "name": "prefect",
+      "full_name": "PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "total_stars": 23287,
+      "stars_today": 66,
+      "url": "https://github.com/PrefectHQ/prefect",
+      "clone_url": "https://github.com/PrefectHQ/prefect.git"
+    },
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "total_stars": 119071,
+      "stars_today": 408,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "clone_url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-cookbooks",
+      "full_name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "total_stars": 48665,
+      "stars_today": 459,
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "clone_url": "https://github.com/anthropics/claude-cookbooks.git"
+    },
+    {
+      "owner": "home-assistant",
+      "name": "core",
+      "full_name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "total_stars": 89283,
+      "stars_today": 400,
+      "url": "https://github.com/home-assistant/core",
+      "clone_url": "https://github.com/home-assistant/core.git"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "total_stars": 33970,
+      "stars_today": 125,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "clone_url": "https://github.com/Crosstalk-Solutions/project-nomad.git"
+    },
+    {
+      "owner": "ColeMurray",
+      "name": "background-agents",
+      "full_name": "ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "total_stars": 2361,
+      "stars_today": 16,
+      "url": "https://github.com/ColeMurray/background-agents",
+      "clone_url": "https://github.com/ColeMurray/background-agents.git"
+    },
+    {
+      "owner": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "full_name": "k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "total_stars": 7104,
+      "stars_today": 609,
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "clone_url": "https://github.com/k1tbyte/Wand-Enhancer.git"
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "description": null,
+      "language": "TypeScript",
+      "total_stars": 13857,
+      "stars_today": 75,
+      "url": "https://github.com/pingdotgg/t3code",
+      "clone_url": "https://github.com/pingdotgg/t3code.git"
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "total_stars": 61549,
+      "stars_today": 115,
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "clone_url": "https://github.com/virattt/ai-hedge-fund.git"
+    },
+    {
+      "owner": "chen08209",
+      "name": "FlClash",
+      "full_name": "chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "total_stars": 45391,
+      "stars_today": 154,
+      "url": "https://github.com/chen08209/FlClash",
+      "clone_url": "https://github.com/chen08209/FlClash.git"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "total_stars": 29338,
+      "stars_today": 274,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "clone_url": "https://github.com/davila7/claude-code-templates.git"
+    },
+    {
+      "owner": "par274",
+      "name": "sharpemu",
+      "full_name": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "total_stars": 1433,
+      "stars_today": 314,
+      "url": "https://github.com/par274/sharpemu",
+      "clone_url": "https://github.com/par274/sharpemu.git"
+    },
+    {
+      "owner": "malisper",
+      "name": "pgrust",
+      "full_name": "malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "total_stars": 2671,
+      "stars_today": 518,
+      "url": "https://github.com/malisper/pgrust",
+      "clone_url": "https://github.com/malisper/pgrust.git"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "total_stars": 4621,
+      "stars_today": 155,
+      "url": "https://github.com/Nutlope/hallmark",
+      "clone_url": "https://github.com/Nutlope/hallmark.git"
+    }
+  ]
+}

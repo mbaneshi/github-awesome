@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-15",
+  "scraped_at": "2026-07-15T08:09:20.970Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "full_name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "total_stars": 121315,
+      "stars_today": 1106,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "clone_url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "total_stars": 171101,
+      "stars_today": 1679,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "total_stars": 69650,
+      "stars_today": 4276,
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "clone_url": "https://github.com/OpenCut-app/OpenCut.git"
+    },
+    {
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "full_name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "total_stars": 62029,
+      "stars_today": 109,
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "clone_url": "https://github.com/virattt/ai-hedge-fund.git"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "total_stars": 6459,
+      "stars_today": 1015,
+      "url": "https://github.com/Nutlope/hallmark",
+      "clone_url": "https://github.com/Nutlope/hallmark.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "full_name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "total_stars": 23187,
+      "stars_today": 1256,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "clone_url": "https://github.com/HKUDS/Vibe-Trading.git"
+    },
+    {
+      "owner": "Raphire",
+      "name": "Win11Debloat",
+      "full_name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "total_stars": 52005,
+      "stars_today": 783,
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "clone_url": "https://github.com/Raphire/Win11Debloat.git"
+    },
+    {
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "full_name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "total_stars": 13859,
+      "stars_today": 851,
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "clone_url": "https://github.com/hasaneyldrm/exercises-dataset.git"
+    },
+    {
+      "owner": "penpot",
+      "name": "penpot",
+      "full_name": "penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "total_stars": 56341,
+      "stars_today": 395,
+      "url": "https://github.com/penpot/penpot",
+      "clone_url": "https://github.com/penpot/penpot.git"
+    },
+    {
+      "owner": "AIEraDev",
+      "name": "Clypra",
+      "full_name": "AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "language": "TypeScript",
+      "total_stars": 2765,
+      "stars_today": 85,
+      "url": "https://github.com/AIEraDev/Clypra",
+      "clone_url": "https://github.com/AIEraDev/Clypra.git"
+    },
+    {
+      "owner": "par274",
+      "name": "sharpemu",
+      "full_name": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "total_stars": 2311,
+      "stars_today": 332,
+      "url": "https://github.com/par274/sharpemu",
+      "clone_url": "https://github.com/par274/sharpemu.git"
+    },
+    {
+      "owner": "chenyme",
+      "name": "grok2api",
+      "full_name": "chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "language": "Go",
+      "total_stars": 5959,
+      "stars_today": 186,
+      "url": "https://github.com/chenyme/grok2api",
+      "clone_url": "https://github.com/chenyme/grok2api.git"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "total_stars": 86944,
+      "stars_today": 1851,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "clone_url": "https://github.com/Graphify-Labs/graphify.git"
+    },
+    {
+      "owner": "HenryNdubuaku",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "total_stars": 5502,
+      "stars_today": 112,
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "clone_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium.git"
+    }
+  ]
+}

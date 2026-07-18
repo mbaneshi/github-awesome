@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-18",
+  "scraped_at": "2026-07-18T07:49:00.181Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "total_stars": 527701,
+      "stars_today": 1068,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "clone_url": "https://github.com/codecrafters-io/build-your-own-x.git"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "total_stars": 36292,
+      "stars_today": 438,
+      "url": "https://github.com/PostHog/posthog",
+      "clone_url": "https://github.com/PostHog/posthog.git"
+    },
+    {
+      "owner": "HenryNdubuaku",
+      "name": "maths-cs-ai-compendium",
+      "full_name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "total_stars": 6771,
+      "stars_today": 200,
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "clone_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium.git"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "total_stars": 12322,
+      "stars_today": 1485,
+      "url": "https://github.com/Nutlope/hallmark",
+      "clone_url": "https://github.com/Nutlope/hallmark.git"
+    },
+    {
+      "owner": "github",
+      "name": "copilot-sdk",
+      "full_name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "total_stars": 9836,
+      "stars_today": 233,
+      "url": "https://github.com/github/copilot-sdk",
+      "clone_url": "https://github.com/github/copilot-sdk.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "cwc-workshops",
+      "full_name": "anthropics/cwc-workshops",
+      "description": null,
+      "language": "TypeScript",
+      "total_stars": 1649,
+      "stars_today": 45,
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "clone_url": "https://github.com/anthropics/cwc-workshops.git"
+    },
+    {
+      "owner": "PrismML-Eng",
+      "name": "Bonsai-demo",
+      "full_name": "PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "total_stars": 1761,
+      "stars_today": 278,
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "clone_url": "https://github.com/PrismML-Eng/Bonsai-demo.git"
+    },
+    {
+      "owner": "protocolbuffers",
+      "name": "protobuf",
+      "full_name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "total_stars": 71563,
+      "stars_today": 11,
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "clone_url": "https://github.com/protocolbuffers/protobuf.git"
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "total_stars": 19877,
+      "stars_today": 74,
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "clone_url": "https://github.com/tirth8205/code-review-graph.git"
+    },
+    {
+      "owner": "docusealco",
+      "name": "docuseal",
+      "full_name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "total_stars": 17937,
+      "stars_today": 91,
+      "url": "https://github.com/docusealco/docuseal",
+      "clone_url": "https://github.com/docusealco/docuseal.git"
+    },
+    {
+      "owner": "openinterpreter",
+      "name": "openinterpreter",
+      "full_name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "total_stars": 66518,
+      "stars_today": 431,
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "clone_url": "https://github.com/openinterpreter/openinterpreter.git"
+    },
+    {
+      "owner": "RyanCodrai",
+      "name": "turbovec",
+      "full_name": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "total_stars": 13408,
+      "stars_today": 280,
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "clone_url": "https://github.com/RyanCodrai/turbovec.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "total_stars": 27494,
+      "stars_today": 531,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "clone_url": "https://github.com/HKUDS/DeepTutor.git"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "total_stars": 75092,
+      "stars_today": 1074,
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "clone_url": "https://github.com/OpenCut-app/OpenCut.git"
+    }
+  ]
+}

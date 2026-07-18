@@ -1,6 +1,6 @@
 {
-  "Python": 173,
-  "TypeScript": 119,
+  "Python": 174,
+  "TypeScript": 120,
   "JavaScript": 40,
   "Rust": 36,
   "Go": 26,
@@ -15,8 +15,8 @@
   "Kotlin": 7,
   "Dart": 4,
   "CSS": 2,
-  "PowerShell": 2,
   "Ruby": 2,
+  "PowerShell": 2,
   "Elixir": 2,
   "Cuda": 2,
   "Markdown": 1,

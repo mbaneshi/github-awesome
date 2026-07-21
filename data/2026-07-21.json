@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-21",
+  "scraped_at": "2026-07-21T08:28:04.869Z",
+  "count": 21,
+  "repos": [
+    {
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "full_name": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "total_stars": 12284,
+      "stars_today": 4434,
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "clone_url": "https://github.com/bojieli/ai-agent-book.git"
+    },
+    {
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "full_name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "total_stars": 23952,
+      "stars_today": 1833,
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "clone_url": "https://github.com/tirth8205/code-review-graph.git"
+    },
+    {
+      "owner": "1jehuang",
+      "name": "jcode",
+      "full_name": "1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "total_stars": 9935,
+      "stars_today": 568,
+      "url": "https://github.com/1jehuang/jcode",
+      "clone_url": "https://github.com/1jehuang/jcode.git"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "total_stars": 22487,
+      "stars_today": 1107,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "clone_url": "https://github.com/diegosouzapw/OmniRoute.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 40980,
+      "stars_today": 823,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 135053,
+      "stars_today": 862,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "kvcache-ai",
+      "name": "ktransformers",
+      "full_name": "kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "total_stars": 18803,
+      "stars_today": 458,
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "clone_url": "https://github.com/kvcache-ai/ktransformers.git"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "total_stars": 44658,
+      "stars_today": 821,
+      "url": "https://github.com/jamiepine/voicebox",
+      "clone_url": "https://github.com/jamiepine/voicebox.git"
+    },
+    {
+      "owner": "topoteretes",
+      "name": "cognee",
+      "full_name": "topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "total_stars": 28907,
+      "stars_today": 234,
+      "url": "https://github.com/topoteretes/cognee",
+      "clone_url": "https://github.com/topoteretes/cognee.git"
+    },
+    {
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "full_name": "Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "total_stars": 14463,
+      "stars_today": 565,
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "clone_url": "https://github.com/Robbyant/lingbot-map.git"
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "total_stars": 6153,
+      "stars_today": 939,
+      "url": "https://github.com/every-app/open-seo",
+      "clone_url": "https://github.com/every-app/open-seo.git"
+    },
+    {
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "full_name": "MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "total_stars": 10372,
+      "stars_today": 410,
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "clone_url": "https://github.com/MoonshotAI/kimi-cli.git"
+    },
+    {
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "full_name": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "total_stars": 37252,
+      "stars_today": 317,
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "clone_url": "https://github.com/AstrBotDevs/AstrBot.git"
+    },
+    {
+      "owner": "PrefectHQ",
+      "name": "fastmcp",
+      "full_name": "PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "language": "Python",
+      "total_stars": 26659,
+      "stars_today": 96,
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "clone_url": "https://github.com/PrefectHQ/fastmcp.git"
+    },
+    {
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "full_name": "KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "total_stars": 2764,
+      "stars_today": 689,
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "clone_url": "https://github.com/KnockOutEZ/wigolo.git"
+    },
+    {
+      "owner": "tokio-rs",
+      "name": "topcoat",
+      "full_name": "tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "total_stars": 1790,
+      "stars_today": 371,
+      "url": "https://github.com/tokio-rs/topcoat",
+      "clone_url": "https://github.com/tokio-rs/topcoat.git"
+    },
+    {
+      "owner": "iptv-org",
+      "name": "iptv",
+      "full_name": "iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "total_stars": 133906,
+      "stars_today": 240,
+      "url": "https://github.com/iptv-org/iptv",
+      "clone_url": "https://github.com/iptv-org/iptv.git"
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "total_stars": 5275,
+      "stars_today": 1641,
+      "url": "https://github.com/oblien/openship",
+      "clone_url": "https://github.com/oblien/openship.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "Ontology-Playground",
+      "full_name": "microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "total_stars": 1841,
+      "stars_today": 464,
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "clone_url": "https://github.com/microsoft/Ontology-Playground.git"
+    },
+    {
+      "owner": "handy-computer",
+      "name": "transcribe.cpp",
+      "full_name": "handy-computer/transcribe.cpp",
+      "description": "ggml speech-to-text inference for 16+ model families",
+      "language": "C++",
+      "total_stars": 1392,
+      "stars_today": 395,
+      "url": "https://github.com/handy-computer/transcribe.cpp",
+      "clone_url": "https://github.com/handy-computer/transcribe.cpp.git"
+    },
+    {
+      "owner": "moonshine-ai",
+      "name": "moonshine",
+      "full_name": "moonshine-ai/moonshine",
+      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "language": "C++",
+      "total_stars": 10095,
+      "stars_today": 282,
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "clone_url": "https://github.com/moonshine-ai/moonshine.git"
+    }
+  ]
+}

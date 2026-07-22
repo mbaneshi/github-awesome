@@ -1,10 +1,10 @@
 {
-  "Python": 180,
-  "TypeScript": 124,
-  "JavaScript": 40,
-  "Rust": 38,
-  "Go": 26,
-  "C++": 24,
+  "Python": 183,
+  "TypeScript": 125,
+  "JavaScript": 42,
+  "Rust": 40,
+  "Go": 27,
+  "C++": 25,
   "Jupyter Notebook": 15,
   "Shell": 12,
   "HTML": 12,
@@ -19,6 +19,7 @@
   "PowerShell": 2,
   "Elixir": 2,
   "Cuda": 2,
+  "Assembly": 1,
   "Batchfile": 1,
   "Markdown": 1,
   "Clojure": 1,
@@ -30,6 +31,5 @@
   "Zig": 1,
   "Crystal": 1,
   "Logos": 1,
-  "Assembly": 1,
   "Vim Script": 1
 }

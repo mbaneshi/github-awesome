@@ -1,11 +1,11 @@
 {
-  "Python": 189,
+  "Python": 191,
   "TypeScript": 131,
-  "JavaScript": 45,
+  "JavaScript": 46,
   "Rust": 44,
-  "Go": 29,
+  "Go": 30,
   "C++": 28,
-  "Jupyter Notebook": 15,
+  "Jupyter Notebook": 16,
   "C#": 12,
   "Shell": 12,
   "HTML": 12,
@@ -19,6 +19,7 @@
   "Ruby": 2,
   "CSS": 2,
   "Elixir": 2,
+  "Crystal": 1,
   "PHP": 1,
   "Objective-C": 1,
   "Assembly": 1,
@@ -31,7 +32,6 @@
   "Roff": 1,
   "OCaml": 1,
   "Zig": 1,
-  "Crystal": 1,
   "Logos": 1,
   "Vim Script": 1
 }

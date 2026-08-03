@@ -1,0 +1,172 @@
+{
+  "date": "2026-08-03",
+  "scraped_at": "2026-08-03T09:43:21.880Z",
+  "count": 15,
+  "repos": [
+    {
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "total_stars": 60126,
+      "stars_today": 2629,
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "clone_url": "https://github.com/microsoft/AI-For-Beginners.git"
+    },
+    {
+      "owner": "usekaneo",
+      "name": "kaneo",
+      "full_name": "usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "total_stars": 6471,
+      "stars_today": 496,
+      "url": "https://github.com/usekaneo/kaneo",
+      "clone_url": "https://github.com/usekaneo/kaneo.git"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "total_stars": 26132,
+      "stars_today": 819,
+      "url": "https://github.com/lyogavin/airllm",
+      "clone_url": "https://github.com/lyogavin/airllm.git"
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "full_name": "iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "total_stars": 22102,
+      "stars_today": 305,
+      "url": "https://github.com/iv-org/invidious",
+      "clone_url": "https://github.com/iv-org/invidious.git"
+    },
+    {
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "full_name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "total_stars": 535366,
+      "stars_today": 674,
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "clone_url": "https://github.com/codecrafters-io/build-your-own-x.git"
+    },
+    {
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "total_stars": 14688,
+      "stars_today": 1141,
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "clone_url": "https://github.com/zhaoxuya520/reverse-skill.git"
+    },
+    {
+      "owner": "different-ai",
+      "name": "openwork",
+      "full_name": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "total_stars": 20605,
+      "stars_today": 280,
+      "url": "https://github.com/different-ai/openwork",
+      "clone_url": "https://github.com/different-ai/openwork.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "full_name": "microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "total_stars": 115148,
+      "stars_today": 588,
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "clone_url": "https://github.com/microsoft/generative-ai-for-beginners.git"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "total_stars": 65217,
+      "stars_today": 659,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "clone_url": "https://github.com/Panniantong/Agent-Reach.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "total_stars": 11571,
+      "stars_today": 602,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "clone_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory.git"
+    },
+    {
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "full_name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "total_stars": 57070,
+      "stars_today": 206,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "clone_url": "https://github.com/mvanhorn/last30days-skill.git"
+    },
+    {
+      "owner": "NomaDamas",
+      "name": "k-skill",
+      "full_name": "NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "language": "JavaScript",
+      "total_stars": 6965,
+      "stars_today": 177,
+      "url": "https://github.com/NomaDamas/k-skill",
+      "clone_url": "https://github.com/NomaDamas/k-skill.git"
+    },
+    {
+      "owner": "HarbourMasters",
+      "name": "Lighthouse",
+      "full_name": "HarbourMasters/Lighthouse",
+      "description": null,
+      "language": "C",
+      "total_stars": 271,
+      "stars_today": 65,
+      "url": "https://github.com/HarbourMasters/Lighthouse",
+      "clone_url": "https://github.com/HarbourMasters/Lighthouse.git"
+    },
+    {
+      "owner": "antirez",
+      "name": "ds4",
+      "full_name": "antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "total_stars": 20169,
+      "stars_today": 139,
+      "url": "https://github.com/antirez/ds4",
+      "clone_url": "https://github.com/antirez/ds4.git"
+    },
+    {
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "total_stars": 29499,
+      "stars_today": 333,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "clone_url": "https://github.com/esengine/DeepSeek-Reasonix.git"
+    }
+  ]
+}

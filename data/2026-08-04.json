@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-04",
+  "scraped_at": "2026-08-04T08:35:10.131Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "total_stars": 27722,
+      "stars_today": 1085,
+      "url": "https://github.com/lyogavin/airllm",
+      "clone_url": "https://github.com/lyogavin/airllm.git"
+    },
+    {
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "total_stars": 16669,
+      "stars_today": 2446,
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "clone_url": "https://github.com/zhaoxuya520/reverse-skill.git"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "total_stars": 8986,
+      "stars_today": 1699,
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "clone_url": "https://github.com/firecrawl/pdf-inspector.git"
+    },
+    {
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "total_stars": 30328,
+      "stars_today": 883,
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "clone_url": "https://github.com/esengine/DeepSeek-Reasonix.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "total_stars": 12548,
+      "stars_today": 1090,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "clone_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "full_name": "microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "total_stars": 61282,
+      "stars_today": 1902,
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "clone_url": "https://github.com/microsoft/AI-For-Beginners.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "full_name": "microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "total_stars": 115902,
+      "stars_today": 775,
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "clone_url": "https://github.com/microsoft/generative-ai-for-beginners.git"
+    },
+    {
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "full_name": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "total_stars": 360788,
+      "stars_today": 237,
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "clone_url": "https://github.com/donnemartin/system-design-primer.git"
+    },
+    {
+      "owner": "antirez",
+      "name": "ds4",
+      "full_name": "antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "total_stars": 20470,
+      "stars_today": 384,
+      "url": "https://github.com/antirez/ds4",
+      "clone_url": "https://github.com/antirez/ds4.git"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "total_stars": 35913,
+      "stars_today": 200,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "clone_url": "https://github.com/shiyu-coder/Kronos.git"
+    },
+    {
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "full_name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "total_stars": 66103,
+      "stars_today": 1057,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "clone_url": "https://github.com/Panniantong/Agent-Reach.git"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+      "language": "Python",
+      "total_stars": 44194,
+      "stars_today": 278,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "clone_url": "https://github.com/Alishahryar1/free-claude-code.git"
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "full_name": "iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "total_stars": 22332,
+      "stars_today": 402,
+      "url": "https://github.com/iv-org/invidious",
+      "clone_url": "https://github.com/iv-org/invidious.git"
+    },
+    {
+      "owner": "livekit",
+      "name": "agents",
+      "full_name": "livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "language": "Python",
+      "total_stars": 12174,
+      "stars_today": 148,
+      "url": "https://github.com/livekit/agents",
+      "clone_url": "https://github.com/livekit/agents.git"
+    },
+    {
+      "owner": "usekaneo",
+      "name": "kaneo",
+      "full_name": "usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "total_stars": 7044,
+      "stars_today": 665,
+      "url": "https://github.com/usekaneo/kaneo",
+      "clone_url": "https://github.com/usekaneo/kaneo.git"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "total_stars": 48937,
+      "stars_today": 412,
+      "url": "https://github.com/jamiepine/voicebox",
+      "clone_url": "https://github.com/jamiepine/voicebox.git"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-08",
+  "scraped_at": "2026-08-08T06:52:13.424Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "total_stars": 7069,
+      "stars_today": 2293,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "clone_url": "https://github.com/PrimeIntellect-ai/prime-agent.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 84057,
+      "stars_today": 1131,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "computer",
+      "full_name": "cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "total_stars": 6003,
+      "stars_today": 872,
+      "url": "https://github.com/cloudflare/computer",
+      "clone_url": "https://github.com/cloudflare/computer.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 209129,
+      "stars_today": 2152,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 268894,
+      "stars_today": 782,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "total_stars": 23706,
+      "stars_today": 530,
+      "url": "https://github.com/goauthentik/authentik",
+      "clone_url": "https://github.com/goauthentik/authentik.git"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "total_stars": 2421,
+      "stars_today": 122,
+      "url": "https://github.com/semantica-agi/semantica",
+      "clone_url": "https://github.com/semantica-agi/semantica.git"
+    },
+    {
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "full_name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "total_stars": 70618,
+      "stars_today": 141,
+      "url": "https://github.com/666ghj/MiroFish",
+      "clone_url": "https://github.com/666ghj/MiroFish.git"
+    },
+    {
+      "owner": "chenyme",
+      "name": "grok2api",
+      "full_name": "chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "total_stars": 7169,
+      "stars_today": 55,
+      "url": "https://github.com/chenyme/grok2api",
+      "clone_url": "https://github.com/chenyme/grok2api.git"
+    },
+    {
+      "owner": "jdx",
+      "name": "mise",
+      "full_name": "jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "total_stars": 32113,
+      "stars_today": 135,
+      "url": "https://github.com/jdx/mise",
+      "clone_url": "https://github.com/jdx/mise.git"
+    },
+    {
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "total_stars": 186383,
+      "stars_today": 355,
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "clone_url": "https://github.com/Significant-Gravitas/AutoGPT.git"
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "full_name": "google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "total_stars": 51782,
+      "stars_today": 152,
+      "url": "https://github.com/google/guava",
+      "clone_url": "https://github.com/google/guava.git"
+    },
+    {
+      "owner": "unclebob",
+      "name": "swarm-forge",
+      "full_name": "unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "total_stars": 1892,
+      "stars_today": 81,
+      "url": "https://github.com/unclebob/swarm-forge",
+      "clone_url": "https://github.com/unclebob/swarm-forge.git"
+    },
+    {
+      "owner": "denoland",
+      "name": "celld",
+      "full_name": "denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "total_stars": 2304,
+      "stars_today": 516,
+      "url": "https://github.com/denoland/celld",
+      "clone_url": "https://github.com/denoland/celld.git"
+    },
+    {
+      "owner": "K2SOsint",
+      "name": "Legendary_OSINT",
+      "full_name": "K2SOsint/Legendary_OSINT",
+      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "language": null,
+      "total_stars": 1549,
+      "stars_today": 109,
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "clone_url": "https://github.com/K2SOsint/Legendary_OSINT.git"
+    },
+    {
+      "owner": "pranshuparmar",
+      "name": "witr",
+      "full_name": "pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "total_stars": 19899,
+      "stars_today": 234,
+      "url": "https://github.com/pranshuparmar/witr",
+      "clone_url": "https://github.com/pranshuparmar/witr.git"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "total_stars": 16365,
+      "stars_today": 327,
+      "url": "https://github.com/google/skills",
+      "clone_url": "https://github.com/google/skills.git"
+    }
+  ]
+}

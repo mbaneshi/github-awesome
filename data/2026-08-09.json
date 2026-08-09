@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-09",
+  "scraped_at": "2026-08-09T06:55:33.471Z",
+  "count": 12,
+  "repos": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "total_stars": 9416,
+      "stars_today": 2483,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "clone_url": "https://github.com/PrimeIntellect-ai/prime-agent.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 84722,
+      "stars_today": 779,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "full_name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "total_stars": 78059,
+      "stars_today": 118,
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "clone_url": "https://github.com/TapXWorld/ChinaTextbook.git"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "total_stars": 16869,
+      "stars_today": 481,
+      "url": "https://github.com/google/skills",
+      "clone_url": "https://github.com/google/skills.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 210321,
+      "stars_today": 1359,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "total_stars": 24038,
+      "stars_today": 467,
+      "url": "https://github.com/goauthentik/authentik",
+      "clone_url": "https://github.com/goauthentik/authentik.git"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "total_stars": 96645,
+      "stars_today": 153,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "clone_url": "https://github.com/TauricResearch/TradingAgents.git"
+    },
+    {
+      "owner": "google",
+      "name": "guava",
+      "full_name": "google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "total_stars": 51871,
+      "stars_today": 93,
+      "url": "https://github.com/google/guava",
+      "clone_url": "https://github.com/google/guava.git"
+    },
+    {
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "full_name": "LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "total_stars": 65059,
+      "stars_today": 48,
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "clone_url": "https://github.com/LadybirdBrowser/ladybird.git"
+    },
+    {
+      "owner": "denoland",
+      "name": "celld",
+      "full_name": "denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "total_stars": 2680,
+      "stars_today": 432,
+      "url": "https://github.com/denoland/celld",
+      "clone_url": "https://github.com/denoland/celld.git"
+    },
+    {
+      "owner": "litu54",
+      "name": "DevOps-Interview-Guide",
+      "full_name": "litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "language": null,
+      "total_stars": 758,
+      "stars_today": 68,
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "clone_url": "https://github.com/litu54/DevOps-Interview-Guide.git"
+    },
+    {
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "full_name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "total_stars": 50038,
+      "stars_today": 101,
+      "url": "https://github.com/bannedbook/fanqiang",
+      "clone_url": "https://github.com/bannedbook/fanqiang.git"
+    }
+  ]
+}

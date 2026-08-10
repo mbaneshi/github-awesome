@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-10",
+  "scraped_at": "2026-08-10T07:40:09.871Z",
+  "count": 12,
+  "repos": [
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "total_stars": 12026,
+      "stars_today": 2356,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "clone_url": "https://github.com/PrimeIntellect-ai/prime-agent.git"
+    },
+    {
+      "owner": "vitali87",
+      "name": "code-graph-rag",
+      "full_name": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "total_stars": 3236,
+      "stars_today": 96,
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "clone_url": "https://github.com/vitali87/code-graph-rag.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 141158,
+      "stars_today": 858,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "pranshuparmar",
+      "name": "witr",
+      "full_name": "pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "total_stars": 20995,
+      "stars_today": 210,
+      "url": "https://github.com/pranshuparmar/witr",
+      "clone_url": "https://github.com/pranshuparmar/witr.git"
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "weathernext",
+      "full_name": "google-deepmind/weathernext",
+      "description": null,
+      "language": "Python",
+      "total_stars": 7180,
+      "stars_today": 86,
+      "url": "https://github.com/google-deepmind/weathernext",
+      "clone_url": "https://github.com/google-deepmind/weathernext.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 85359,
+      "stars_today": 680,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "total_stars": 61511,
+      "stars_today": 306,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "clone_url": "https://github.com/ZhuLinsen/daily_stock_analysis.git"
+    },
+    {
+      "owner": "goauthentik",
+      "name": "authentik",
+      "full_name": "goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "total_stars": 24395,
+      "stars_today": 310,
+      "url": "https://github.com/goauthentik/authentik",
+      "clone_url": "https://github.com/goauthentik/authentik.git"
+    },
+    {
+      "owner": "google",
+      "name": "skills",
+      "full_name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "total_stars": 17408,
+      "stars_today": 528,
+      "url": "https://github.com/google/skills",
+      "clone_url": "https://github.com/google/skills.git"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "total_stars": 125833,
+      "stars_today": 365,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "clone_url": "https://github.com/Comfy-Org/ComfyUI.git"
+    },
+    {
+      "owner": "harveyai",
+      "name": "harvey-labs",
+      "full_name": "harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "total_stars": 913,
+      "stars_today": 47,
+      "url": "https://github.com/harveyai/harvey-labs",
+      "clone_url": "https://github.com/harveyai/harvey-labs.git"
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "description": null,
+      "language": "TypeScript",
+      "total_stars": 17784,
+      "stars_today": 163,
+      "url": "https://github.com/pingdotgg/t3code",
+      "clone_url": "https://github.com/pingdotgg/t3code.git"
+    }
+  ]
+}

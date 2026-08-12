@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-12",
+  "scraped_at": "2026-08-12T07:23:34.182Z",
+  "count": 18,
+  "repos": [
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "total_stars": 7479,
+      "stars_today": 1616,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 143866,
+      "stars_today": 958,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "total_stars": 5195,
+      "stars_today": 893,
+      "url": "https://github.com/semantica-agi/semantica",
+      "clone_url": "https://github.com/semantica-agi/semantica.git"
+    },
+    {
+      "owner": "nvm-sh",
+      "name": "nvm",
+      "full_name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "total_stars": 94528,
+      "stars_today": 22,
+      "url": "https://github.com/nvm-sh/nvm",
+      "clone_url": "https://github.com/nvm-sh/nvm.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 86356,
+      "stars_today": 578,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "total_stars": 62365,
+      "stars_today": 243,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "clone_url": "https://github.com/ZhuLinsen/daily_stock_analysis.git"
+    },
+    {
+      "owner": "vitali87",
+      "name": "code-graph-rag",
+      "full_name": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "total_stars": 3929,
+      "stars_today": 341,
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "clone_url": "https://github.com/vitali87/code-graph-rag.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "total_stars": 168331,
+      "stars_today": 485,
+      "url": "https://github.com/anthropics/skills",
+      "clone_url": "https://github.com/anthropics/skills.git"
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "total_stars": 90363,
+      "stars_today": 197,
+      "url": "https://github.com/3b1b/manim",
+      "clone_url": "https://github.com/3b1b/manim.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "total_stars": 34956,
+      "stars_today": 812,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "clone_url": "https://github.com/HKUDS/DeepTutor.git"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "total_stars": 43133,
+      "stars_today": 875,
+      "url": "https://github.com/stablyai/orca",
+      "clone_url": "https://github.com/stablyai/orca.git"
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "total_stars": 77338,
+      "stars_today": 748,
+      "url": "https://github.com/paperclipai/paperclip",
+      "clone_url": "https://github.com/paperclipai/paperclip.git"
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "total_stars": 163908,
+      "stars_today": 80,
+      "url": "https://github.com/huggingface/transformers",
+      "clone_url": "https://github.com/huggingface/transformers.git"
+    },
+    {
+      "owner": "harveyai",
+      "name": "harvey-labs",
+      "full_name": "harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "total_stars": 1128,
+      "stars_today": 28,
+      "url": "https://github.com/harveyai/harvey-labs",
+      "clone_url": "https://github.com/harveyai/harvey-labs.git"
+    },
+    {
+      "owner": "jaywcjlove",
+      "name": "awesome-mac",
+      "full_name": "jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "total_stars": 110639,
+      "stars_today": 298,
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "clone_url": "https://github.com/jaywcjlove/awesome-mac.git"
+    },
+    {
+      "owner": "calesthio",
+      "name": "OpenMontage",
+      "full_name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "total_stars": 47562,
+      "stars_today": 458,
+      "url": "https://github.com/calesthio/OpenMontage",
+      "clone_url": "https://github.com/calesthio/OpenMontage.git"
+    },
+    {
+      "owner": "practical-tutorials",
+      "name": "project-based-learning",
+      "full_name": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "language": "Python",
+      "total_stars": 278634,
+      "stars_today": 401,
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "clone_url": "https://github.com/practical-tutorials/project-based-learning.git"
+    },
+    {
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "full_name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "total_stars": 14453,
+      "stars_today": 1138,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "clone_url": "https://github.com/PrimeIntellect-ai/prime-agent.git"
+    }
+  ]
+}

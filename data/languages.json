@@ -1,6 +1,6 @@
 {
-  "Python": 206,
-  "TypeScript": 138,
+  "Python": 207,
+  "TypeScript": 140,
   "Rust": 50,
   "JavaScript": 47,
   "Go": 33,
@@ -11,8 +11,8 @@
   "C": 13,
   "Java": 12,
   "C#": 12,
-  "Kotlin": 9,
   "Swift": 9,
+  "Kotlin": 9,
   "Dart": 5,
   "PowerShell": 3,
   "Cuda": 3,

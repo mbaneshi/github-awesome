@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-14",
+  "scraped_at": "2026-08-14T07:23:18.067Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "total_stars": 15624,
+      "stars_today": 4475,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "semantica-agi",
+      "name": "semantica",
+      "full_name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "total_stars": 7027,
+      "stars_today": 713,
+      "url": "https://github.com/semantica-agi/semantica",
+      "clone_url": "https://github.com/semantica-agi/semantica.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "total_stars": 169231,
+      "stars_today": 312,
+      "url": "https://github.com/anthropics/skills",
+      "clone_url": "https://github.com/anthropics/skills.git"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "total_stars": 5151,
+      "stars_today": 769,
+      "url": "https://github.com/cactus-compute/needle",
+      "clone_url": "https://github.com/cactus-compute/needle.git"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "total_stars": 9982,
+      "stars_today": 76,
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "clone_url": "https://github.com/altic-dev/FluidVoice.git"
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "total_stars": 71205,
+      "stars_today": 328,
+      "url": "https://github.com/unslothai/unsloth",
+      "clone_url": "https://github.com/unslothai/unsloth.git"
+    },
+    {
+      "owner": "macro-inc",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "total_stars": 2744,
+      "stars_today": 1239,
+      "url": "https://github.com/macro-inc/macro",
+      "clone_url": "https://github.com/macro-inc/macro.git"
+    },
+    {
+      "owner": "megadose",
+      "name": "holehe",
+      "full_name": "megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "total_stars": 12528,
+      "stars_today": 195,
+      "url": "https://github.com/megadose/holehe",
+      "clone_url": "https://github.com/megadose/holehe.git"
+    },
+    {
+      "owner": "smicallef",
+      "name": "spiderfoot",
+      "full_name": "smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "total_stars": 20733,
+      "stars_today": 283,
+      "url": "https://github.com/smicallef/spiderfoot",
+      "clone_url": "https://github.com/smicallef/spiderfoot.git"
+    },
+    {
+      "owner": "NVIDIA-NeMo",
+      "name": "Switchyard",
+      "full_name": "NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "total_stars": 1326,
+      "stars_today": 408,
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "clone_url": "https://github.com/NVIDIA-NeMo/Switchyard.git"
+    },
+    {
+      "owner": "holaboss-ai",
+      "name": "holaOS",
+      "full_name": "holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "total_stars": 6820,
+      "stars_today": 241,
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "clone_url": "https://github.com/holaboss-ai/holaOS.git"
+    },
+    {
+      "owner": "kepano",
+      "name": "obsidian-skills",
+      "full_name": "kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "language": null,
+      "total_stars": 46029,
+      "stars_today": 292,
+      "url": "https://github.com/kepano/obsidian-skills",
+      "clone_url": "https://github.com/kepano/obsidian-skills.git"
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "total_stars": 91000,
+      "stars_today": 176,
+      "url": "https://github.com/3b1b/manim",
+      "clone_url": "https://github.com/3b1b/manim.git"
+    },
+    {
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "full_name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "total_stars": 145334,
+      "stars_today": 778,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "clone_url": "https://github.com/msitarzewski/agency-agents.git"
+    },
+    {
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "full_name": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "total_stars": 8977,
+      "stars_today": 205,
+      "url": "https://github.com/Lightricks/LTX-2",
+      "clone_url": "https://github.com/Lightricks/LTX-2.git"
+    },
+    {
+      "owner": "lightningpixel",
+      "name": "modly",
+      "full_name": "lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "total_stars": 5600,
+      "stars_today": 118,
+      "url": "https://github.com/lightningpixel/modly",
+      "clone_url": "https://github.com/lightningpixel/modly.git"
+    },
+    {
+      "owner": "infiniflow",
+      "name": "ragflow",
+      "full_name": "infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "total_stars": 88173,
+      "stars_today": 465,
+      "url": "https://github.com/infiniflow/ragflow",
+      "clone_url": "https://github.com/infiniflow/ragflow.git"
+    }
+  ]
+}

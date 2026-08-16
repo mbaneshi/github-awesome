@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-16",
+  "scraped_at": "2026-08-16T06:38:14.969Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "total_stars": 4256,
+      "stars_today": 599,
+      "url": "https://github.com/cordiverse/cordis",
+      "clone_url": "https://github.com/cordiverse/cordis.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "total_stars": 18882,
+      "stars_today": 1607,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "cursor",
+      "name": "plugins",
+      "full_name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "total_stars": 2987,
+      "stars_today": 149,
+      "url": "https://github.com/cursor/plugins",
+      "clone_url": "https://github.com/cursor/plugins.git"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "total_stars": 6160,
+      "stars_today": 547,
+      "url": "https://github.com/cactus-compute/needle",
+      "clone_url": "https://github.com/cactus-compute/needle.git"
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "total_stars": 72163,
+      "stars_today": 434,
+      "url": "https://github.com/unslothai/unsloth",
+      "clone_url": "https://github.com/unslothai/unsloth.git"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "total_stars": 460505,
+      "stars_today": 2260,
+      "url": "https://github.com/public-apis/public-apis",
+      "clone_url": "https://github.com/public-apis/public-apis.git"
+    },
+    {
+      "owner": "MakazhanAlpamys",
+      "name": "Soup",
+      "full_name": "MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "total_stars": 1784,
+      "stars_today": 297,
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "clone_url": "https://github.com/MakazhanAlpamys/Soup.git"
+    },
+    {
+      "owner": "github",
+      "name": "spec-kit",
+      "full_name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "total_stars": 129293,
+      "stars_today": 892,
+      "url": "https://github.com/github/spec-kit",
+      "clone_url": "https://github.com/github/spec-kit.git"
+    },
+    {
+      "owner": "megadose",
+      "name": "holehe",
+      "full_name": "megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "total_stars": 13176,
+      "stars_today": 382,
+      "url": "https://github.com/megadose/holehe",
+      "clone_url": "https://github.com/megadose/holehe.git"
+    },
+    {
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "full_name": "altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+      "language": "Swift",
+      "total_stars": 10394,
+      "stars_today": 104,
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "clone_url": "https://github.com/altic-dev/FluidVoice.git"
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "full_name": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "total_stars": 39648,
+      "stars_today": 544,
+      "url": "https://github.com/ToolJet/ToolJet",
+      "clone_url": "https://github.com/ToolJet/ToolJet.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "total_stars": 47479,
+      "stars_today": 118,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "clone_url": "https://github.com/HKUDS/CLI-Anything.git"
+    },
+    {
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "full_name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "total_stars": 11147,
+      "stars_today": 545,
+      "url": "https://github.com/citrolabs/ego-lite",
+      "clone_url": "https://github.com/citrolabs/ego-lite.git"
+    }
+  ]
+}

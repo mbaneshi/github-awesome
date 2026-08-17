@@ -1,0 +1,84 @@
+{
+  "date": "2026-08-17",
+  "scraped_at": "2026-08-17T06:53:46.552Z",
+  "count": 7,
+  "repos": [
+    {
+      "owner": "cordiverse",
+      "name": "cordis",
+      "full_name": "cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "total_stars": 5129,
+      "stars_today": 720,
+      "url": "https://github.com/cordiverse/cordis",
+      "clone_url": "https://github.com/cordiverse/cordis.git"
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "total_stars": 25621,
+      "stars_today": 270,
+      "url": "https://github.com/basecamp/omarchy",
+      "clone_url": "https://github.com/basecamp/omarchy.git"
+    },
+    {
+      "owner": "unslothai",
+      "name": "unsloth",
+      "full_name": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "total_stars": 72828,
+      "stars_today": 572,
+      "url": "https://github.com/unslothai/unsloth",
+      "clone_url": "https://github.com/unslothai/unsloth.git"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "total_stars": 84142,
+      "stars_today": 150,
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "clone_url": "https://github.com/OpenCut-app/OpenCut.git"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "total_stars": 462296,
+      "stars_today": 1588,
+      "url": "https://github.com/public-apis/public-apis",
+      "clone_url": "https://github.com/public-apis/public-apis.git"
+    },
+    {
+      "owner": "ToolJet",
+      "name": "ToolJet",
+      "full_name": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "total_stars": 40234,
+      "stars_today": 452,
+      "url": "https://github.com/ToolJet/ToolJet",
+      "clone_url": "https://github.com/ToolJet/ToolJet.git"
+    },
+    {
+      "owner": "cactus-compute",
+      "name": "needle",
+      "full_name": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "total_stars": 6806,
+      "stars_today": 443,
+      "url": "https://github.com/cactus-compute/needle",
+      "clone_url": "https://github.com/cactus-compute/needle.git"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "Python": 208,
-  "TypeScript": 142,
+  "Python": 209,
+  "TypeScript": 144,
   "Rust": 51,
   "JavaScript": 48,
   "Go": 33,
@@ -20,6 +20,7 @@
   "Ruby": 2,
   "CSS": 2,
   "Elixir": 2,
+  "PLSQL": 1,
   "Roff": 1,
   "Crystal": 1,
   "Markdown": 1,

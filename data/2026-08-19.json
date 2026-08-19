@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-19",
+  "scraped_at": "2026-08-19T06:41:28.787Z",
+  "count": 12,
+  "repos": [
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "total_stars": 109063,
+      "stars_today": 2304,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "clone_url": "https://github.com/harry0703/MoneyPrinterTurbo.git"
+    },
+    {
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "full_name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "total_stars": 2260,
+      "stars_today": 306,
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "clone_url": "https://github.com/chaitanyagiri/munder-difflin.git"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "total_stars": 2911,
+      "stars_today": 648,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "clone_url": "https://github.com/akitaonrails/ai-memory.git"
+    },
+    {
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "full_name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "total_stars": 29639,
+      "stars_today": 213,
+      "url": "https://github.com/volcengine/OpenViking",
+      "clone_url": "https://github.com/volcengine/OpenViking.git"
+    },
+    {
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "total_stars": 29379,
+      "stars_today": 730,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "clone_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git"
+    },
+    {
+      "owner": "public-apis",
+      "name": "public-apis",
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "total_stars": 464969,
+      "stars_today": 1005,
+      "url": "https://github.com/public-apis/public-apis",
+      "clone_url": "https://github.com/public-apis/public-apis.git"
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "total_stars": 26543,
+      "stars_today": 356,
+      "url": "https://github.com/basecamp/omarchy",
+      "clone_url": "https://github.com/basecamp/omarchy.git"
+    },
+    {
+      "owner": "agalwood",
+      "name": "Motrix",
+      "full_name": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "total_stars": 53845,
+      "stars_today": 609,
+      "url": "https://github.com/agalwood/Motrix",
+      "clone_url": "https://github.com/agalwood/Motrix.git"
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "total_stars": 24411,
+      "stars_today": 192,
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "clone_url": "https://github.com/NawfalMotii79/PLFM_RADAR.git"
+    },
+    {
+      "owner": "jundot",
+      "name": "omlx",
+      "full_name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "total_stars": 19529,
+      "stars_today": 370,
+      "url": "https://github.com/jundot/omlx",
+      "clone_url": "https://github.com/jundot/omlx.git"
+    },
+    {
+      "owner": "genlayerlabs",
+      "name": "genlayer-project-boilerplate",
+      "full_name": "genlayerlabs/genlayer-project-boilerplate",
+      "description": null,
+      "language": "TypeScript",
+      "total_stars": 16049,
+      "stars_today": 535,
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "clone_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate.git"
+    },
+    {
+      "owner": "OpenCut-app",
+      "name": "OpenCut",
+      "full_name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "total_stars": 84957,
+      "stars_today": 192,
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "clone_url": "https://github.com/OpenCut-app/OpenCut.git"
+    }
+  ]
+}

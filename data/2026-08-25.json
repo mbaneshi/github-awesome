@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-25",
+  "scraped_at": "2026-08-25T06:44:43.772Z",
+  "count": 19,
+  "repos": [
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "total_stars": 49287,
+      "stars_today": 891,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "clone_url": "https://github.com/Alishahryar1/free-claude-code.git"
+    },
+    {
+      "owner": "openai",
+      "name": "codex",
+      "full_name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "total_stars": 117479,
+      "stars_today": 1994,
+      "url": "https://github.com/openai/codex",
+      "clone_url": "https://github.com/openai/codex.git"
+    },
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "total_stars": 34376,
+      "stars_today": 434,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "clone_url": "https://github.com/MadsLorentzen/ai-job-search.git"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 206740,
+      "stars_today": 588,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "makeplane",
+      "name": "plane",
+      "full_name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "total_stars": 58093,
+      "stars_today": 243,
+      "url": "https://github.com/makeplane/plane",
+      "clone_url": "https://github.com/makeplane/plane.git"
+    },
+    {
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "total_stars": 235998,
+      "stars_today": 896,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "clone_url": "https://github.com/NousResearch/hermes-agent.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-plugins-community",
+      "full_name": "anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "total_stars": 1471,
+      "stars_today": 489,
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "clone_url": "https://github.com/anthropics/claude-plugins-community.git"
+    },
+    {
+      "owner": "AprilNEA",
+      "name": "OpenLogi",
+      "full_name": "AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "total_stars": 16056,
+      "stars_today": 1097,
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "clone_url": "https://github.com/AprilNEA/OpenLogi.git"
+    },
+    {
+      "owner": "apache",
+      "name": "maka",
+      "full_name": "apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "total_stars": 3034,
+      "stars_today": 411,
+      "url": "https://github.com/apache/maka",
+      "clone_url": "https://github.com/apache/maka.git"
+    },
+    {
+      "owner": "PostHog",
+      "name": "posthog",
+      "full_name": "PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "total_stars": 39065,
+      "stars_today": 83,
+      "url": "https://github.com/PostHog/posthog",
+      "clone_url": "https://github.com/PostHog/posthog.git"
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "total_stars": 387499,
+      "stars_today": 173,
+      "url": "https://github.com/openclaw/openclaw",
+      "clone_url": "https://github.com/openclaw/openclaw.git"
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-obsidian",
+      "full_name": "AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "language": "Python",
+      "total_stars": 12119,
+      "stars_today": 310,
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "clone_url": "https://github.com/AgriciDaniel/claude-obsidian.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 48438,
+      "stars_today": 349,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "basecamp",
+      "name": "omarchy",
+      "full_name": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "total_stars": 30434,
+      "stars_today": 1056,
+      "url": "https://github.com/basecamp/omarchy",
+      "clone_url": "https://github.com/basecamp/omarchy.git"
+    },
+    {
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "full_name": "tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "total_stars": 19941,
+      "stars_today": 174,
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "clone_url": "https://github.com/tashfeenahmed/freellmapi.git"
+    },
+    {
+      "owner": "dani-garcia",
+      "name": "vaultwarden",
+      "full_name": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "total_stars": 66163,
+      "stars_today": 175,
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "clone_url": "https://github.com/dani-garcia/vaultwarden.git"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "total_stars": 16052,
+      "stars_today": 2449,
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "clone_url": "https://github.com/freestylefly/awesome-gpt-image-2.git"
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-agent-skills",
+      "full_name": "VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": null,
+      "total_stars": 32048,
+      "stars_today": 602,
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "clone_url": "https://github.com/VoltAgent/awesome-agent-skills.git"
+    },
+    {
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "full_name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "total_stars": 37414,
+      "stars_today": 515,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "clone_url": "https://github.com/tinyhumansai/openhuman.git"
+    }
+  ]
+}

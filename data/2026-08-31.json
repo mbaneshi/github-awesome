@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-31",
+  "scraped_at": "2026-08-31T12:50:50.344Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "total_stars": 25790,
+      "stars_today": 2819,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "clone_url": "https://github.com/THU-MAIC/OpenMAIC.git"
+    },
+    {
+      "owner": "tt-a1i",
+      "name": "archify",
+      "full_name": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "total_stars": 36965,
+      "stars_today": 3993,
+      "url": "https://github.com/tt-a1i/archify",
+      "clone_url": "https://github.com/tt-a1i/archify.git"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "total_stars": 40368,
+      "stars_today": 1968,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "clone_url": "https://github.com/K-Dense-AI/scientific-agent-skills.git"
+    },
+    {
+      "owner": "k1tbyte",
+      "name": "Wand-Enhancer",
+      "full_name": "k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "total_stars": 23134,
+      "stars_today": 718,
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "clone_url": "https://github.com/k1tbyte/Wand-Enhancer.git"
+    },
+    {
+      "owner": "majd",
+      "name": "ipatool",
+      "full_name": "majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "total_stars": 10414,
+      "stars_today": 376,
+      "url": "https://github.com/majd/ipatool",
+      "clone_url": "https://github.com/majd/ipatool.git"
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "total_stars": 55770,
+      "stars_today": 472,
+      "url": "https://github.com/jingyaogong/minimind",
+      "clone_url": "https://github.com/jingyaogong/minimind.git"
+    },
+    {
+      "owner": "Osmantic",
+      "name": "ODS",
+      "full_name": "Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "language": "Python",
+      "total_stars": 5220,
+      "stars_today": 331,
+      "url": "https://github.com/Osmantic/ODS",
+      "clone_url": "https://github.com/Osmantic/ODS.git"
+    },
+    {
+      "owner": "checkstyle",
+      "name": "checkstyle",
+      "full_name": "checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "language": "Java",
+      "total_stars": 9308,
+      "stars_today": 199,
+      "url": "https://github.com/checkstyle/checkstyle",
+      "clone_url": "https://github.com/checkstyle/checkstyle.git"
+    },
+    {
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "total_stars": 32700,
+      "stars_today": 1439,
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "clone_url": "https://github.com/zhaoxuya520/reverse-skill.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 244951,
+      "stars_today": 490,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "kaifcodec",
+      "name": "user-scanner",
+      "full_name": "kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+      "language": "Python",
+      "total_stars": 3961,
+      "stars_today": 462,
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "clone_url": "https://github.com/kaifcodec/user-scanner.git"
+    },
+    {
+      "owner": "every-app",
+      "name": "open-seo",
+      "full_name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "total_stars": 15498,
+      "stars_today": 608,
+      "url": "https://github.com/every-app/open-seo",
+      "clone_url": "https://github.com/every-app/open-seo.git"
+    },
+    {
+      "owner": "p-e-w",
+      "name": "heretic",
+      "full_name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "total_stars": 29441,
+      "stars_today": 536,
+      "url": "https://github.com/p-e-w/heretic",
+      "clone_url": "https://github.com/p-e-w/heretic.git"
+    },
+    {
+      "owner": "handsomestWei",
+      "name": "patent-disclosure-skill",
+      "full_name": "handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "total_stars": 6096,
+      "stars_today": 571,
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "clone_url": "https://github.com/handsomestWei/patent-disclosure-skill.git"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "total_stars": 17157,
+      "stars_today": 199,
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "clone_url": "https://github.com/firecrawl/pdf-inspector.git"
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck_rl",
+      "full_name": "pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "total_stars": 1034,
+      "stars_today": 384,
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "clone_url": "https://github.com/pollen-robotics/microduck_rl.git"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-01",
+  "scraped_at": "2026-09-01T11:10:57.045Z",
+  "count": 15,
+  "repos": [
+    {
+      "owner": "Gitlawb",
+      "name": "openclaude",
+      "full_name": "Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "total_stars": 30957,
+      "stars_today": 37,
+      "url": "https://github.com/Gitlawb/openclaude",
+      "clone_url": "https://github.com/Gitlawb/openclaude.git"
+    },
+    {
+      "owner": "Imbad0202",
+      "name": "academic-research-skills",
+      "full_name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "total_stars": 44533,
+      "stars_today": 161,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "clone_url": "https://github.com/Imbad0202/academic-research-skills.git"
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "total_stars": 28728,
+      "stars_today": 2824,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "clone_url": "https://github.com/THU-MAIC/OpenMAIC.git"
+    },
+    {
+      "owner": "iv-org",
+      "name": "invidious",
+      "full_name": "iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "total_stars": 23618,
+      "stars_today": 583,
+      "url": "https://github.com/iv-org/invidious",
+      "clone_url": "https://github.com/iv-org/invidious.git"
+    },
+    {
+      "owner": "jingyaogong",
+      "name": "minimind",
+      "full_name": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "total_stars": 56701,
+      "stars_today": 495,
+      "url": "https://github.com/jingyaogong/minimind",
+      "clone_url": "https://github.com/jingyaogong/minimind.git"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 12968,
+      "stars_today": 509,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "3b1b",
+      "name": "manim",
+      "full_name": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "total_stars": 92363,
+      "stars_today": 74,
+      "url": "https://github.com/3b1b/manim",
+      "clone_url": "https://github.com/3b1b/manim.git"
+    },
+    {
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "full_name": "firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "total_stars": 17652,
+      "stars_today": 228,
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "clone_url": "https://github.com/firecrawl/pdf-inspector.git"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "total_stars": 22539,
+      "stars_today": 591,
+      "url": "https://github.com/browser-use/video-use",
+      "clone_url": "https://github.com/browser-use/video-use.git"
+    },
+    {
+      "owner": "K-Dense-AI",
+      "name": "scientific-agent-skills",
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "total_stars": 41211,
+      "stars_today": 1980,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "clone_url": "https://github.com/K-Dense-AI/scientific-agent-skills.git"
+    },
+    {
+      "owner": "handsomestWei",
+      "name": "patent-disclosure-skill",
+      "full_name": "handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "total_stars": 6563,
+      "stars_today": 571,
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "clone_url": "https://github.com/handsomestWei/patent-disclosure-skill.git"
+    },
+    {
+      "owner": "VoltAgent",
+      "name": "awesome-design-md",
+      "full_name": "VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": null,
+      "total_stars": 112216,
+      "stars_today": 487,
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "clone_url": "https://github.com/VoltAgent/awesome-design-md.git"
+    },
+    {
+      "owner": "averygan",
+      "name": "reclip",
+      "full_name": "averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "total_stars": 7335,
+      "stars_today": 21,
+      "url": "https://github.com/averygan/reclip",
+      "clone_url": "https://github.com/averygan/reclip.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 245498,
+      "stars_today": 512,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "unclecode",
+      "name": "crawl4ai",
+      "full_name": "unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "total_stars": 80653,
+      "stars_today": 516,
+      "url": "https://github.com/unclecode/crawl4ai",
+      "clone_url": "https://github.com/unclecode/crawl4ai.git"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "Python": 222,
+  "Python": 224,
   "TypeScript": 149,
   "Rust": 54,
   "JavaScript": 51,
@@ -21,6 +21,7 @@
   "Clojure": 2,
   "Ruby": 2,
   "Elixir": 2,
+  "HLSL": 1,
   "Crystal": 1,
   "Nim": 1,
   "Mojo": 1,

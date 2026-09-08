@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-08",
+  "scraped_at": "2026-09-08T10:41:25.234Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "total_stars": 27938,
+      "stars_today": 422,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "clone_url": "https://github.com/ayghri/i-have-adhd.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 33575,
+      "stars_today": 1070,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "openai",
+      "name": "skills",
+      "full_name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "total_stars": 26268,
+      "stars_today": 351,
+      "url": "https://github.com/openai/skills",
+      "clone_url": "https://github.com/openai/skills.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 253529,
+      "stars_today": 1897,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "total_stars": 47261,
+      "stars_today": 474,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "clone_url": "https://github.com/heygen-com/hyperframes.git"
+    },
+    {
+      "owner": "coreyhaines31",
+      "name": "marketingskills",
+      "full_name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "total_stars": 48446,
+      "stars_today": 580,
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "clone_url": "https://github.com/coreyhaines31/marketingskills.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 283023,
+      "stars_today": 446,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 211041,
+      "stars_today": 325,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "markitdown",
+      "full_name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "total_stars": 181203,
+      "stars_today": 886,
+      "url": "https://github.com/microsoft/markitdown",
+      "clone_url": "https://github.com/microsoft/markitdown.git"
+    },
+    {
+      "owner": "jo-inc",
+      "name": "camofox-browser",
+      "full_name": "jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "total_stars": 10139,
+      "stars_today": 135,
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "clone_url": "https://github.com/jo-inc/camofox-browser.git"
+    },
+    {
+      "owner": "MoonTechLab",
+      "name": "LunaTV",
+      "full_name": "MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "TypeScript",
+      "total_stars": 10055,
+      "stars_today": 197,
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "clone_url": "https://github.com/MoonTechLab/LunaTV.git"
+    },
+    {
+      "owner": "browser-use",
+      "name": "browser-use",
+      "full_name": "browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "total_stars": 113028,
+      "stars_today": 330,
+      "url": "https://github.com/browser-use/browser-use",
+      "clone_url": "https://github.com/browser-use/browser-use.git"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "total_stars": 21171,
+      "stars_today": 96,
+      "url": "https://github.com/mksglu/context-mode",
+      "clone_url": "https://github.com/mksglu/context-mode.git"
+    },
+    {
+      "owner": "The-Swarm-Corporation",
+      "name": "AutoHedge",
+      "full_name": "The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "total_stars": 5458,
+      "stars_today": 517,
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "clone_url": "https://github.com/The-Swarm-Corporation/AutoHedge.git"
+    },
+    {
+      "owner": "viarotel-org",
+      "name": "escrcpy",
+      "full_name": "viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "total_stars": 11166,
+      "stars_today": 173,
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "clone_url": "https://github.com/viarotel-org/escrcpy.git"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "total_stars": 5515,
+      "stars_today": 45,
+      "url": "https://github.com/openai/plugins",
+      "clone_url": "https://github.com/openai/plugins.git"
+    }
+  ]
+}

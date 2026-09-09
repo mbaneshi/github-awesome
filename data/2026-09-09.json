@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-09",
+  "scraped_at": "2026-09-09T10:50:22.709Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "total_stars": 32455,
+      "stars_today": 656,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "clone_url": "https://github.com/ayghri/i-have-adhd.git"
+    },
+    {
+      "owner": "Tencent",
+      "name": "teamai-cli",
+      "full_name": "Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "total_stars": 2603,
+      "stars_today": 1083,
+      "url": "https://github.com/Tencent/teamai-cli",
+      "clone_url": "https://github.com/Tencent/teamai-cli.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 283669,
+      "stars_today": 452,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "pascalorg",
+      "name": "editor",
+      "full_name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "total_stars": 22638,
+      "stars_today": 442,
+      "url": "https://github.com/pascalorg/editor",
+      "clone_url": "https://github.com/pascalorg/editor.git"
+    },
+    {
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "full_name": "earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "Python",
+      "total_stars": 14813,
+      "stars_today": 97,
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "clone_url": "https://github.com/earthtojake/text-to-cad.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 35949,
+      "stars_today": 710,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "total_stars": 103518,
+      "stars_today": 506,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "clone_url": "https://github.com/TauricResearch/TradingAgents.git"
+    },
+    {
+      "owner": "liquidslr",
+      "name": "system-design-notes",
+      "full_name": "liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": null,
+      "total_stars": 17431,
+      "stars_today": 910,
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "clone_url": "https://github.com/liquidslr/system-design-notes.git"
+    },
+    {
+      "owner": "openai",
+      "name": "plugins",
+      "full_name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "total_stars": 6047,
+      "stars_today": 105,
+      "url": "https://github.com/openai/plugins",
+      "clone_url": "https://github.com/openai/plugins.git"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "total_stars": 29539,
+      "stars_today": 612,
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "clone_url": "https://github.com/freestylefly/awesome-gpt-image-2.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 53307,
+      "stars_today": 356,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "full_name": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "total_stars": 1409,
+      "stars_today": 393,
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "clone_url": "https://github.com/vastsa/PI-Desktop.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 254710,
+      "stars_today": 1427,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    }
+  ]
+}

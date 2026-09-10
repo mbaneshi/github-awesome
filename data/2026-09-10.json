@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-10",
+  "scraped_at": "2026-09-10T10:44:19.717Z",
+  "count": 16,
+  "repos": [
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "total_stars": 36331,
+      "stars_today": 4650,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "clone_url": "https://github.com/ayghri/i-have-adhd.git"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "total_stars": 21945,
+      "stars_today": 1588,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "clone_url": "https://github.com/bilawalsidhu/gods-eye-view.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 284354,
+      "stars_today": 688,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "alsk1992",
+      "name": "CloddsBot",
+      "full_name": "alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "total_stars": 1288,
+      "stars_today": 299,
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "clone_url": "https://github.com/alsk1992/CloddsBot.git"
+    },
+    {
+      "owner": "Tencent",
+      "name": "teamai-cli",
+      "full_name": "Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "total_stars": 3441,
+      "stars_today": 556,
+      "url": "https://github.com/Tencent/teamai-cli",
+      "clone_url": "https://github.com/Tencent/teamai-cli.git"
+    },
+    {
+      "owner": "AlexsJones",
+      "name": "llmfit",
+      "full_name": "AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "total_stars": 35478,
+      "stars_today": 247,
+      "url": "https://github.com/AlexsJones/llmfit",
+      "clone_url": "https://github.com/AlexsJones/llmfit.git"
+    },
+    {
+      "owner": "liquidslr",
+      "name": "system-design-notes",
+      "full_name": "liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": null,
+      "total_stars": 18390,
+      "stars_today": 1397,
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "clone_url": "https://github.com/liquidslr/system-design-notes.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 37193,
+      "stars_today": 2249,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "freestylefly",
+      "name": "awesome-gpt-image-2",
+      "full_name": "freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "language": "JavaScript",
+      "total_stars": 30556,
+      "stars_today": 705,
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "clone_url": "https://github.com/freestylefly/awesome-gpt-image-2.git"
+    },
+    {
+      "owner": "armory3d",
+      "name": "armorpaint",
+      "full_name": "armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "total_stars": 4229,
+      "stars_today": 73,
+      "url": "https://github.com/armory3d/armorpaint",
+      "clone_url": "https://github.com/armory3d/armorpaint.git"
+    },
+    {
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "full_name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "language": "TypeScript",
+      "total_stars": 63756,
+      "stars_today": 591,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "clone_url": "https://github.com/diegosouzapw/OmniRoute.git"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "total_stars": 27268,
+      "stars_today": 157,
+      "url": "https://github.com/JustVugg/colibri",
+      "clone_url": "https://github.com/JustVugg/colibri.git"
+    },
+    {
+      "owner": "THU-MAIC",
+      "name": "OpenMAIC",
+      "full_name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "total_stars": 34863,
+      "stars_today": 806,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "clone_url": "https://github.com/THU-MAIC/OpenMAIC.git"
+    },
+    {
+      "owner": "nashsu",
+      "name": "llm_wiki",
+      "full_name": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "total_stars": 17784,
+      "stars_today": 94,
+      "url": "https://github.com/nashsu/llm_wiki",
+      "clone_url": "https://github.com/nashsu/llm_wiki.git"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "total_stars": 30854,
+      "stars_today": 125,
+      "url": "https://github.com/vercel-labs/skills",
+      "clone_url": "https://github.com/vercel-labs/skills.git"
+    },
+    {
+      "owner": "vastsa",
+      "name": "PI-Desktop",
+      "full_name": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "total_stars": 2015,
+      "stars_today": 417,
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "clone_url": "https://github.com/vastsa/PI-Desktop.git"
+    }
+  ]
+}

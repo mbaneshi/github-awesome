@@ -1,5 +1,5 @@
 {
-  "Python": 232,
+  "Python": 233,
   "TypeScript": 159,
   "Rust": 56,
   "JavaScript": 53,
@@ -11,8 +11,8 @@
   "Shell": 14,
   "HTML": 14,
   "C#": 13,
+  "Swift": 11,
   "Kotlin": 10,
-  "Swift": 10,
   "Dart": 5,
   "PowerShell": 3,
   "CSS": 3,

@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-17",
+  "scraped_at": "2026-09-17T11:04:20.301Z",
+  "count": 20,
+  "repos": [
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "total_stars": 33437,
+      "stars_today": 3231,
+      "url": "https://github.com/alibaba/open-code-review",
+      "clone_url": "https://github.com/alibaba/open-code-review.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 8903,
+      "stars_today": 927,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 95751,
+      "stars_today": 658,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "full_name": "Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "total_stars": 3532,
+      "stars_today": 1350,
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "clone_url": "https://github.com/Tencent/BrowserSkill.git"
+    },
+    {
+      "owner": "alphaXiv",
+      "name": "OpenResearch",
+      "full_name": "alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "total_stars": 4811,
+      "stars_today": 1017,
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "clone_url": "https://github.com/alphaXiv/OpenResearch.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "total_stars": 145746,
+      "stars_today": 165,
+      "url": "https://github.com/anthropics/claude-code",
+      "clone_url": "https://github.com/anthropics/claude-code.git"
+    },
+    {
+      "owner": "NationalSecurityAgency",
+      "name": "ghidra",
+      "full_name": "NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "total_stars": 78155,
+      "stars_today": 1059,
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "clone_url": "https://github.com/NationalSecurityAgency/ghidra.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "total_stars": 24415,
+      "stars_today": 110,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "clone_url": "https://github.com/anthropics/knowledge-work-plugins.git"
+    },
+    {
+      "owner": "Tencent",
+      "name": "WeKnora",
+      "full_name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "total_stars": 25903,
+      "stars_today": 1197,
+      "url": "https://github.com/Tencent/WeKnora",
+      "clone_url": "https://github.com/Tencent/WeKnora.git"
+    },
+    {
+      "owner": "abue-ammar",
+      "name": "tinycast",
+      "full_name": "abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "total_stars": 5896,
+      "stars_today": 1179,
+      "url": "https://github.com/abue-ammar/tinycast",
+      "clone_url": "https://github.com/abue-ammar/tinycast.git"
+    },
+    {
+      "owner": "cilium",
+      "name": "cilium",
+      "full_name": "cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "total_stars": 25254,
+      "stars_today": 20,
+      "url": "https://github.com/cilium/cilium",
+      "clone_url": "https://github.com/cilium/cilium.git"
+    },
+    {
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "full_name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "total_stars": 54708,
+      "stars_today": 417,
+      "url": "https://github.com/jamiepine/voicebox",
+      "clone_url": "https://github.com/jamiepine/voicebox.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 260764,
+      "stars_today": 1057,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "roboflow",
+      "name": "supervision",
+      "full_name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "total_stars": 50729,
+      "stars_today": 260,
+      "url": "https://github.com/roboflow/supervision",
+      "clone_url": "https://github.com/roboflow/supervision.git"
+    },
+    {
+      "owner": "JustVugg",
+      "name": "colibri",
+      "full_name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "total_stars": 35385,
+      "stars_today": 1546,
+      "url": "https://github.com/JustVugg/colibri",
+      "clone_url": "https://github.com/JustVugg/colibri.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "full_name": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "total_stars": 3190,
+      "stars_today": 396,
+      "url": "https://github.com/TencentCloud/Octop",
+      "clone_url": "https://github.com/TencentCloud/Octop.git"
+    },
+    {
+      "owner": "ever-co",
+      "name": "ever-gauzy",
+      "full_name": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "total_stars": 7516,
+      "stars_today": 778,
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "clone_url": "https://github.com/ever-co/ever-gauzy.git"
+    },
+    {
+      "owner": "cline",
+      "name": "cline",
+      "full_name": "cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "total_stars": 68523,
+      "stars_today": 112,
+      "url": "https://github.com/cline/cline",
+      "clone_url": "https://github.com/cline/cline.git"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "total_stars": 14666,
+      "stars_today": 83,
+      "url": "https://github.com/coder/coder",
+      "clone_url": "https://github.com/coder/coder.git"
+    },
+    {
+      "owner": "n8n-io",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "total_stars": 204755,
+      "stars_today": 225,
+      "url": "https://github.com/n8n-io/n8n",
+      "clone_url": "https://github.com/n8n-io/n8n.git"
+    }
+  ]
+}

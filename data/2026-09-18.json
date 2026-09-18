@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-18",
+  "scraped_at": "2026-09-18T10:39:43.271Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 11656,
+      "stars_today": 3607,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "total_stars": 146028,
+      "stars_today": 538,
+      "url": "https://github.com/anthropics/claude-code",
+      "clone_url": "https://github.com/anthropics/claude-code.git"
+    },
+    {
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "full_name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "total_stars": 36071,
+      "stars_today": 3286,
+      "url": "https://github.com/alibaba/open-code-review",
+      "clone_url": "https://github.com/alibaba/open-code-review.git"
+    },
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 261493,
+      "stars_today": 1171,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "Tencent",
+      "name": "BrowserSkill",
+      "full_name": "Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "total_stars": 4808,
+      "stars_today": 1302,
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "clone_url": "https://github.com/Tencent/BrowserSkill.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 96128,
+      "stars_today": 680,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "TencentCloud",
+      "name": "Octop",
+      "full_name": "TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "total_stars": 3751,
+      "stars_today": 367,
+      "url": "https://github.com/TencentCloud/Octop",
+      "clone_url": "https://github.com/TencentCloud/Octop.git"
+    },
+    {
+      "owner": "Fission-AI",
+      "name": "OpenSpec",
+      "full_name": "Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "total_stars": 69044,
+      "stars_today": 298,
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "clone_url": "https://github.com/Fission-AI/OpenSpec.git"
+    },
+    {
+      "owner": "ankitects",
+      "name": "anki",
+      "full_name": "ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "total_stars": 31038,
+      "stars_today": 430,
+      "url": "https://github.com/ankitects/anki",
+      "clone_url": "https://github.com/ankitects/anki.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "total_stars": 24701,
+      "stars_today": 287,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "clone_url": "https://github.com/anthropics/knowledge-work-plugins.git"
+    },
+    {
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "full_name": "supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "total_stars": 30003,
+      "stars_today": 140,
+      "url": "https://github.com/supermemoryai/supermemory",
+      "clone_url": "https://github.com/supermemoryai/supermemory.git"
+    },
+    {
+      "owner": "tradesdontlie",
+      "name": "tradingview-mcp",
+      "full_name": "tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "total_stars": 6327,
+      "stars_today": 64,
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "clone_url": "https://github.com/tradesdontlie/tradingview-mcp.git"
+    },
+    {
+      "owner": "rustfs",
+      "name": "rustfs",
+      "full_name": "rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "total_stars": 32904,
+      "stars_today": 559,
+      "url": "https://github.com/rustfs/rustfs",
+      "clone_url": "https://github.com/rustfs/rustfs.git"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "total_stars": 109943,
+      "stars_today": 586,
+      "url": "https://github.com/supabase/supabase",
+      "clone_url": "https://github.com/supabase/supabase.git"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "total_stars": 15021,
+      "stars_today": 145,
+      "url": "https://github.com/coder/coder",
+      "clone_url": "https://github.com/coder/coder.git"
+    },
+    {
+      "owner": "ahmedkhaleel2004",
+      "name": "gitdiagram",
+      "full_name": "ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "total_stars": 16225,
+      "stars_today": 145,
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "clone_url": "https://github.com/ahmedkhaleel2004/gitdiagram.git"
+    },
+    {
+      "owner": "asciimoo",
+      "name": "hister",
+      "full_name": "asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "total_stars": 4618,
+      "stars_today": 842,
+      "url": "https://github.com/asciimoo/hister",
+      "clone_url": "https://github.com/asciimoo/hister.git"
+    }
+  ]
+}

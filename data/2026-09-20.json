@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-20",
+  "scraped_at": "2026-09-20T10:44:04.418Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "affaan-m",
+      "name": "ECC",
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "total_stars": 263205,
+      "stars_today": 1012,
+      "url": "https://github.com/affaan-m/ECC",
+      "clone_url": "https://github.com/affaan-m/ECC.git"
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "total_stars": 4951,
+      "stars_today": 89,
+      "url": "https://github.com/BuilderIO/agent-native",
+      "clone_url": "https://github.com/BuilderIO/agent-native.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 17334,
+      "stars_today": 3155,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "total_stars": 24834,
+      "stars_today": 859,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "total_stars": 35169,
+      "stars_today": 236,
+      "url": "https://github.com/anthropics/financial-services",
+      "clone_url": "https://github.com/anthropics/financial-services.git"
+    },
+    {
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "full_name": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "total_stars": 45330,
+      "stars_today": 32,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "clone_url": "https://github.com/paperless-ngx/paperless-ngx.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code",
+      "full_name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "total_stars": 146876,
+      "stars_today": 483,
+      "url": "https://github.com/anthropics/claude-code",
+      "clone_url": "https://github.com/anthropics/claude-code.git"
+    },
+    {
+      "owner": "mihail911",
+      "name": "modern-software-dev-assignments",
+      "full_name": "mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "language": "Python",
+      "total_stars": 4395,
+      "stars_today": 174,
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "clone_url": "https://github.com/mihail911/modern-software-dev-assignments.git"
+    },
+    {
+      "owner": "higgsfield-ai",
+      "name": "higgsfield",
+      "full_name": "higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "total_stars": 5116,
+      "stars_today": 196,
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "clone_url": "https://github.com/higgsfield-ai/higgsfield.git"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "total_stars": 16415,
+      "stars_today": 472,
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "clone_url": "https://github.com/Open-Dev-Society/OpenStock.git"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "total_stars": 15787,
+      "stars_today": 402,
+      "url": "https://github.com/coder/coder",
+      "clone_url": "https://github.com/coder/coder.git"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "json-render",
+      "full_name": "vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "language": "TypeScript",
+      "total_stars": 16938,
+      "stars_today": 585,
+      "url": "https://github.com/vercel-labs/json-render",
+      "clone_url": "https://github.com/vercel-labs/json-render.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 97360,
+      "stars_today": 556,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    }
+  ]
+}

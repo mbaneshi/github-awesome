@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-21",
+  "scraped_at": "2026-09-21T12:07:53.388Z",
+  "count": 12,
+  "repos": [
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "total_stars": 5578,
+      "stars_today": 98,
+      "url": "https://github.com/BuilderIO/agent-native",
+      "clone_url": "https://github.com/BuilderIO/agent-native.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "total_stars": 25470,
+      "stars_today": 1018,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "total_stars": 17276,
+      "stars_today": 755,
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "clone_url": "https://github.com/Open-Dev-Society/OpenStock.git"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "total_stars": 7407,
+      "stars_today": 114,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "clone_url": "https://github.com/akitaonrails/ai-memory.git"
+    },
+    {
+      "owner": "coder",
+      "name": "coder",
+      "full_name": "coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "total_stars": 16267,
+      "stars_today": 379,
+      "url": "https://github.com/coder/coder",
+      "clone_url": "https://github.com/coder/coder.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "total_stars": 35615,
+      "stars_today": 260,
+      "url": "https://github.com/anthropics/financial-services",
+      "clone_url": "https://github.com/anthropics/financial-services.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "quiche",
+      "full_name": "cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "total_stars": 12158,
+      "stars_today": 242,
+      "url": "https://github.com/cloudflare/quiche",
+      "clone_url": "https://github.com/cloudflare/quiche.git"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "total_stars": 13358,
+      "stars_today": 177,
+      "url": "https://github.com/mvt-project/mvt",
+      "clone_url": "https://github.com/mvt-project/mvt.git"
+    },
+    {
+      "owner": "zhouxiaoka",
+      "name": "autoclip",
+      "full_name": "zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "total_stars": 7993,
+      "stars_today": 395,
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "clone_url": "https://github.com/zhouxiaoka/autoclip.git"
+    },
+    {
+      "owner": "ruanyf",
+      "name": "weekly",
+      "full_name": "ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": null,
+      "total_stars": 103768,
+      "stars_today": 621,
+      "url": "https://github.com/ruanyf/weekly",
+      "clone_url": "https://github.com/ruanyf/weekly.git"
+    },
+    {
+      "owner": "Crosstalk-Solutions",
+      "name": "project-nomad",
+      "full_name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "total_stars": 37569,
+      "stars_today": 360,
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "clone_url": "https://github.com/Crosstalk-Solutions/project-nomad.git"
+    },
+    {
+      "owner": "yynxxxxx",
+      "name": "Codex-X",
+      "full_name": "yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "total_stars": 3584,
+      "stars_today": 210,
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "clone_url": "https://github.com/yynxxxxx/Codex-X.git"
+    }
+  ]
+}

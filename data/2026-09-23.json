@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-23",
+  "scraped_at": "2026-09-23T10:52:19.730Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "total_stars": 36667,
+      "stars_today": 438,
+      "url": "https://github.com/anthropics/financial-services",
+      "clone_url": "https://github.com/anthropics/financial-services.git"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "full_name": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "total_stars": 8243,
+      "stars_today": 2305,
+      "url": "https://github.com/google/ax",
+      "clone_url": "https://github.com/google/ax.git"
+    },
+    {
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "full_name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "total_stars": 31292,
+      "stars_today": 64,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "clone_url": "https://github.com/davila7/claude-code-templates.git"
+    },
+    {
+      "owner": "BuilderIO",
+      "name": "agent-native",
+      "full_name": "BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "total_stars": 6353,
+      "stars_today": 609,
+      "url": "https://github.com/BuilderIO/agent-native",
+      "clone_url": "https://github.com/BuilderIO/agent-native.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 290407,
+      "stars_today": 528,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "total_stars": 16020,
+      "stars_today": 255,
+      "url": "https://github.com/dream-num/univer",
+      "clone_url": "https://github.com/dream-num/univer.git"
+    },
+    {
+      "owner": "Open-Dev-Society",
+      "name": "OpenStock",
+      "full_name": "Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "total_stars": 18518,
+      "stars_today": 832,
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "clone_url": "https://github.com/Open-Dev-Society/OpenStock.git"
+    },
+    {
+      "owner": "agent-substrate",
+      "name": "substrate",
+      "full_name": "agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "total_stars": 3220,
+      "stars_today": 245,
+      "url": "https://github.com/agent-substrate/substrate",
+      "clone_url": "https://github.com/agent-substrate/substrate.git"
+    },
+    {
+      "owner": "strands-agents",
+      "name": "harness-sdk",
+      "full_name": "strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "total_stars": 7595,
+      "stars_today": 101,
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "clone_url": "https://github.com/strands-agents/harness-sdk.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "total_stars": 49721,
+      "stars_today": 43,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "clone_url": "https://github.com/HKUDS/CLI-Anything.git"
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "full_name": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "total_stars": 2455,
+      "stars_today": 230,
+      "url": "https://github.com/superdesigndev/treg",
+      "clone_url": "https://github.com/superdesigndev/treg.git"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "total_stars": 70040,
+      "stars_today": 296,
+      "url": "https://github.com/pbakaus/impeccable",
+      "clone_url": "https://github.com/pbakaus/impeccable.git"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "total_stars": 14314,
+      "stars_today": 441,
+      "url": "https://github.com/mvt-project/mvt",
+      "clone_url": "https://github.com/mvt-project/mvt.git"
+    },
+    {
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "full_name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "total_stars": 44267,
+      "stars_today": 201,
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "clone_url": "https://github.com/DeusData/codebase-memory-mcp.git"
+    },
+    {
+      "owner": "harry7557558",
+      "name": "spirula-studio",
+      "full_name": "harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "language": "C++",
+      "total_stars": 614,
+      "stars_today": 86,
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "clone_url": "https://github.com/harry7557558/spirula-studio.git"
+    },
+    {
+      "owner": "browser-use",
+      "name": "video-use",
+      "full_name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "total_stars": 26208,
+      "stars_today": 191,
+      "url": "https://github.com/browser-use/video-use",
+      "clone_url": "https://github.com/browser-use/video-use.git"
+    },
+    {
+      "owner": "TNT-Likely",
+      "name": "PanWatch",
+      "full_name": "TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "language": "Python",
+      "total_stars": 1345,
+      "stars_today": 175,
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "clone_url": "https://github.com/TNT-Likely/PanWatch.git"
+    }
+  ]
+}

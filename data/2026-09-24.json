@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-24",
+  "scraped_at": "2026-09-24T11:12:11.565Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 55874,
+      "stars_today": 310,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "total_stars": 26879,
+      "stars_today": 1607,
+      "url": "https://github.com/vectorize-io/hindsight",
+      "clone_url": "https://github.com/vectorize-io/hindsight.git"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "total_stars": 16894,
+      "stars_today": 1142,
+      "url": "https://github.com/dream-num/univer",
+      "clone_url": "https://github.com/dream-num/univer.git"
+    },
+    {
+      "owner": "google",
+      "name": "ax",
+      "full_name": "google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "total_stars": 9648,
+      "stars_today": 1543,
+      "url": "https://github.com/google/ax",
+      "clone_url": "https://github.com/google/ax.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "full_name": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "total_stars": 3871,
+      "stars_today": 22,
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "clone_url": "https://github.com/NVIDIA/Model-Optimizer.git"
+    },
+    {
+      "owner": "FxEmbed",
+      "name": "FxEmbed",
+      "full_name": "FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "language": "TypeScript",
+      "total_stars": 5251,
+      "stars_today": 165,
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "clone_url": "https://github.com/FxEmbed/FxEmbed.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "financial-services",
+      "full_name": "anthropics/financial-services",
+      "description": null,
+      "language": "Python",
+      "total_stars": 37185,
+      "stars_today": 664,
+      "url": "https://github.com/anthropics/financial-services",
+      "clone_url": "https://github.com/anthropics/financial-services.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "CLI-Anything",
+      "full_name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "total_stars": 50130,
+      "stars_today": 57,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "clone_url": "https://github.com/HKUDS/CLI-Anything.git"
+    },
+    {
+      "owner": "mvt-project",
+      "name": "mvt",
+      "full_name": "mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "total_stars": 14594,
+      "stars_today": 543,
+      "url": "https://github.com/mvt-project/mvt",
+      "clone_url": "https://github.com/mvt-project/mvt.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 290965,
+      "stars_today": 474,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "strands-agents",
+      "name": "harness-sdk",
+      "full_name": "strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "total_stars": 8056,
+      "stars_today": 115,
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "clone_url": "https://github.com/strands-agents/harness-sdk.git"
+    },
+    {
+      "owner": "julyx10",
+      "name": "lap",
+      "full_name": "julyx10/lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "language": "Vue",
+      "total_stars": 2666,
+      "stars_today": 71,
+      "url": "https://github.com/julyx10/lap",
+      "clone_url": "https://github.com/julyx10/lap.git"
+    },
+    {
+      "owner": "superdesigndev",
+      "name": "treg",
+      "full_name": "superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "total_stars": 2924,
+      "stars_today": 506,
+      "url": "https://github.com/superdesigndev/treg",
+      "clone_url": "https://github.com/superdesigndev/treg.git"
+    },
+    {
+      "owner": "leejet",
+      "name": "stable-diffusion.cpp",
+      "full_name": "leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "language": "C++",
+      "total_stars": 7137,
+      "stars_today": 33,
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "clone_url": "https://github.com/leejet/stable-diffusion.cpp.git"
+    }
+  ]
+}

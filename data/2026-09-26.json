@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-26",
+  "scraped_at": "2026-09-26T10:53:39.671Z",
+  "count": 15,
+  "repos": [
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "total_stars": 85801,
+      "stars_today": 2109,
+      "url": "https://github.com/paperclipai/paperclip",
+      "clone_url": "https://github.com/paperclipai/paperclip.git"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "total_stars": 30501,
+      "stars_today": 1653,
+      "url": "https://github.com/vectorize-io/hindsight",
+      "clone_url": "https://github.com/vectorize-io/hindsight.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "Model-Optimizer",
+      "full_name": "NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "total_stars": 4577,
+      "stars_today": 359,
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "clone_url": "https://github.com/NVIDIA/Model-Optimizer.git"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "total_stars": 18920,
+      "stars_today": 1050,
+      "url": "https://github.com/dream-num/univer",
+      "clone_url": "https://github.com/dream-num/univer.git"
+    },
+    {
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "total_stars": 200331,
+      "stars_today": 31,
+      "url": "https://github.com/tensorflow/tensorflow",
+      "clone_url": "https://github.com/tensorflow/tensorflow.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 57856,
+      "stars_today": 1177,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "openbao",
+      "name": "openbao",
+      "full_name": "openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "total_stars": 7869,
+      "stars_today": 49,
+      "url": "https://github.com/openbao/openbao",
+      "clone_url": "https://github.com/openbao/openbao.git"
+    },
+    {
+      "owner": "block",
+      "name": "buzz",
+      "full_name": "block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "total_stars": 34660,
+      "stars_today": 175,
+      "url": "https://github.com/block/buzz",
+      "clone_url": "https://github.com/block/buzz.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "vscode",
+      "full_name": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "total_stars": 192948,
+      "stars_today": 78,
+      "url": "https://github.com/microsoft/vscode",
+      "clone_url": "https://github.com/microsoft/vscode.git"
+    },
+    {
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "full_name": "zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "total_stars": 37694,
+      "stars_today": 409,
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "clone_url": "https://github.com/zhaoxuya520/reverse-skill.git"
+    },
+    {
+      "owner": "llvm",
+      "name": "llvm-project",
+      "full_name": "llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "total_stars": 40680,
+      "stars_today": 29,
+      "url": "https://github.com/llvm/llvm-project",
+      "clone_url": "https://github.com/llvm/llvm-project.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-code-action",
+      "full_name": "anthropics/claude-code-action",
+      "description": null,
+      "language": "TypeScript",
+      "total_stars": 8955,
+      "stars_today": 15,
+      "url": "https://github.com/anthropics/claude-code-action",
+      "clone_url": "https://github.com/anthropics/claude-code-action.git"
+    },
+    {
+      "owner": "actions",
+      "name": "runner-images",
+      "full_name": "actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "total_stars": 13204,
+      "stars_today": 13,
+      "url": "https://github.com/actions/runner-images",
+      "clone_url": "https://github.com/actions/runner-images.git"
+    },
+    {
+      "owner": "mobile-next",
+      "name": "mobile-mcp",
+      "full_name": "mobile-next/mobile-mcp",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "language": "TypeScript",
+      "total_stars": 7041,
+      "stars_today": 143,
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "clone_url": "https://github.com/mobile-next/mobile-mcp.git"
+    },
+    {
+      "owner": "vercel",
+      "name": "next.js",
+      "full_name": "vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "total_stars": 142448,
+      "stars_today": 31,
+      "url": "https://github.com/vercel/next.js",
+      "clone_url": "https://github.com/vercel/next.js.git"
+    }
+  ]
+}

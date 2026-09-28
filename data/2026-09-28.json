@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-28",
+  "scraped_at": "2026-09-28T13:02:52.991Z",
+  "count": 8,
+  "repos": [
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 41932,
+      "stars_today": 3086,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "total_stars": 91697,
+      "stars_today": 2401,
+      "url": "https://github.com/paperclipai/paperclip",
+      "clone_url": "https://github.com/paperclipai/paperclip.git"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "total_stars": 39661,
+      "stars_today": 4520,
+      "url": "https://github.com/vectorize-io/hindsight",
+      "clone_url": "https://github.com/vectorize-io/hindsight.git"
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "total_stars": 25616,
+      "stars_today": 145,
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "clone_url": "https://github.com/NawfalMotii79/PLFM_RADAR.git"
+    },
+    {
+      "owner": "cs341-illinois",
+      "name": "coursebook",
+      "full_name": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "total_stars": 2256,
+      "stars_today": 265,
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "clone_url": "https://github.com/cs341-illinois/coursebook.git"
+    },
+    {
+      "owner": "byoungd",
+      "name": "up",
+      "full_name": "byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "total_stars": 64380,
+      "stars_today": 310,
+      "url": "https://github.com/byoungd/up",
+      "clone_url": "https://github.com/byoungd/up.git"
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "total_stars": 1388,
+      "stars_today": 114,
+      "url": "https://github.com/mvschwarz/openrig",
+      "clone_url": "https://github.com/mvschwarz/openrig.git"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "total_stars": 20950,
+      "stars_today": 895,
+      "url": "https://github.com/dream-num/univer",
+      "clone_url": "https://github.com/dream-num/univer.git"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-29",
+  "scraped_at": "2026-09-29T12:13:44.101Z",
+  "count": 14,
+  "repos": [
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 46361,
+      "stars_today": 4712,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "total_stars": 9937,
+      "stars_today": 978,
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "clone_url": "https://github.com/NVIDIA/OpenShell.git"
+    },
+    {
+      "owner": "vectorize-io",
+      "name": "hindsight",
+      "full_name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "total_stars": 41989,
+      "stars_today": 2541,
+      "url": "https://github.com/vectorize-io/hindsight",
+      "clone_url": "https://github.com/vectorize-io/hindsight.git"
+    },
+    {
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "full_name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "total_stars": 93925,
+      "stars_today": 2412,
+      "url": "https://github.com/paperclipai/paperclip",
+      "clone_url": "https://github.com/paperclipai/paperclip.git"
+    },
+    {
+      "owner": "t8y2",
+      "name": "dbx",
+      "full_name": "t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "total_stars": 21645,
+      "stars_today": 460,
+      "url": "https://github.com/t8y2/dbx",
+      "clone_url": "https://github.com/t8y2/dbx.git"
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "total_stars": 2081,
+      "stars_today": 733,
+      "url": "https://github.com/mvschwarz/openrig",
+      "clone_url": "https://github.com/mvschwarz/openrig.git"
+    },
+    {
+      "owner": "oblien",
+      "name": "openship",
+      "full_name": "oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "total_stars": 13566,
+      "stars_today": 436,
+      "url": "https://github.com/oblien/openship",
+      "clone_url": "https://github.com/oblien/openship.git"
+    },
+    {
+      "owner": "averygan",
+      "name": "reclip",
+      "full_name": "averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "total_stars": 9814,
+      "stars_today": 114,
+      "url": "https://github.com/averygan/reclip",
+      "clone_url": "https://github.com/averygan/reclip.git"
+    },
+    {
+      "owner": "cs341-illinois",
+      "name": "coursebook",
+      "full_name": "cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "total_stars": 2807,
+      "stars_today": 569,
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "clone_url": "https://github.com/cs341-illinois/coursebook.git"
+    },
+    {
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "total_stars": 60823,
+      "stars_today": 1287,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "clone_url": "https://github.com/rohitg00/ai-engineering-from-scratch.git"
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "total_stars": 36749,
+      "stars_today": 822,
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "clone_url": "https://github.com/VectifyAI/PageIndex.git"
+    },
+    {
+      "owner": "willfaust",
+      "name": "Madeira",
+      "full_name": "willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "total_stars": 1022,
+      "stars_today": 229,
+      "url": "https://github.com/willfaust/Madeira",
+      "clone_url": "https://github.com/willfaust/Madeira.git"
+    },
+    {
+      "owner": "dream-num",
+      "name": "univer",
+      "full_name": "dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "total_stars": 21610,
+      "stars_today": 692,
+      "url": "https://github.com/dream-num/univer",
+      "clone_url": "https://github.com/dream-num/univer.git"
+    },
+    {
+      "owner": "rakyll",
+      "name": "hey",
+      "full_name": "rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "language": "Go",
+      "total_stars": 20380,
+      "stars_today": 31,
+      "url": "https://github.com/rakyll/hey",
+      "clone_url": "https://github.com/rakyll/hey.git"
+    }
+  ]
+}

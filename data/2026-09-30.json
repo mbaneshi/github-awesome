@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-30",
+  "scraped_at": "2026-09-30T12:00:06.120Z",
+  "count": 17,
+  "repos": [
+    {
+      "owner": "NVIDIA",
+      "name": "OpenShell",
+      "full_name": "NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "total_stars": 11201,
+      "stars_today": 1280,
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "clone_url": "https://github.com/NVIDIA/OpenShell.git"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 49704,
+      "stars_today": 3481,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "full_name": "mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "total_stars": 2690,
+      "stars_today": 622,
+      "url": "https://github.com/mvschwarz/openrig",
+      "clone_url": "https://github.com/mvschwarz/openrig.git"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "total_stars": 24293,
+      "stars_today": 88,
+      "url": "https://github.com/mksglu/context-mode",
+      "clone_url": "https://github.com/mksglu/context-mode.git"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "total_stars": 148594,
+      "stars_today": 675,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "clone_url": "https://github.com/DietrichGebert/ponytail.git"
+    },
+    {
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "total_stars": 127247,
+      "stars_today": 338,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "clone_url": "https://github.com/harry0703/MoneyPrinterTurbo.git"
+    },
+    {
+      "owner": "openclaw",
+      "name": "openclaw",
+      "full_name": "openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "total_stars": 390825,
+      "stars_today": 136,
+      "url": "https://github.com/openclaw/openclaw",
+      "clone_url": "https://github.com/openclaw/openclaw.git"
+    },
+    {
+      "owner": "ComposioHQ",
+      "name": "awesome-claude-skills",
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "total_stars": 75949,
+      "stars_today": 118,
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "clone_url": "https://github.com/ComposioHQ/awesome-claude-skills.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 272553,
+      "stars_today": 736,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "full_name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "total_stars": 54406,
+      "stars_today": 324,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "clone_url": "https://github.com/heygen-com/hyperframes.git"
+    },
+    {
+      "owner": "firebase",
+      "name": "firebase-ios-sdk",
+      "full_name": "firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "total_stars": 6698,
+      "stars_today": 4,
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "clone_url": "https://github.com/firebase/firebase-ios-sdk.git"
+    },
+    {
+      "owner": "modelcontextprotocol",
+      "name": "servers",
+      "full_name": "modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "language": "TypeScript",
+      "total_stars": 90706,
+      "stars_today": 48,
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "clone_url": "https://github.com/modelcontextprotocol/servers.git"
+    },
+    {
+      "owner": "byoungd",
+      "name": "up",
+      "full_name": "byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "JavaScript",
+      "total_stars": 66107,
+      "stars_today": 1102,
+      "url": "https://github.com/byoungd/up",
+      "clone_url": "https://github.com/byoungd/up.git"
+    },
+    {
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "full_name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "total_stars": 72441,
+      "stars_today": 116,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "clone_url": "https://github.com/colbymchenry/codegraph.git"
+    },
+    {
+      "owner": "t8y2",
+      "name": "dbx",
+      "full_name": "t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "total_stars": 22777,
+      "stars_today": 1133,
+      "url": "https://github.com/t8y2/dbx",
+      "clone_url": "https://github.com/t8y2/dbx.git"
+    },
+    {
+      "owner": "NawfalMotii79",
+      "name": "PLFM_RADAR",
+      "full_name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "total_stars": 26294,
+      "stars_today": 466,
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "clone_url": "https://github.com/NawfalMotii79/PLFM_RADAR.git"
+    },
+    {
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "full_name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "total_stars": 37803,
+      "stars_today": 1095,
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "clone_url": "https://github.com/VectifyAI/PageIndex.git"
+    }
+  ]
+}

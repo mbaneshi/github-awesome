@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-07",
+  "scraped_at": "2026-10-07T12:44:51.975Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "total_stars": 11769,
+      "stars_today": 4666,
+      "url": "https://github.com/morluto/rea",
+      "clone_url": "https://github.com/morluto/rea.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 278871,
+      "stars_today": 1406,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "total_stars": 8421,
+      "stars_today": 2725,
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "clone_url": "https://github.com/boykopovar/AnyPS5.git"
+    },
+    {
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "full_name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "total_stars": 54731,
+      "stars_today": 620,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "clone_url": "https://github.com/ayghri/i-have-adhd.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 44487,
+      "stars_today": 828,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "full_name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "total_stars": 102379,
+      "stars_today": 453,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "clone_url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    {
+      "owner": "EpicGames",
+      "name": "raddebugger",
+      "full_name": "EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "total_stars": 7719,
+      "stars_today": 82,
+      "url": "https://github.com/EpicGames/raddebugger",
+      "clone_url": "https://github.com/EpicGames/raddebugger.git"
+    },
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "total_stars": 97433,
+      "stars_today": 578,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "clone_url": "https://github.com/thedotmack/claude-mem.git"
+    },
+    {
+      "owner": "manaflow-ai",
+      "name": "cmux",
+      "full_name": "manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "total_stars": 27714,
+      "stars_today": 50,
+      "url": "https://github.com/manaflow-ai/cmux",
+      "clone_url": "https://github.com/manaflow-ai/cmux.git"
+    },
+    {
+      "owner": "trycua",
+      "name": "cua",
+      "full_name": "trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "total_stars": 28573,
+      "stars_today": 229,
+      "url": "https://github.com/trycua/cua",
+      "clone_url": "https://github.com/trycua/cua.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 25637,
+      "stars_today": 538,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "tester-army",
+      "name": "e2e",
+      "full_name": "tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "total_stars": 6948,
+      "stars_today": 1391,
+      "url": "https://github.com/tester-army/e2e",
+      "clone_url": "https://github.com/tester-army/e2e.git"
+    },
+    {
+      "owner": "DuarteSantos8",
+      "name": "openGym",
+      "full_name": "DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "total_stars": 6404,
+      "stars_today": 1494,
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "clone_url": "https://github.com/DuarteSantos8/openGym.git"
+    }
+  ]
+}

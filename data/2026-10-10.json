@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-10",
+  "scraped_at": "2026-10-10T11:59:18.493Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "total_stars": 60521,
+      "stars_today": 25784,
+      "url": "https://github.com/morluto/rea",
+      "clone_url": "https://github.com/morluto/rea.git"
+    },
+    {
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "full_name": "boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "total_stars": 24437,
+      "stars_today": 5831,
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "clone_url": "https://github.com/boykopovar/AnyPS5.git"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "total_stars": 12902,
+      "stars_today": 3217,
+      "url": "https://github.com/storytold/artcraft",
+      "clone_url": "https://github.com/storytold/artcraft.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 48453,
+      "stars_today": 1189,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "total_stars": 26047,
+      "stars_today": 178,
+      "url": "https://github.com/mksglu/context-mode",
+      "clone_url": "https://github.com/mksglu/context-mode.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 283610,
+      "stars_today": 1737,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "flutter",
+      "name": "flutter",
+      "full_name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "total_stars": 179285,
+      "stars_today": 39,
+      "url": "https://github.com/flutter/flutter",
+      "clone_url": "https://github.com/flutter/flutter.git"
+    },
+    {
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "full_name": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "total_stars": 200590,
+      "stars_today": 24,
+      "url": "https://github.com/tensorflow/tensorflow",
+      "clone_url": "https://github.com/tensorflow/tensorflow.git"
+    },
+    {
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "full_name": "hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "language": "Python",
+      "total_stars": 58981,
+      "stars_today": 372,
+      "url": "https://github.com/hugohe3/ppt-master",
+      "clone_url": "https://github.com/hugohe3/ppt-master.git"
+    },
+    {
+      "owner": "pytorch",
+      "name": "pytorch",
+      "full_name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "total_stars": 104028,
+      "stars_today": 81,
+      "url": "https://github.com/pytorch/pytorch",
+      "clone_url": "https://github.com/pytorch/pytorch.git"
+    },
+    {
+      "owner": "huggingface",
+      "name": "transformers",
+      "full_name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "total_stars": 166988,
+      "stars_today": 94,
+      "url": "https://github.com/huggingface/transformers",
+      "clone_url": "https://github.com/huggingface/transformers.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "total_stars": 28577,
+      "stars_today": 626,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "clone_url": "https://github.com/anthropics/knowledge-work-plugins.git"
+    },
+    {
+      "owner": "multica-ai",
+      "name": "andrej-karpathy-skills",
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "total_stars": 217862,
+      "stars_today": 279,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "clone_url": "https://github.com/multica-ai/andrej-karpathy-skills.git"
+    }
+  ]
+}

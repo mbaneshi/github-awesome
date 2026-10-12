@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-12",
+  "scraped_at": "2026-10-12T14:33:57.158Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "total_stars": 137585,
+      "stars_today": 45495,
+      "url": "https://github.com/morluto/rea",
+      "clone_url": "https://github.com/morluto/rea.git"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "total_stars": 52882,
+      "stars_today": 1903,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "clone_url": "https://github.com/bilawalsidhu/gods-eye-view.git"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "total_stars": 26920,
+      "stars_today": 485,
+      "url": "https://github.com/mksglu/context-mode",
+      "clone_url": "https://github.com/mksglu/context-mode.git"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "total_stars": 20346,
+      "stars_today": 4106,
+      "url": "https://github.com/storytold/artcraft",
+      "clone_url": "https://github.com/storytold/artcraft.git"
+    },
+    {
+      "owner": "open-webui",
+      "name": "open-webui",
+      "full_name": "open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Python",
+      "total_stars": 154548,
+      "stars_today": 142,
+      "url": "https://github.com/open-webui/open-webui",
+      "clone_url": "https://github.com/open-webui/open-webui.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 51919,
+      "stars_today": 2100,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "total_stars": 37124,
+      "stars_today": 886,
+      "url": "https://github.com/lyogavin/airllm",
+      "clone_url": "https://github.com/lyogavin/airllm.git"
+    },
+    {
+      "owner": "microsoft",
+      "name": "BitNet",
+      "full_name": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "C++",
+      "total_stars": 40773,
+      "stars_today": 195,
+      "url": "https://github.com/microsoft/BitNet",
+      "clone_url": "https://github.com/microsoft/BitNet.git"
+    },
+    {
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "full_name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "total_stars": 58463,
+      "stars_today": 705,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "clone_url": "https://github.com/Alishahryar1/free-claude-code.git"
+    }
+  ]
+}

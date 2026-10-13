@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-13",
+  "scraped_at": "2026-10-13T13:39:33.915Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "morluto",
+      "name": "rea",
+      "full_name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "total_stars": 190359,
+      "stars_today": 54706,
+      "url": "https://github.com/morluto/rea",
+      "clone_url": "https://github.com/morluto/rea.git"
+    },
+    {
+      "owner": "bilawalsidhu",
+      "name": "gods-eye-view",
+      "full_name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "total_stars": 54662,
+      "stars_today": 1961,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "clone_url": "https://github.com/bilawalsidhu/gods-eye-view.git"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 61700,
+      "stars_today": 1691,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "mksglu",
+      "name": "context-mode",
+      "full_name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "total_stars": 27837,
+      "stars_today": 978,
+      "url": "https://github.com/mksglu/context-mode",
+      "clone_url": "https://github.com/mksglu/context-mode.git"
+    },
+    {
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "full_name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "total_stars": 53518,
+      "stars_today": 1813,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "clone_url": "https://github.com/cathrynlavery/diagram-design.git"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "skills",
+      "full_name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "total_stars": 34193,
+      "stars_today": 187,
+      "url": "https://github.com/vercel-labs/skills",
+      "clone_url": "https://github.com/vercel-labs/skills.git"
+    },
+    {
+      "owner": "lyogavin",
+      "name": "airllm",
+      "full_name": "lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "total_stars": 38034,
+      "stars_today": 1004,
+      "url": "https://github.com/lyogavin/airllm",
+      "clone_url": "https://github.com/lyogavin/airllm.git"
+    },
+    {
+      "owner": "storytold",
+      "name": "artcraft",
+      "full_name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "total_stars": 24255,
+      "stars_today": 4078,
+      "url": "https://github.com/storytold/artcraft",
+      "clone_url": "https://github.com/storytold/artcraft.git"
+    },
+    {
+      "owner": "xtool-org",
+      "name": "xtool",
+      "full_name": "xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "total_stars": 8702,
+      "stars_today": 936,
+      "url": "https://github.com/xtool-org/xtool",
+      "clone_url": "https://github.com/xtool-org/xtool.git"
+    }
+  ]
+}

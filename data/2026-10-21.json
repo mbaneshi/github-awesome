@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-21",
+  "scraped_at": "2026-10-21T11:15:46.566Z",
+  "count": 13,
+  "repos": [
+    {
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "full_name": "MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "total_stars": 62067,
+      "stars_today": 3861,
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "clone_url": "https://github.com/MadsLorentzen/ai-job-search.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 35018,
+      "stars_today": 1712,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "vllm-project",
+      "name": "vllm",
+      "full_name": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "total_stars": 94644,
+      "stars_today": 128,
+      "url": "https://github.com/vllm-project/vllm",
+      "clone_url": "https://github.com/vllm-project/vllm.git"
+    },
+    {
+      "owner": "stablyai",
+      "name": "orca",
+      "full_name": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "total_stars": 100468,
+      "stars_today": 1565,
+      "url": "https://github.com/stablyai/orca",
+      "clone_url": "https://github.com/stablyai/orca.git"
+    },
+    {
+      "owner": "headroomlabs-ai",
+      "name": "headroom",
+      "full_name": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "total_stars": 76963,
+      "stars_today": 549,
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "clone_url": "https://github.com/headroomlabs-ai/headroom.git"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "total_stars": 170623,
+      "stars_today": 1208,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "clone_url": "https://github.com/DietrichGebert/ponytail.git"
+    },
+    {
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "full_name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "total_stars": 141181,
+      "stars_today": 1206,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "clone_url": "https://github.com/Comfy-Org/ComfyUI.git"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "total_stars": 112583,
+      "stars_today": 509,
+      "url": "https://github.com/supabase/supabase",
+      "clone_url": "https://github.com/supabase/supabase.git"
+    },
+    {
+      "owner": "twentyhq",
+      "name": "twenty",
+      "full_name": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "total_stars": 58775,
+      "stars_today": 105,
+      "url": "https://github.com/twentyhq/twenty",
+      "clone_url": "https://github.com/twentyhq/twenty.git"
+    },
+    {
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "full_name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "total_stars": 42564,
+      "stars_today": 733,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "clone_url": "https://github.com/shiyu-coder/Kronos.git"
+    },
+    {
+      "owner": "strelov1",
+      "name": "freehire",
+      "full_name": "strelov1/freehire",
+      "description": "freehire — the open-source search engine for job seekers",
+      "language": "Go",
+      "total_stars": 1993,
+      "stars_today": 405,
+      "url": "https://github.com/strelov1/freehire",
+      "clone_url": "https://github.com/strelov1/freehire.git"
+    },
+    {
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "full_name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "total_stars": 11998,
+      "stars_today": 810,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "clone_url": "https://github.com/akitaonrails/ai-memory.git"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "total_stars": 130863,
+      "stars_today": 802,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "clone_url": "https://github.com/Graphify-Labs/graphify.git"
+    }
+  ]
+}

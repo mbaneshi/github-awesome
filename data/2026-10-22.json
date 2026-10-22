@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-22",
+  "scraped_at": "2026-10-22T11:14:37.496Z",
+  "count": 9,
+  "repos": [
+    {
+      "owner": "php",
+      "name": "php-src",
+      "full_name": "php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "total_stars": 40758,
+      "stars_today": 110,
+      "url": "https://github.com/php/php-src",
+      "clone_url": "https://github.com/php/php-src.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "knowledge-work-plugins",
+      "full_name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "total_stars": 31272,
+      "stars_today": 303,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "clone_url": "https://github.com/anthropics/knowledge-work-plugins.git"
+    },
+    {
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "full_name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "total_stars": 172520,
+      "stars_today": 1949,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "clone_url": "https://github.com/DietrichGebert/ponytail.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 37980,
+      "stars_today": 2979,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "full_name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "total_stars": 132240,
+      "stars_today": 1407,
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "clone_url": "https://github.com/Graphify-Labs/graphify.git"
+    },
+    {
+      "owner": "supabase",
+      "name": "supabase",
+      "full_name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "total_stars": 113257,
+      "stars_today": 504,
+      "url": "https://github.com/supabase/supabase",
+      "clone_url": "https://github.com/supabase/supabase.git"
+    },
+    {
+      "owner": "fastapi",
+      "name": "fastapi",
+      "full_name": "fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "total_stars": 103380,
+      "stars_today": 96,
+      "url": "https://github.com/fastapi/fastapi",
+      "clone_url": "https://github.com/fastapi/fastapi.git"
+    },
+    {
+      "owner": "luongnv89",
+      "name": "claude-howto",
+      "full_name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "total_stars": 42595,
+      "stars_today": 428,
+      "url": "https://github.com/luongnv89/claude-howto",
+      "clone_url": "https://github.com/luongnv89/claude-howto.git"
+    },
+    {
+      "owner": "Meloong-Git",
+      "name": "PCL",
+      "full_name": "Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "total_stars": 8520,
+      "stars_today": 115,
+      "url": "https://github.com/Meloong-Git/PCL",
+      "clone_url": "https://github.com/Meloong-Git/PCL.git"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-25",
+  "scraped_at": "2026-10-25T10:50:07.501Z",
+  "count": 11,
+  "repos": [
+    {
+      "owner": "makecindy",
+      "name": "cindy",
+      "full_name": "makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "total_stars": 4379,
+      "stars_today": 477,
+      "url": "https://github.com/makecindy/cindy",
+      "clone_url": "https://github.com/makecindy/cindy.git"
+    },
+    {
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "full_name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "total_stars": 32745,
+      "stars_today": 455,
+      "url": "https://github.com/Nutlope/hallmark",
+      "clone_url": "https://github.com/Nutlope/hallmark.git"
+    },
+    {
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "full_name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "total_stars": 85559,
+      "stars_today": 1588,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "clone_url": "https://github.com/debpalash/VoiceStudio.git"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "total_stars": 86872,
+      "stars_today": 619,
+      "url": "https://github.com/pbakaus/impeccable",
+      "clone_url": "https://github.com/pbakaus/impeccable.git"
+    },
+    {
+      "owner": "pollen-robotics",
+      "name": "microduck",
+      "full_name": "pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "total_stars": 11256,
+      "stars_today": 319,
+      "url": "https://github.com/pollen-robotics/microduck",
+      "clone_url": "https://github.com/pollen-robotics/microduck.git"
+    },
+    {
+      "owner": "TauricResearch",
+      "name": "TradingAgents",
+      "full_name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "total_stars": 113863,
+      "stars_today": 309,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "clone_url": "https://github.com/TauricResearch/TradingAgents.git"
+    },
+    {
+      "owner": "Renhuai123",
+      "name": "ziwei-doushu",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "total_stars": 7349,
+      "stars_today": 489,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "clone_url": "https://github.com/Renhuai123/ziwei-doushu.git"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "total_stars": 1111,
+      "stars_today": 52,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "clone_url": "https://github.com/JetBrains/thinkrail.git"
+    },
+    {
+      "owner": "coollabsio",
+      "name": "coolify",
+      "full_name": "coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "language": "PHP",
+      "total_stars": 63796,
+      "stars_today": 150,
+      "url": "https://github.com/coollabsio/coolify",
+      "clone_url": "https://github.com/coollabsio/coolify.git"
+    },
+    {
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "full_name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "total_stars": 45691,
+      "stars_today": 2264,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "clone_url": "https://github.com/cloudflare/security-audit-skill.git"
+    },
+    {
+      "owner": "AgriciDaniel",
+      "name": "claude-seo",
+      "full_name": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "total_stars": 20154,
+      "stars_today": 179,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "clone_url": "https://github.com/AgriciDaniel/claude-seo.git"
+    }
+  ]
+}

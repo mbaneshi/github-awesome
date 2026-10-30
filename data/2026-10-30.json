@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-30",
+  "scraped_at": "2026-10-30T12:13:52.360Z",
+  "count": 15,
+  "repos": [
+    {
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "full_name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "total_stars": 105364,
+      "stars_today": 1145,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "clone_url": "https://github.com/thedotmack/claude-mem.git"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "total_stars": 7956,
+      "stars_today": 899,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "clone_url": "https://github.com/milind-soni/OpenMausBot.git"
+    },
+    {
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "full_name": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "total_stars": 96378,
+      "stars_today": 2299,
+      "url": "https://github.com/pbakaus/impeccable",
+      "clone_url": "https://github.com/pbakaus/impeccable.git"
+    },
+    {
+      "owner": "CopilotKit",
+      "name": "OpenBot",
+      "full_name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "total_stars": 8463,
+      "stars_today": 707,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "clone_url": "https://github.com/CopilotKit/OpenBot.git"
+    },
+    {
+      "owner": "Renhuai123",
+      "name": "ziwei-doushu",
+      "full_name": "Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "total_stars": 10767,
+      "stars_today": 1146,
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "clone_url": "https://github.com/Renhuai123/ziwei-doushu.git"
+    },
+    {
+      "owner": "expo",
+      "name": "skills",
+      "full_name": "expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "total_stars": 3791,
+      "stars_today": 233,
+      "url": "https://github.com/expo/skills",
+      "clone_url": "https://github.com/expo/skills.git"
+    },
+    {
+      "owner": "macro-inc",
+      "name": "macro",
+      "full_name": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "total_stars": 5699,
+      "stars_today": 379,
+      "url": "https://github.com/macro-inc/macro",
+      "clone_url": "https://github.com/macro-inc/macro.git"
+    },
+    {
+      "owner": "mattpocock",
+      "name": "skills",
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "total_stars": 307015,
+      "stars_today": 882,
+      "url": "https://github.com/mattpocock/skills",
+      "clone_url": "https://github.com/mattpocock/skills.git"
+    },
+    {
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "full_name": "pingdotgg/t3code",
+      "description": null,
+      "language": "TypeScript",
+      "total_stars": 32287,
+      "stars_today": 920,
+      "url": "https://github.com/pingdotgg/t3code",
+      "clone_url": "https://github.com/pingdotgg/t3code.git"
+    },
+    {
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "full_name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "total_stars": 51274,
+      "stars_today": 2282,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "clone_url": "https://github.com/HKUDS/DeepTutor.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "total_stars": 184954,
+      "stars_today": 287,
+      "url": "https://github.com/anthropics/skills",
+      "clone_url": "https://github.com/anthropics/skills.git"
+    },
+    {
+      "owner": "JetBrains",
+      "name": "thinkrail",
+      "full_name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "total_stars": 6343,
+      "stars_today": 717,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "clone_url": "https://github.com/JetBrains/thinkrail.git"
+    },
+    {
+      "owner": "togg53192-cmd",
+      "name": "jailbreaks",
+      "full_name": "togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "language": null,
+      "total_stars": 9979,
+      "stars_today": 2053,
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "clone_url": "https://github.com/togg53192-cmd/jailbreaks.git"
+    },
+    {
+      "owner": "obra",
+      "name": "superpowers",
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "total_stars": 309093,
+      "stars_today": 1255,
+      "url": "https://github.com/obra/superpowers",
+      "clone_url": "https://github.com/obra/superpowers.git"
+    },
+    {
+      "owner": "lightpanda-io",
+      "name": "browser",
+      "full_name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "total_stars": 37875,
+      "stars_today": 559,
+      "url": "https://github.com/lightpanda-io/browser",
+      "clone_url": "https://github.com/lightpanda-io/browser.git"
+    }
+  ]
+}

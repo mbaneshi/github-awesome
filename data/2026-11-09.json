@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-09",
+  "scraped_at": "2026-11-09T15:20:34.718Z",
+  "count": 11,
+  "repos": [
+    {
+      "owner": "anthropics",
+      "name": "skills",
+      "full_name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "total_stars": 190404,
+      "stars_today": 1052,
+      "url": "https://github.com/anthropics/skills",
+      "clone_url": "https://github.com/anthropics/skills.git"
+    },
+    {
+      "owner": "meta",
+      "name": "astryx",
+      "full_name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "total_stars": 18870,
+      "stars_today": 3324,
+      "url": "https://github.com/meta/astryx",
+      "clone_url": "https://github.com/meta/astryx.git"
+    },
+    {
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "full_name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "total_stars": 106303,
+      "stars_today": 4294,
+      "url": "https://github.com/sherlock-project/sherlock",
+      "clone_url": "https://github.com/sherlock-project/sherlock.git"
+    },
+    {
+      "owner": "google-deepmind",
+      "name": "mujoco",
+      "full_name": "google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "total_stars": 16774,
+      "stars_today": 579,
+      "url": "https://github.com/google-deepmind/mujoco",
+      "clone_url": "https://github.com/google-deepmind/mujoco.git"
+    },
+    {
+      "owner": "anthropics",
+      "name": "claude-quickstarts",
+      "full_name": "anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "total_stars": 19819,
+      "stars_today": 560,
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "clone_url": "https://github.com/anthropics/claude-quickstarts.git"
+    },
+    {
+      "owner": "garrytan",
+      "name": "gbrain",
+      "full_name": "garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "language": "TypeScript",
+      "total_stars": 31949,
+      "stars_today": 215,
+      "url": "https://github.com/garrytan/gbrain",
+      "clone_url": "https://github.com/garrytan/gbrain.git"
+    },
+    {
+      "owner": "vercel-labs",
+      "name": "agent-browser",
+      "full_name": "vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "total_stars": 48228,
+      "stars_today": 914,
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "clone_url": "https://github.com/vercel-labs/agent-browser.git"
+    },
+    {
+      "owner": "ruvnet",
+      "name": "RuView",
+      "full_name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "total_stars": 103237,
+      "stars_today": 203,
+      "url": "https://github.com/ruvnet/RuView",
+      "clone_url": "https://github.com/ruvnet/RuView.git"
+    },
+    {
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "total_stars": 68581,
+      "stars_today": 505,
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "clone_url": "https://github.com/ZhuLinsen/daily_stock_analysis.git"
+    },
+    {
+      "owner": "homeassistant-ai",
+      "name": "ha-mcp",
+      "full_name": "homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "total_stars": 5660,
+      "stars_today": 31,
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "clone_url": "https://github.com/homeassistant-ai/ha-mcp.git"
+    },
+    {
+      "owner": "milind-soni",
+      "name": "OpenMausBot",
+      "full_name": "milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "total_stars": 19350,
+      "stars_today": 1589,
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "clone_url": "https://github.com/milind-soni/OpenMausBot.git"
+    }
+  ]
+}
